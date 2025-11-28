@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "gross-anatomy-1",
+    "question": "Which structure passes through the foramen ovale?",
+    "options": [
+      "Mandibular division of trigeminal nerve (V3)",
+      "Maxillary division of trigeminal nerve (V2)",
+      "Middle meningeal artery",
+      "Facial nerve (VII)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Foramen ovale transmits V3, accessory meningeal artery, and lesser petrosal nerve. V2 passes through foramen rotundum, middle meningeal through foramen spinosum.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-2",
+    "question": "The portal triad in the liver contains all of the following EXCEPT:",
+    "options": [
+      "Portal vein",
+      "Hepatic artery",
+      "Hepatic duct",
+      "Central vein"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The portal triad consists of a branch of the portal vein, hepatic artery, and bile duct (hepatic duct). Central veins are located in the center of hepatic lobules and drain into hepatic veins.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-3",
+    "question": "Which structure passes through the aortic hiatus of the diaphragm?",
+    "options": [
+      "Azygos vein",
+      "Thoracic duct",
+      "Esophagus",
+      "Inferior vena cava"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The aortic hiatus (T12) transmits the aorta, thoracic duct, and azygos vein. The esophageal hiatus (T10) transmits the esophagus and vagal trunks. The IVC hiatus (T8) transmits the inferior vena cava.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 55"
+  },
+  {
+    "id": "gross-anatomy-4",
+    "question": "The carotid sheath contains all of the following EXCEPT:",
+    "options": [
+      "Common carotid artery",
+      "Internal jugular vein",
+      "Vagus nerve",
+      "Sympathetic trunk"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The carotid sheath contains the common/internal carotid artery, internal jugular vein, and vagus nerve. The sympathetic trunk lies posterior to the sheath in the prevertebral fascia.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 29"
+  },
+  {
+    "id": "gross-anatomy-5",
+    "question": "Which nerve runs through the parotid gland?",
+    "options": [
+      "Facial nerve (VII)",
+      "Trigeminal nerve (V)",
+      "Glossopharyngeal nerve (IX)",
+      "Hypoglossal nerve (XII)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The facial nerve passes through the parotid gland, dividing it into superficial and deep lobes, but does not innervate the gland itself (that's by IX via otic ganglion).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-6",
+    "question": "The spleen is located in which abdominal region?",
+    "options": [
+      "Right hypochondriac",
+      "Left hypochondriac",
+      "Epigastric",
+      "Umbilical"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The spleen lies in the left hypochondriac region, deep to ribs 9-11, along the long axis of the 10th rib.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 73"
+  },
+  {
+    "id": "gross-anatomy-7",
+    "question": "Which structure forms the medial boundary of Hesselbach's triangle?",
+    "options": [
+      "Inguinal ligament",
+      "Inferior epigastric vessels",
+      "Lateral border of rectus abdominis",
+      "Pectineal line"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hesselbach's triangle boundaries: laterally by inferior epigastric vessels, medially by lateral border of rectus abdominis, inferiorly by inguinal ligament. Direct hernias occur here.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 61"
+  },
+  {
+    "id": "gross-anatomy-8",
+    "question": "The sinoatrial node is primarily supplied by which artery?",
+    "options": [
+      "Left coronary artery",
+      "Right coronary artery",
+      "Circumflex artery",
+      "Anterior interventricular artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In about 60% of people, the SA node is supplied by the SA nodal branch of the right coronary artery. In 40%, it's supplied by a branch of the circumflex artery.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-9",
+    "question": "Which structure lies in the free edge of the lesser omentum?",
+    "options": [
+      "Portal vein",
+      "Hepatic artery proper",
+      "Common bile duct",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The free edge of the lesser omentum (hepatoduodenal ligament) contains the portal triad: portal vein (posterior), hepatic artery proper (left), and common bile duct (right).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-10",
+    "question": "The vocal cords are located at the level of which cervical vertebra?",
+    "options": [
+      "C3-C4",
+      "C4-C5",
+      "C5-C6",
+      "C6-C7"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The vocal cords (folds) are located at the level of the C5-C6 vertebrae. This is an important landmark for emergency airway procedures.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 37"
+  },
+  {
+    "id": "gross-anatomy-11",
+    "question": "Which muscle separates the subclavian vein from the subclavian artery?",
+    "options": [
+      "Sternocleidomastoid",
+      "Scalenus anterior",
+      "Scalenus medius",
+      "Omohyoid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The scalenus anterior muscle separates the subclavian vein (anterior) from the subclavian artery (posterior) at the thoracic outlet.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 29"
+  },
+  {
+    "id": "gross-anatomy-12",
+    "question": "The most common anatomical variation of the cystic artery is:",
+    "options": [
+      "Anterior to common hepatic duct",
+      "Posterior to common hepatic duct",
+      "Arising from left hepatic artery",
+      "Arising from gastroduodenal artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cystic artery normally arises from the right hepatic artery and passes posterior to the common hepatic duct in about 75% of cases.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-13",
+    "question": "Which structure passes through the foramen magnum?",
+    "options": [
+      "Spinal accessory nerve",
+      "Vertebral arteries",
+      "Hypoglossal nerve",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The foramen magnum transmits the medulla oblongata, meninges, vertebral arteries, anterior and posterior spinal arteries, and the spinal roots of CN XI.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-14",
+    "question": "The right coronary artery supplies which structure?",
+    "options": [
+      "Anterior 2/3 of interventricular septum",
+      "SA node in most people",
+      "Left ventricle lateral wall",
+      "Posterior papillary muscle of left ventricle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The right coronary artery typically supplies the SA node (in 60%), AV node (in 90%), right ventricle, and posterior inferior part of left ventricle.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-15",
+    "question": "Which structure is retroperitoneal?",
+    "options": [
+      "Stomach",
+      "Jejunum",
+      "Pancreas",
+      "Sigmoid colon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pancreas is a secondary retroperitoneal organ. Other retroperitoneal structures include kidneys, ureters, aorta, IVC, duodenum (except first part), and ascending/descending colon.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 67"
+  },
+  {
+    "id": "gross-anatomy-16",
+    "question": "The medial malleolus is part of which bone?",
+    "options": [
+      "Tibia",
+      "Fibula",
+      "Talus",
+      "Calcaneus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The medial malleolus is the distal medial projection of the tibia. The lateral malleolus is the distal end of the fibula.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "gross-anatomy-17",
+    "question": "Which nerve is at risk during thyroid surgery?",
+    "options": [
+      "Glossopharyngeal nerve",
+      "Vagus nerve",
+      "Recurrent laryngeal nerve",
+      "Hypoglossal nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The recurrent laryngeal nerve runs in the tracheoesophageal groove and passes posterior to the thyroid gland, making it vulnerable during thyroidectomy. Injury causes hoarseness.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-18",
+    "question": "The hepatopancreatic ampulla (of Vater) opens into which part of the duodenum?",
+    "options": [
+      "First part",
+      "Second part",
+      "Third part",
+      "Fourth part"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The major duodenal papilla, where the hepatopancreatic ampulla opens, is located in the second part of the duodenum, posteromedially.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-19",
+    "question": "Which vessel is most commonly affected in lateral medullary (Wallenberg) syndrome?",
+    "options": [
+      "Anterior spinal artery",
+      "Posterior inferior cerebellar artery",
+      "Basilar artery",
+      "Superior cerebellar artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lateral medullary syndrome is typically caused by occlusion of the posterior inferior cerebellar artery (PICA) or vertebral artery, affecting the lateral medulla.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 30"
+  },
+  {
+    "id": "gross-anatomy-20",
+    "question": "The inguinal canal transmits all of the following EXCEPT:",
+    "options": [
+      "Ilioinguinal nerve",
+      "Genitofemoral nerve",
+      "Spermatic cord in males",
+      "Round ligament in females"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The genitofemoral nerve lies on the anterior surface of psoas major and does not pass through the inguinal canal. Its genital branch enters the deep inguinal ring.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 61"
+  },
+  {
+    "id": "gross-anatomy-21",
+    "question": "Which structure lies immediately posterior to the right kidney?",
+    "options": [
+      "Liver",
+      "Duodenum",
+      "Diaphragm and costodiaphragmatic recess",
+      "Pancreas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The right kidney lies in close relation to the diaphragm superiorly and the costodiaphragmatic recess of the pleura posteriorly.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 72"
+  },
+  {
+    "id": "gross-anatomy-22",
+    "question": "The circle of Willis includes all of the following EXCEPT:",
+    "options": [
+      "Anterior communicating artery",
+      "Posterior communicating artery",
+      "Middle cerebral artery",
+      "Basilar artery"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The circle of Willis includes: anterior communicating, anterior cerebral, internal carotid, posterior communicating, and posterior cerebral arteries. The basilar artery is proximal to the circle.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 30"
+  },
+  {
+    "id": "gross-anatomy-23",
+    "question": "Which muscle is innervated by the obturator nerve?",
+    "options": [
+      "Psoas major",
+      "Iliacus",
+      "Pectineus",
+      "Quadratus femoris"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pectineus has dual innervation (femoral and obturator), but is primarily considered an obturator-innervated muscle. Other obturator-innervated muscles include adductor longus, brevis, magnus, and gracilis.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "gross-anatomy-24",
+    "question": "The appendix is typically located in which position?",
+    "options": [
+      "Paracolic",
+      "Retrocecal",
+      "Pelvic",
+      "Subcecal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The most common position of the appendix is retrocecal (65%), followed by pelvic (31%), subcecal (2%), and other positions.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 71"
+  },
+  {
+    "id": "gross-anatomy-25",
+    "question": "Which structure passes through the cavernous sinus?",
+    "options": [
+      "Optic nerve",
+      "Oculomotor nerve",
+      "Internal carotid artery",
+      "Facial nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The cavernous sinus contains the internal carotid artery and abducens nerve (CN VI) within it, while CN III, IV, V1, and V2 are in its lateral wall.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-26",
+    "question": "The spleen is in contact with all of the following EXCEPT:",
+    "options": [
+      "Stomach",
+      "Left kidney",
+      "Pancreas",
+      "Liver"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The spleen contacts the stomach (anteriorly), left kidney (posteriorly), splenic flexure of colon (inferiorly), and tail of pancreas (medially). It does not contact the liver.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 73"
+  },
+  {
+    "id": "gross-anatomy-27",
+    "question": "Which vertebra has the odontoid process (dens)?",
+    "options": [
+      "C1 (Atlas)",
+      "C2 (Axis)",
+      "C7 (Vertebra prominens)",
+      "T1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The axis (C2) has the odontoid process (dens) that articulates with the anterior arch of the atlas (C1), forming the pivot for rotation of the head.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 45"
+  },
+  {
+    "id": "gross-anatomy-28",
+    "question": "The femoral nerve is derived from which spinal cord segments?",
+    "options": [
+      "L1-L2",
+      "L2-L4",
+      "L4-S1",
+      "S1-S2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The femoral nerve arises from the posterior divisions of the ventral rami of L2, L3, and L4.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "gross-anatomy-29",
+    "question": "Which structure is NOT part of the basal ganglia?",
+    "options": [
+      "Caudate nucleus",
+      "Putamen",
+      "Globus pallidus",
+      "Thalamus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The basal ganglia include caudate, putamen, globus pallidus, subthalamic nucleus, and substantia nigra. The thalamus is part of the diencephalon.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 26"
+  },
+  {
+    "id": "gross-anatomy-30",
+    "question": "The aortic arch gives rise to which branches?",
+    "options": [
+      "Brachiocephalic, left common carotid, left subclavian",
+      "Brachiocephalic, right common carotid, left subclavian",
+      "Right subclavian, left common carotid, left subclavian",
+      "Brachiocephalic, left common carotid, right subclavian"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The aortic arch typically gives rise to the brachiocephalic trunk, left common carotid artery, and left subclavian artery in that order.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 57"
+  },
+  {
+    "id": "gross-anatomy-31",
+    "question": "Which muscle is the primary flexor of the thigh at the hip joint?",
+    "options": [
+      "Rectus femoris",
+      "Sartorius",
+      "Iliopsoas",
+      "Pectineus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Iliopsoas (psoas major + iliacus) is the most powerful flexor of the thigh at the hip joint.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "gross-anatomy-32",
+    "question": "The gallbladder is located in which anatomical fossa?",
+    "options": [
+      "Porta hepatis",
+      "Fossa ovalis",
+      "Cystic fossa",
+      "Omental bursa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The gallbladder lies in the cystic fossa on the visceral surface of the liver, between the right and quadratic lobes.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-33",
+    "question": "Which cranial nerve passes through the internal acoustic meatus?",
+    "options": [
+      "Facial nerve (VII)",
+      "Vestibulocochlear nerve (VIII)",
+      "Both VII and VIII",
+      "Glossopharyngeal nerve (IX)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The internal acoustic meatus transmits CN VII (facial) and CN VIII (vestibulocochlear).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-34",
+    "question": "The popliteal artery is a continuation of which vessel?",
+    "options": [
+      "Femoral artery",
+      "Profunda femoris artery",
+      "External iliac artery",
+      "Anterior tibial artery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The femoral artery becomes the popliteal artery as it passes through the adductor hiatus into the popliteal fossa.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "gross-anatomy-35",
+    "question": "Which structure forms the anterior boundary of the epiploic foramen (of Winslow)?",
+    "options": [
+      "Portal vein",
+      "Inferior vena cava",
+      "Hepatoduodenal ligament",
+      "Caudate lobe of liver"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The epiploic foramen boundaries: anterior - hepatoduodenal ligament; posterior - IVC; superior - caudate lobe; inferior - first part of duodenum.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-36",
+    "question": "The sciatic nerve is derived from which spinal cord segments?",
+    "options": [
+      "L2-L4",
+      "L4-S3",
+      "S1-S3",
+      "L5-S2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sciatic nerve arises from the ventral rami of L4 through S3.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "gross-anatomy-37",
+    "question": "Which structure is NOT found in the mediastinum?",
+    "options": [
+      "Thymus",
+      "Trachea",
+      "Lungs",
+      "Esophagus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The lungs are not in the mediastinum; they are in the pleural cavities. The mediastinum contains the heart, great vessels, trachea, esophagus, thymus, etc.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 57"
+  },
+  {
+    "id": "gross-anatomy-38",
+    "question": "The common bile duct is formed by the union of:",
+    "options": [
+      "Cystic duct and common hepatic duct",
+      "Cystic duct and pancreatic duct",
+      "Common hepatic duct and pancreatic duct",
+      "Right and left hepatic ducts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The common bile duct is formed by the union of the cystic duct (from gallbladder) and common hepatic duct (from liver).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-39",
+    "question": "Which muscle is responsible for elevating the eye?",
+    "options": [
+      "Superior rectus",
+      "Inferior rectus",
+      "Lateral rectus",
+      "Superior oblique"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The superior rectus elevates the eye, while the inferior rectus depresses it. The superior oblique depresses and abducts.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 45"
+  },
+  {
+    "id": "gross-anatomy-40",
+    "question": "The ligament of Treitz marks the boundary between:",
+    "options": [
+      "Duodenum and jejunum",
+      "Jejunum and ileum",
+      "Ileum and cecum",
+      "Stomach and duodenum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ligament of Treitz (suspensory muscle of duodenum) marks the duodenojejunal flexure, the boundary between the duodenum and jejunum.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 67"
+  },
+  {
+    "id": "gross-anatomy-41",
+    "question": "Which structure passes through the obturator foramen?",
+    "options": [
+      "Obturator nerve",
+      "Sciatic nerve",
+      "Femoral nerve",
+      "Pudendal nerve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The obturator foramen transmits the obturator nerve and vessels. The sciatic nerve passes through the greater sciatic foramen.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "gross-anatomy-42",
+    "question": "The celiac trunk supplies which organs?",
+    "options": [
+      "Liver, spleen, pancreas",
+      "Small intestine, cecum, appendix",
+      "Descending colon, sigmoid colon, rectum",
+      "Kidneys, adrenals, ureters"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The celiac trunk supplies the foregut derivatives: stomach, liver, gallbladder, spleen, pancreas, and proximal duodenum.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-43",
+    "question": "Which bone contains the sella turcica?",
+    "options": [
+      "Frontal bone",
+      "Parietal bone",
+      "Sphenoid bone",
+      "Temporal bone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sella turcica (Turkish saddle) is part of the sphenoid bone and houses the pituitary gland.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-44",
+    "question": "The superficial inguinal ring is an opening in which structure?",
+    "options": [
+      "Transversalis fascia",
+      "External oblique aponeurosis",
+      "Internal oblique muscle",
+      "Transversus abdominis muscle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The superficial inguinal ring is a triangular opening in the external oblique aponeurosis, located just superior to the pubic tubercle.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 61"
+  },
+  {
+    "id": "gross-anatomy-45",
+    "question": "Which nerve provides sensory innervation to the diaphragm?",
+    "options": [
+      "Vagus nerve",
+      "Phrenic nerve",
+      "Intercostal nerves",
+      "Both phrenic and intercostal nerves"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The phrenic nerve (C3-C5) provides sensory innervation to the central diaphragm, while the intercostal nerves (T5-T11) supply the peripheral diaphragm.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 55"
+  },
+  {
+    "id": "gross-anatomy-46",
+    "question": "The femoral triangle contains all of the following EXCEPT:",
+    "options": [
+      "Femoral nerve",
+      "Femoral artery",
+      "Femoral vein",
+      "Great saphenous vein"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The femoral triangle contains (lateral to medial): femoral Nerve, femoral Artery, femoral Vein, and Lymphatics (NAVEL). The great saphenous vein drains into the femoral vein but is not within the triangle boundaries.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "gross-anatomy-47",
+    "question": "Which structure is located in the right atrium?",
+    "options": [
+      "Moderator band",
+      "Fossa ovalis",
+      "Aortic vestibule",
+      "Trabeculae carneae"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fossa ovalis is an oval depression in the interatrial septum of the right atrium, representing the site of the fetal foramen ovale.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-48",
+    "question": "The ulnar nerve passes behind which structure at the elbow?",
+    "options": [
+      "Lateral epicondyle",
+      "Medial epicondyle",
+      "Olecranon process",
+      "Coronoid process"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ulnar nerve passes posterior to the medial epicondyle of the humerus in the ulnar groove, making it vulnerable to injury ('funny bone').",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "gross-anatomy-49",
+    "question": "Which vessel drains most of the small intestine?",
+    "options": [
+      "Inferior mesenteric vein",
+      "Superior mesenteric vein",
+      "Splenic vein",
+      "Portal vein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The superior mesenteric vein drains the small intestine (except first part of duodenum), cecum, ascending colon, and transverse colon.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-50",
+    "question": "The pituitary gland is located in which cranial fossa?",
+    "options": [
+      "Anterior cranial fossa",
+      "Middle cranial fossa",
+      "Posterior cranial fossa",
+      "Both anterior and middle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pituitary gland sits in the sella turcica of the sphenoid bone, which is located in the middle cranial fossa.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-51",
+    "question": "Which muscle is the primary extensor of the knee?",
+    "options": [
+      "Hamstrings",
+      "Quadriceps femoris",
+      "Gluteus maximus",
+      "Sartorius"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The quadriceps femoris (rectus femoris, vastus lateralis, medialis, and intermedius) is the primary extensor of the knee.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "gross-anatomy-52",
+    "question": "The sigmoid colon becomes the rectum at which vertebral level?",
+    "options": [
+      "L1",
+      "L3",
+      "S1",
+      "S3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The sigmoid colon becomes the rectum at the level of the S3 vertebra.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 71"
+  },
+  {
+    "id": "gross-anatomy-53",
+    "question": "Which cranial nerve passes through the jugular foramen?",
+    "options": [
+      "Glossopharyngeal (IX)",
+      "Vagus (X)",
+      "Accessory (XI)",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The jugular foramen transmits CN IX, X, and XI, as well as the internal jugular vein and inferior petrosal sinus.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-54",
+    "question": "The radial nerve is a branch of which cord of the brachial plexus?",
+    "options": [
+      "Lateral cord",
+      "Medial cord",
+      "Posterior cord",
+      "Superior trunk"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The radial nerve is the continuation of the posterior cord of the brachial plexus (C5-T1).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "gross-anatomy-55",
+    "question": "Which structure is NOT part of the spermatic cord?",
+    "options": [
+      "Vas deferens",
+      "Testicular artery",
+      "Genitofemoral nerve",
+      "Pampiniform plexus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The genitofemoral nerve is not in the spermatic cord. The spermatic cord contains vas deferens, testicular artery, pampiniform plexus, cremasteric artery, etc.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 76"
+  },
+  {
+    "id": "gross-anatomy-56",
+    "question": "The stomach is supplied by all of the following arteries EXCEPT:",
+    "options": [
+      "Left gastric artery",
+      "Right gastric artery",
+      "Splenic artery",
+      "Inferior mesenteric artery"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The stomach is supplied by branches of the celiac trunk: left gastric, right gastric, right gastroepiploic, left gastroepiploic, and short gastric arteries.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-57",
+    "question": "Which vertebra has a bifid spinous process?",
+    "options": [
+      "C1",
+      "C2",
+      "C7",
+      "T1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cervical vertebrae C2-C6 typically have bifid spinous processes. C7 (vertebra prominens) has a long, non-bifid spinous process.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 45"
+  },
+  {
+    "id": "gross-anatomy-58",
+    "question": "The common hepatic artery is a branch of:",
+    "options": [
+      "Celiac trunk",
+      "Superior mesenteric artery",
+      "Abdominal aorta",
+      "Splenic artery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The common hepatic artery is one of the three main branches of the celiac trunk (along with left gastric and splenic arteries).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-59",
+    "question": "Which muscle is responsible for abduction of the vocal cords?",
+    "options": [
+      "Cricothyroid",
+      "Posterior cricoarytenoid",
+      "Lateral cricoarytenoid",
+      "Thyroarytenoid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The posterior cricoarytenoid is the only muscle that abducts the vocal cords, opening the glottis. All other intrinsic laryngeal muscles adduct or tense the cords.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 37"
+  },
+  {
+    "id": "gross-anatomy-60",
+    "question": "The falciform ligament attaches the liver to:",
+    "options": [
+      "Stomach",
+      "Diaphragm and anterior abdominal wall",
+      "Kidney",
+      "Duodenum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The falciform ligament attaches the liver to the diaphragm and anterior abdominal wall, and contains the ligamentum teres (obliterated umbilical vein) in its free edge.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-61",
+    "question": "Which nerve innervates the diaphragm?",
+    "options": [
+      "Vagus nerve",
+      "Phrenic nerve",
+      "Intercostal nerves",
+      "Accessory nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The phrenic nerve (C3-C5) provides motor innervation to the diaphragm. 'C3,4,5 keeps the diaphragm alive.'",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 55"
+  },
+  {
+    "id": "gross-anatomy-62",
+    "question": "The coronary sinus drains into which chamber of the heart?",
+    "options": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The coronary sinus, which drains most of the cardiac veins, opens into the right atrium between the inferior vena cava and tricuspid valve.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-63",
+    "question": "Which structure is found in the middle ear?",
+    "options": [
+      "Cochlea",
+      "Semicircular canals",
+      "Ossicles",
+      "Vestibule"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The middle ear contains the auditory ossicles (malleus, incus, stapes). The cochlea, semicircular canals, and vestibule are part of the inner ear.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 38"
+  },
+  {
+    "id": "gross-anatomy-64",
+    "question": "The medial meniscus of the knee is attached to:",
+    "options": [
+      "Lateral collateral ligament",
+      "Medial collateral ligament",
+      "Anterior cruciate ligament",
+      "Posterior cruciate ligament"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The medial meniscus is firmly attached to the medial collateral ligament, making it less mobile and more prone to injury than the lateral meniscus.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "gross-anatomy-65",
+    "question": "Which artery supplies the posterior 1/3 of the interventricular septum?",
+    "options": [
+      "Left anterior descending artery",
+      "Right coronary artery",
+      "Circumflex artery",
+      "Left marginal artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The posterior descending artery (PDA), usually a branch of the right coronary artery (85%), supplies the posterior 1/3 of the interventricular septum.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-66",
+    "question": "The pudendal nerve passes through which structure?",
+    "options": [
+      "Obturator foramen",
+      "Greater sciatic foramen",
+      "Lesser sciatic foramen",
+      "Both greater and lesser sciatic foramina"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The pudendal nerve exits the pelvis through the greater sciatic foramen, hooks around the ischial spine, and re-enters through the lesser sciatic foramen.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "gross-anatomy-67",
+    "question": "Which structure is NOT part of the diencephalon?",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Pineal gland",
+      "Cerebral cortex"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The diencephalon includes thalamus, hypothalamus, epithalamus (pineal gland), and subthalamus. The cerebral cortex is part of the telencephalon.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 23"
+  },
+  {
+    "id": "gross-anatomy-68",
+    "question": "The gastroduodenal artery is a branch of:",
+    "options": [
+      "Common hepatic artery",
+      "Splenic artery",
+      "Superior mesenteric artery",
+      "Left gastric artery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The gastroduodenal artery arises from the common hepatic artery and gives off the superior pancreaticoduodenal and right gastroepiploic arteries.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-69",
+    "question": "Which muscle is responsible for plantar flexion of the foot?",
+    "options": [
+      "Tibialis anterior",
+      "Gastrocnemius",
+      "Extensor digitorum longus",
+      "Peroneus longus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The gastrocnemius and soleus (triceps surae) are the primary plantar flexors of the foot.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "gross-anatomy-70",
+    "question": "The ureters cross which vessels at the pelvic brim?",
+    "options": [
+      "Common iliac arteries",
+      "External iliac arteries",
+      "Internal iliac arteries",
+      "Ovarian arteries"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ureters cross anterior to the external iliac arteries at the pelvic brim, which is an important surgical landmark.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 72"
+  },
+  {
+    "id": "gross-anatomy-71",
+    "question": "Which cranial nerve is responsible for taste from the anterior 2/3 of the tongue?",
+    "options": [
+      "Facial nerve (VII)",
+      "Trigeminal nerve (V)",
+      "Glossopharyngeal nerve (IX)",
+      "Hypoglossal nerve (XII)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CN VII (via chorda tympani) provides taste sensation to the anterior 2/3 of the tongue. CN V provides general sensation, and CN IX provides taste to posterior 1/3.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-72",
+    "question": "The ligamentum arteriosum is the remnant of:",
+    "options": [
+      "Ductus venosus",
+      "Ductus arteriosus",
+      "Umbilical artery",
+      "Umbilical vein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ligamentum arteriosum is the fibrous remnant of the fetal ductus arteriosus, which connected the pulmonary trunk to the aortic arch.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 57"
+  },
+  {
+    "id": "gross-anatomy-73",
+    "question": "Which structure is found in the left upper quadrant of the abdomen?",
+    "options": [
+      "Liver",
+      "Appendix",
+      "Spleen",
+      "Cecum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The spleen is located in the left upper quadrant. The liver is mostly in the right upper quadrant, appendix and cecum in the right lower quadrant.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 73"
+  },
+  {
+    "id": "gross-anatomy-74",
+    "question": "The brachial plexus is formed by the ventral rami of:",
+    "options": [
+      "C5-T1",
+      "C6-T2",
+      "C4-C8",
+      "C5-C8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The brachial plexus is formed by the ventral rami of C5, C6, C7, C8, and T1 spinal nerves.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "gross-anatomy-75",
+    "question": "Which valve is located between the left atrium and left ventricle?",
+    "options": [
+      "Tricuspid valve",
+      "Pulmonary valve",
+      "Aortic valve",
+      "Mitral valve"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The mitral (bicuspid) valve is located between the left atrium and left ventricle.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-76",
+    "question": "The sacral plexus is formed by the ventral rami of:",
+    "options": [
+      "L1-L4",
+      "L4-S4",
+      "S1-S5",
+      "L5-S3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sacral plexus is formed by the ventral rami of L4, L5, S1, S2, S3, and S4.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "gross-anatomy-77",
+    "question": "Which structure is NOT part of the rotator cuff?",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Teres major",
+      "Teres minor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The rotator cuff consists of supraspinatus, infraspinatus, teres minor, and subscapularis (SITS). Teres major is not part of the rotator cuff.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "gross-anatomy-78",
+    "question": "The common peroneal nerve is a branch of:",
+    "options": [
+      "Femoral nerve",
+      "Sciatic nerve",
+      "Tibial nerve",
+      "Obturator nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The common peroneal (fibular) nerve is one of the two terminal branches of the sciatic nerve (the other being the tibial nerve).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "gross-anatomy-79",
+    "question": "Which structure forms the posterior boundary of the inguinal canal?",
+    "options": [
+      "External oblique aponeurosis",
+      "Internal oblique muscle",
+      "Transversus abdominis muscle",
+      "Transversalis fascia"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The posterior wall of the inguinal canal is formed by the transversalis fascia, reinforced medially by the conjoint tendon.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 61"
+  },
+  {
+    "id": "gross-anatomy-80",
+    "question": "The superior mesenteric artery supplies:",
+    "options": [
+      "Distal duodenum to proximal 2/3 of transverse colon",
+      "Stomach and liver",
+      "Distal transverse colon to rectum",
+      "Kidneys and adrenals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The superior mesenteric artery supplies the midgut derivatives: distal duodenum, jejunum, ileum, cecum, appendix, ascending colon, and proximal 2/3 of transverse colon.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-81",
+    "question": "Which cranial nerve is responsible for shoulder shrugging?",
+    "options": [
+      "Accessory nerve (XI)",
+      "Vagus nerve (X)",
+      "Facial nerve (VII)",
+      "Hypoglossal nerve (XII)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The accessory nerve (CN XI) innervates the sternocleidomastoid and trapezius muscles, enabling shoulder shrugging.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-82",
+    "question": "The hepatorenal pouch (of Morison) is located between:",
+    "options": [
+      "Liver and kidney",
+      "Liver and stomach",
+      "Spleen and kidney",
+      "Liver and diaphragm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The hepatorenal pouch is the posterior subhepatic space between the liver and right kidney, where fluid can accumulate in supine position.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-83",
+    "question": "Which muscle is responsible for flexion of the thigh at the hip?",
+    "options": [
+      "Gluteus maximus",
+      "Iliopsoas",
+      "Hamstrings",
+      "Adductor magnus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Iliopsoas is the primary flexor of the thigh at the hip joint.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "gross-anatomy-84",
+    "question": "The vertebral artery arises from:",
+    "options": [
+      "Subclavian artery",
+      "Common carotid artery",
+      "Aortic arch",
+      "Brachiocephalic trunk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The vertebral artery is usually the first branch of the subclavian artery on both sides.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 30"
+  },
+  {
+    "id": "gross-anatomy-85",
+    "question": "Which structure is found in the posterior mediastinum?",
+    "options": [
+      "Thymus",
+      "Heart",
+      "Esophagus",
+      "Trachea"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The posterior mediastinum contains the esophagus, descending aorta, azygos vein, thoracic duct, and sympathetic trunks.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 57"
+  },
+  {
+    "id": "gross-anatomy-86",
+    "question": "The deltoid muscle is innervated by:",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve",
+      "Suprascapular nerve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The deltoid muscle is innervated by the axillary nerve (C5, C6).",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "gross-anatomy-87",
+    "question": "Which vessel is most commonly used for coronary artery bypass grafting?",
+    "options": [
+      "Great saphenous vein",
+      "Small saphenous vein",
+      "Cephalic vein",
+      "Basilic vein"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The great saphenous vein is the most commonly used conduit for coronary artery bypass grafting due to its suitable size and length.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "gross-anatomy-88",
+    "question": "The foramen transversarium is found in:",
+    "options": [
+      "Cervical vertebrae",
+      "Thoracic vertebrae",
+      "Lumbar vertebrae",
+      "Sacrum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The foramen transversarium is characteristic of cervical vertebrae and transmits the vertebral artery, vein, and sympathetic nerves.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 45"
+  },
+  {
+    "id": "gross-anatomy-89",
+    "question": "Which nerve is responsible for innervation of the diaphragm?",
+    "options": [
+      "Vagus nerve",
+      "Phrenic nerve",
+      "Intercostal nerves",
+      "Accessory nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The phrenic nerve (C3-C5) provides motor innervation to the diaphragm.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 55"
+  },
+  {
+    "id": "gross-anatomy-90",
+    "question": "The portal vein is formed by the union of:",
+    "options": [
+      "Superior mesenteric and splenic veins",
+      "Inferior mesenteric and splenic veins",
+      "Superior and inferior mesenteric veins",
+      "Splenic and gastric veins"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The portal vein is formed posterior to the neck of the pancreas by the union of the superior mesenteric vein and splenic vein.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-91",
+    "question": "Which structure is found in the right atrium?",
+    "options": [
+      "Moderator band",
+      "Fossa ovalis",
+      "Aortic vestibule",
+      "Trabeculae carneae"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fossa ovalis is an oval depression in the interatrial septum of the right atrium, representing the site of the fetal foramen ovale.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-92",
+    "question": "The ulnar nerve passes behind which structure at the elbow?",
+    "options": [
+      "Lateral epicondyle",
+      "Medial epicondyle",
+      "Olecranon process",
+      "Coronoid process"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ulnar nerve passes posterior to the medial epicondyle of the humerus in the ulnar groove, making it vulnerable to injury ('funny bone').",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "gross-anatomy-93",
+    "question": "Which vessel drains most of the small intestine?",
+    "options": [
+      "Inferior mesenteric vein",
+      "Superior mesenteric vein",
+      "Splenic vein",
+      "Portal vein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The superior mesenteric vein drains the small intestine (except first part of duodenum), cecum, ascending colon, and transverse colon.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-94",
+    "question": "The pituitary gland is located in which cranial fossa?",
+    "options": [
+      "Anterior cranial fossa",
+      "Middle cranial fossa",
+      "Posterior cranial fossa",
+      "Both anterior and middle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pituitary gland sits in the sella turcica of the sphenoid bone, which is located in the middle cranial fossa.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-95",
+    "question": "Which muscle is the primary extensor of the knee?",
+    "options": [
+      "Hamstrings",
+      "Quadriceps femoris",
+      "Gluteus maximus",
+      "Sartorius"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The quadriceps femoris (rectus femoris, vastus lateralis, medialis, and intermedius) is the primary extensor of the knee.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "gross-anatomy-96",
+    "question": "The sigmoid colon becomes the rectum at which vertebral level?",
+    "options": [
+      "L1",
+      "L3",
+      "S1",
+      "S3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The sigmoid colon becomes the rectum at the level of the S3 vertebra.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 71"
+  },
+  {
+    "id": "gross-anatomy-97",
+    "question": "Which cranial nerve passes through the jugular foramen?",
+    "options": [
+      "Glossopharyngeal (IX)",
+      "Vagus (X)",
+      "Accessory (XI)",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The jugular foramen transmits CN IX, X, and XI, as well as the internal jugular vein and inferior petrosal sinus.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-98",
+    "question": "The radial nerve is a branch of which cord of the brachial plexus?",
+    "options": [
+      "Lateral cord",
+      "Medial cord",
+      "Posterior cord",
+      "Superior trunk"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The radial nerve is the continuation of the posterior cord of the brachial plexus (C5-T1).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "gross-anatomy-99",
+    "question": "Which structure is NOT part of the spermatic cord?",
+    "options": [
+      "Vas deferens",
+      "Testicular artery",
+      "Genitofemoral nerve",
+      "Pampiniform plexus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The genitofemoral nerve is not in the spermatic cord. The spermatic cord contains vas deferens, testicular artery, pampiniform plexus, cremasteric artery, etc.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 76"
+  },
+  {
+    "id": "gross-anatomy-100",
+    "question": "The stomach is supplied by all of the following arteries EXCEPT:",
+    "options": [
+      "Left gastric artery",
+      "Right gastric artery",
+      "Splenic artery",
+      "Inferior mesenteric artery"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The stomach is supplied by branches of the celiac trunk: left gastric, right gastric, right gastroepiploic, left gastroepiploic, and short gastric arteries.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-101",
+    "question": "Which vertebra has a bifid spinous process?",
+    "options": [
+      "C1",
+      "C2",
+      "C7",
+      "T1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cervical vertebrae C2-C6 typically have bifid spinous processes. C7 (vertebra prominens) has a long, non-bifid spinous process.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 45"
+  },
+  {
+    "id": "gross-anatomy-102",
+    "question": "The common hepatic artery is a branch of:",
+    "options": [
+      "Celiac trunk",
+      "Superior mesenteric artery",
+      "Abdominal aorta",
+      "Splenic artery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The common hepatic artery is one of the three main branches of the celiac trunk (along with left gastric and splenic arteries).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-103",
+    "question": "Which muscle is responsible for abduction of the vocal cords?",
+    "options": [
+      "Cricothyroid",
+      "Posterior cricoarytenoid",
+      "Lateral cricoarytenoid",
+      "Thyroarytenoid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The posterior cricoarytenoid is the only muscle that abducts the vocal cords, opening the glottis. All other intrinsic laryngeal muscles adduct or tense the cords.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 37"
+  },
+  {
+    "id": "gross-anatomy-104",
+    "question": "The falciform ligament attaches the liver to:",
+    "options": [
+      "Stomach",
+      "Diaphragm and anterior abdominal wall",
+      "Kidney",
+      "Duodenum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The falciform ligament attaches the liver to the diaphragm and anterior abdominal wall, and contains the ligamentum teres (obliterated umbilical vein) in its free edge.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-105",
+    "question": "Which nerve innervates the diaphragm?",
+    "options": [
+      "Vagus nerve",
+      "Phrenic nerve",
+      "Intercostal nerves",
+      "Accessory nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The phrenic nerve (C3-C5) provides motor innervation to the diaphragm. 'C3,4,5 keeps the diaphragm alive.'",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 55"
+  },
+  {
+    "id": "gross-anatomy-106",
+    "question": "The coronary sinus drains into which chamber of the heart?",
+    "options": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The coronary sinus, which drains most of the cardiac veins, opens into the right atrium between the inferior vena cava and tricuspid valve.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-107",
+    "question": "Which structure is found in the middle ear?",
+    "options": [
+      "Cochlea",
+      "Semicircular canals",
+      "Ossicles",
+      "Vestibule"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The middle ear contains the auditory ossicles (malleus, incus, stapes). The cochlea, semicircular canals, and vestibule are part of the inner ear.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 38"
+  },
+  {
+    "id": "gross-anatomy-108",
+    "question": "The medial meniscus of the knee is attached to:",
+    "options": [
+      "Lateral collateral ligament",
+      "Medial collateral ligament",
+      "Anterior cruciate ligament",
+      "Posterior cruciate ligament"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The medial meniscus is firmly attached to the medial collateral ligament, making it less mobile and more prone to injury than the lateral meniscus.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "gross-anatomy-109",
+    "question": "Which artery supplies the posterior 1/3 of the interventricular septum?",
+    "options": [
+      "Left anterior descending artery",
+      "Right coronary artery",
+      "Circumflex artery",
+      "Left marginal artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The posterior descending artery (PDA), usually a branch of the right coronary artery (85%), supplies the posterior 1/3 of the interventricular septum.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-110",
+    "question": "The pudendal nerve passes through which structure?",
+    "options": [
+      "Obturator foramen",
+      "Greater sciatic foramen",
+      "Lesser sciatic foramen",
+      "Both greater and lesser sciatic foramina"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The pudendal nerve exits the pelvis through the greater sciatic foramen, hooks around the ischial spine, and re-enters through the lesser sciatic foramen.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "gross-anatomy-111",
+    "question": "Which structure is NOT part of the diencephalon?",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Pineal gland",
+      "Cerebral cortex"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The diencephalon includes thalamus, hypothalamus, epithalamus (pineal gland), and subthalamus. The cerebral cortex is part of the telencephalon.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 23"
+  },
+  {
+    "id": "gross-anatomy-112",
+    "question": "The gastroduodenal artery is a branch of:",
+    "options": [
+      "Common hepatic artery",
+      "Splenic artery",
+      "Superior mesenteric artery",
+      "Left gastric artery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The gastroduodenal artery arises from the common hepatic artery and gives off the superior pancreaticoduodenal and right gastroepiploic arteries.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-113",
+    "question": "Which muscle is responsible for plantar flexion of the foot?",
+    "options": [
+      "Tibialis anterior",
+      "Gastrocnemius",
+      "Extensor digitorum longus",
+      "Peroneus longus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The gastrocnemius and soleus (triceps surae) are the primary plantar flexors of the foot.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "gross-anatomy-114",
+    "question": "The ureters cross which vessels at the pelvic brim?",
+    "options": [
+      "Common iliac arteries",
+      "External iliac arteries",
+      "Internal iliac arteries",
+      "Ovarian arteries"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ureters cross anterior to the external iliac arteries at the pelvic brim, which is an important surgical landmark.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 72"
+  },
+  {
+    "id": "gross-anatomy-115",
+    "question": "Which cranial nerve is responsible for taste from the anterior 2/3 of the tongue?",
+    "options": [
+      "Facial nerve (VII)",
+      "Trigeminal nerve (V)",
+      "Glossopharyngeal nerve (IX)",
+      "Hypoglossal nerve (XII)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CN VII (via chorda tympani) provides taste sensation to the anterior 2/3 of the tongue. CN V provides general sensation, and CN IX provides taste to posterior 1/3.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-116",
+    "question": "The ligamentum arteriosum is the remnant of:",
+    "options": [
+      "Ductus venosus",
+      "Ductus arteriosus",
+      "Umbilical artery",
+      "Umbilical vein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ligamentum arteriosum is the fibrous remnant of the fetal ductus arteriosus, which connected the pulmonary trunk to the aortic arch.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 57"
+  },
+  {
+    "id": "gross-anatomy-117",
+    "question": "Which structure is found in the left upper quadrant of the abdomen?",
+    "options": [
+      "Liver",
+      "Appendix",
+      "Spleen",
+      "Cecum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The spleen is located in the left upper quadrant. The liver is mostly in the right upper quadrant, appendix and cecum in the right lower quadrant.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 73"
+  },
+  {
+    "id": "gross-anatomy-118",
+    "question": "The brachial plexus is formed by the ventral rami of:",
+    "options": [
+      "C5-T1",
+      "C6-T2",
+      "C4-C8",
+      "C5-C8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The brachial plexus is formed by the ventral rami of C5, C6, C7, C8, and T1 spinal nerves.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "gross-anatomy-119",
+    "question": "Which valve is located between the left atrium and left ventricle?",
+    "options": [
+      "Tricuspid valve",
+      "Pulmonary valve",
+      "Aortic valve",
+      "Mitral valve"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The mitral (bicuspid) valve is located between the left atrium and left ventricle.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-120",
+    "question": "The sacral plexus is formed by the ventral rami of:",
+    "options": [
+      "L1-L4",
+      "L4-S4",
+      "S1-S5",
+      "L5-S3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sacral plexus is formed by the ventral rami of L4, L5, S1, S2, S3, and S4.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "gross-anatomy-121",
+    "question": "Which structure is NOT part of the rotator cuff?",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Teres major",
+      "Teres minor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The rotator cuff consists of supraspinatus, infraspinatus, teres minor, and subscapularis (SITS). Teres major is not part of the rotator cuff.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "gross-anatomy-122",
+    "question": "The common peroneal nerve is a branch of:",
+    "options": [
+      "Femoral nerve",
+      "Sciatic nerve",
+      "Tibial nerve",
+      "Obturator nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The common peroneal (fibular) nerve is one of the two terminal branches of the sciatic nerve (the other being the tibial nerve).",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "gross-anatomy-123",
+    "question": "Which structure forms the posterior boundary of the inguinal canal?",
+    "options": [
+      "External oblique aponeurosis",
+      "Internal oblique muscle",
+      "Transversus abdominis muscle",
+      "Transversalis fascia"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The posterior wall of the inguinal canal is formed by the transversalis fascia, reinforced medially by the conjoint tendon.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 61"
+  },
+  {
+    "id": "gross-anatomy-124",
+    "question": "The superior mesenteric artery supplies:",
+    "options": [
+      "Distal duodenum to proximal 2/3 of transverse colon",
+      "Stomach and liver",
+      "Distal transverse colon to rectum",
+      "Kidneys and adrenals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The superior mesenteric artery supplies the midgut derivatives: distal duodenum, jejunum, ileum, cecum, appendix, ascending colon, and proximal 2/3 of transverse colon.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-125",
+    "question": "Which cranial nerve is responsible for shoulder shrugging?",
+    "options": [
+      "Accessory nerve (XI)",
+      "Vagus nerve (X)",
+      "Facial nerve (VII)",
+      "Hypoglossal nerve (XII)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The accessory nerve (CN XI) innervates the sternocleidomastoid and trapezius muscles, enabling shoulder shrugging.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-126",
+    "question": "The hepatorenal pouch (of Morison) is located between:",
+    "options": [
+      "Liver and kidney",
+      "Liver and stomach",
+      "Spleen and kidney",
+      "Liver and diaphragm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The hepatorenal pouch is the posterior subhepatic space between the liver and right kidney, where fluid can accumulate in supine position.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-127",
+    "question": "Which muscle is responsible for flexion of the thigh at the hip?",
+    "options": [
+      "Gluteus maximus",
+      "Iliopsoas",
+      "Hamstrings",
+      "Adductor magnus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Iliopsoas is the primary flexor of the thigh at the hip joint.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "gross-anatomy-128",
+    "question": "The vertebral artery arises from:",
+    "options": [
+      "Subclavian artery",
+      "Common carotid artery",
+      "Aortic arch",
+      "Brachiocephalic trunk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The vertebral artery is usually the first branch of the subclavian artery on both sides.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 30"
+  },
+  {
+    "id": "gross-anatomy-129",
+    "question": "Which structure is found in the posterior mediastinum?",
+    "options": [
+      "Thymus",
+      "Heart",
+      "Esophagus",
+      "Trachea"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The posterior mediastinum contains the esophagus, descending aorta, azygos vein, thoracic duct, and sympathetic trunks.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 57"
+  },
+  {
+    "id": "gross-anatomy-130",
+    "question": "The deltoid muscle is innervated by:",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve",
+      "Suprascapular nerve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The deltoid muscle is innervated by the axillary nerve (C5, C6).",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "gross-anatomy-131",
+    "question": "Which vessel is most commonly used for coronary artery bypass grafting?",
+    "options": [
+      "Great saphenous vein",
+      "Small saphenous vein",
+      "Cephalic vein",
+      "Basilic vein"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The great saphenous vein is the most commonly used conduit for coronary artery bypass grafting due to its suitable size and length.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "gross-anatomy-132",
+    "question": "The foramen transversarium is found in:",
+    "options": [
+      "Cervical vertebrae",
+      "Thoracic vertebrae",
+      "Lumbar vertebrae",
+      "Sacrum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The foramen transversarium is characteristic of cervical vertebrae and transmits the vertebral artery, vein, and sympathetic nerves.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 45"
+  },
+  {
+    "id": "gross-anatomy-133",
+    "question": "Which nerve is responsible for innervation of the diaphragm?",
+    "options": [
+      "Vagus nerve",
+      "Phrenic nerve",
+      "Intercostal nerves",
+      "Accessory nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The phrenic nerve (C3-C5) provides motor innervation to the diaphragm.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 55"
+  },
+  {
+    "id": "gross-anatomy-134",
+    "question": "The portal vein is formed by the union of:",
+    "options": [
+      "Superior mesenteric and splenic veins",
+      "Inferior mesenteric and splenic veins",
+      "Superior and inferior mesenteric veins",
+      "Splenic and gastric veins"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The portal vein is formed posterior to the neck of the pancreas by the union of the superior mesenteric vein and splenic vein.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 69"
+  },
+  {
+    "id": "gross-anatomy-135",
+    "question": "Which structure is found in the right atrium?",
+    "options": [
+      "Moderator band",
+      "Fossa ovalis",
+      "Aortic vestibule",
+      "Trabeculae carneae"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fossa ovalis is an oval depression in the interatrial septum of the right atrium, representing the site of the fetal foramen ovale.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 56"
+  },
+  {
+    "id": "gross-anatomy-136",
+    "question": "The ulnar nerve passes behind which structure at the elbow?",
+    "options": [
+      "Lateral epicondyle",
+      "Medial epicondyle",
+      "Olecranon process",
+      "Coronoid process"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ulnar nerve passes posterior to the medial epicondyle of the humerus in the ulnar groove, making it vulnerable to injury ('funny bone').",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "gross-anatomy-137",
+    "question": "Which vessel drains most of the small intestine?",
+    "options": [
+      "Inferior mesenteric vein",
+      "Superior mesenteric vein",
+      "Splenic vein",
+      "Portal vein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The superior mesenteric vein drains the small intestine (except first part of duodenum), cecum, ascending colon, and transverse colon.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 68"
+  },
+  {
+    "id": "gross-anatomy-138",
+    "question": "The pituitary gland is located in which cranial fossa?",
+    "options": [
+      "Anterior cranial fossa",
+      "Middle cranial fossa",
+      "Posterior cranial fossa",
+      "Both anterior and middle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pituitary gland sits in the sella turcica of the sphenoid bone, which is located in the middle cranial fossa.",
+    "topic": "gross-anatomy",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 35"
+  },
+  {
+    "id": "gross-anatomy-139",
+    "question": "Which muscle is the primary extensor of the knee?",
+    "options": [
+      "Hamstrings",
+      "Quadriceps femoris",
+      "Gluteus maximus",
+      "Sartorius"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The quadriceps femoris (rectus femoris, vastus lateralis, medialis, and intermedius) is the primary extensor of the knee.",
+    "topic": "gross-anatomy",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "gross-anatomy-140",
+    "question": "The sigmoid colon becomes the rectum at which vertebral level?",
+    "options": [
+      "L1",
+      "L3",
+      "S1",
+      "S3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The sigmoid colon becomes the rectum at the level of the S3 vertebra.",
+    "topic": "gross-anatomy",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 71"
+  }
+]

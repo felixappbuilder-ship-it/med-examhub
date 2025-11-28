@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Exam Prep</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50, #3498db);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            padding: 20px;
+            background: #f8f9fa;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #3498db;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            color: #666;
+        }
+        
+        .nav-buttons {
+            padding: 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        
+        .nav-btn {
+            padding: 20px;
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            text-decoration: none;
+            border-radius: 15px;
+            text-align: center;
+            font-size: 1.2em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .nav-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(52, 152, 219, 0.3);
+        }
+        
+        .nav-btn.secondary {
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+        }
+        
+        .nav-btn.success {
+            background: linear-gradient(135deg, #27ae60, #229954);
+        }
+        
+        .progress-section {
+            padding: 20px;
+            background: #f8f9fa;
+            border-top: 1px solid #eee;
+        }
+        
+        .progress-bar {
+            background: #ecf0f1;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+        
+        .progress-fill {
+            background: linear-gradient(135deg, #27ae60, #2ecc71);
+            height: 10px;
+            transition: width 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧠 Medical Exam Prep</h1>
+            <p>Master 2,500+ medical questions across all subjects</p>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">1,000+</div>
+                <div class="stat-label">Anatomy Questions</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">800+</div>
+                <div class="stat-label">Physiology Questions</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">700+</div>
+                <div class="stat-label">Biochemistry Questions</div>
+            </div>
+        </div>
+        
+        <div class="nav-buttons">
+            <a href="subject-select.html" class="nav-btn">📚 Start New Quiz</a>
+            <a href="review.html" class="nav-btn success">📖 Review Questions</a>
+            <a href="profile.html" class="nav-btn secondary">👤 View Progress</a>
+        </div>
+        
+        <div class="progress-section">
+            <h3>Overall Progress</h3>
+            <div class="progress-bar">
+                <div class="progress-fill" id="overallProgress" style="width: 0%"></div>
+            </div>
+            <div id="progressText">Loading progress...</div>
+        </div>
+    </div>
+
+    <script src="assets/scripts/storage.js"></script>
+    <script src="assets/scripts/app.js"></script>
+    <script>
+        // Initialize app and load progress
+        app.init().then(() => {
+            const progress = storage.getUserProgress();
+            const totalQuestions = 2500; // Approximate total
+            const attempted = Object.values(progress.subjects || {}).reduce((sum, subject) => {
+                return sum + (subject.attempted || 0);
+            }, 0);
+            
+            const percentage = Math.min((attempted / totalQuestions) * 100, 100);
+            document.getElementById('overallProgress').style.width = percentage + '%';
+            document.getElementById('progressText').textContent = 
+                `${attempted} / ${totalQuestions} questions attempted (${Math.round(percentage)}%)`;
+        });
+    </script>
+</body>
+</html>

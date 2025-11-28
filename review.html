@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Review Answers - Medical Exam Prep</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50, #3498db);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
+        
+        .back-btn {
+            position: absolute;
+            left: 20px;
+            top: 20px;
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        
+        .review-controls {
+            padding: 20px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .filter-group {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .filter-btn {
+            padding: 10px 20px;
+            border: 2px solid #3498db;
+            background: white;
+            color: #3498db;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .filter-btn.active {
+            background: #3498db;
+            color: white;
+        }
+        
+        .questions-list {
+            max-height: 600px;
+            overflow-y: auto;
+        }
+        
+        .question-item {
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        .question-item:hover {
+            background: #f8f9fa;
+        }
+        
+        .question-item.incorrect {
+            border-left: 4px solid #e74c3c;
+        }
+        
+        .question-item.correct {
+            border-left: 4px solid #27ae60;
+        }
+        
+        .question-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+        }
+        
+        .question-preview {
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+        
+        .status-badge {
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.8em;
+            font-weight: 600;
+        }
+        
+        .status-correct {
+            background: #27ae60;
+            color: white;
+        }
+        
+        .status-incorrect {
+            background: #e74c3c;
+            color: white;
+        }
+        
+        .question-detail {
+            padding: 30px;
+            border-top: 1px solid #eee;
+        }
+        
+        .detail-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .question-text {
+            font-size: 1.2em;
+            line-height: 1.6;
+            margin-bottom: 25px;
+            color: #2c3e50;
+        }
+        
+        .options-review {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        
+        .option-review {
+            padding: 15px;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            position: relative;
+        }
+        
+        .option-review.correct {
+            border-color: #27ae60;
+            background: #d5f4e6;
+        }
+        
+        .option-review.incorrect {
+            border-color: #e74c3c;
+            background: #fadbd8;
+        }
+        
+        .option-review.selected {
+            border-width: 3px;
+        }
+        
+        .option-marker {
+            position: absolute;
+            right: 15px;
+            top: 15px;
+            font-weight: bold;
+        }
+        
+        .explanation-box {
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .explanation-box h4 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .navigation {
+            padding: 20px;
+            background: #f8f9fa;
+            border-top: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .nav-btn {
+            padding: 12px 25px;
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .nav-btn:disabled {
+            background: #95a5a6;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="index.html" class="back-btn">← Back</a>
+            <h1>📖 Review Answers</h1>
+            <p>Learn from your mistakes and reinforce knowledge</p>
+        </div>
+        
+        <div class="review-controls">
+            <div class="filter-group">
+                <button class="filter-btn active" onclick="filterQuestions('all')">All Questions</button>
+                <button class="filter-btn" onclick="filterQuestions('incorrect')">Incorrect Only</button>
+                <button class="filter-btn" onclick="filterQuestions('correct')">Correct Only</button>
+            </div>
+            <div id="questionCount">0 questions</div>
+        </div>
+        
+        <div class="questions-list" id="questionsList">
+            <!-- Questions will be loaded dynamically -->
+        </div>
+        
+        <div class="question-detail hidden" id="questionDetail">
+            <div class="detail-header">
+                <h3 id="detailTitle">Question Details</h3>
+                <div id="detailStatus" class="status-badge">Correct</div>
+            </div>
+            
+            <div class="question-text" id="detailQuestionText"></div>
+            
+            <div class="options-review" id="detailOptions">
+                <!-- Options will be loaded dynamically -->
+            </div>
+            
+            <div class="explanation-box">
+                <h4>Explanation</h4>
+                <div id="detailExplanation"></div>
+            </div>
+        </div>
+        
+        <div class="navigation hidden" id="detailNavigation">
+            <button class="nav-btn" id="prevDetailBtn" onclick="previousDetail()">← Previous</button>
+            <button class="nav-btn" id="nextDetailBtn" onclick="nextDetail()">Next →</button>
+        </div>
+    </div>
+
+    <!-- Load scripts in correct order -->
+<script src="assets/scripts/storage.js"></script>
+<script src="assets/scripts/app.js"></script>
+<script src="assets/scripts/quiz-engine.js"></script>
+<script src="assets/scripts/analytics.js"></script>
+    <script>
+        let currentResults = null;
+        let currentFilter = 'all';
+        let currentDetailIndex = 0;
+        
+        function loadReviewData() {
+            currentResults = storage.getQuizResults();
+            if (!currentResults) {
+                window.location.href = 'index.html';
+                return;
+            }
+            
+            renderQuestionsList();
+            updateQuestionCount();
+        }
+        
+        function renderQuestionsList() {
+            const questionsList = document.getElementById('questionsList');
+            questionsList.innerHTML = '';
+            
+            currentResults.questions.forEach((question, index) => {
+                const userAnswer = currentResults.userAnswers[index];
+                const isCorrect = userAnswer === question.correctAnswer;
+                
+                // Apply filter
+                if (currentFilter === 'incorrect' && isCorrect) return;
+                if (currentFilter === 'correct' && !isCorrect) return;
+                
+                const questionItem = document.createElement('div');
+                questionItem.className = `question-item ${isCorrect ? 'correct' : 'incorrect'}`;
+                questionItem.onclick = () => showQuestionDetail(index);
+                
+                questionItem.innerHTML = `
+                    <div class="question-header">
+                        <strong>Question ${index + 1}</strong>
+                        <div class="status-badge ${isCorrect ? 'status-correct' : 'status-incorrect'}">
+                            ${isCorrect ? 'Correct' : 'Incorrect'}
+                        </div>
+                    </div>
+                    <div class="question-preview">${question.question.substring(0, 100)}...</div>
+                `;
+                
+                questionsList.appendChild(questionItem);
+            });
+        }
+        
+        function filterQuestions(filter) {
+            currentFilter = filter;
+            
+            // Update filter buttons
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            
+            renderQuestionsList();
+            updateQuestionCount();
+        }
+        
+        function updateQuestionCount() {
+            const total = currentResults.questions.length;
+            let filteredCount = total;
+            
+            if (currentFilter === 'incorrect') {
+                filteredCount = currentResults.userAnswers.filter((answer, index) => 
+                    answer !== currentResults.questions[index].correctAnswer
+                ).length;
+            } else if (currentFilter === 'correct') {
+                filteredCount = currentResults.userAnswers.filter((answer, index) => 
+                    answer === currentResults.questions[index].correctAnswer
+                ).length;
+            }
+            
+            document.getElementById('questionCount').textContent = 
+                `${filteredCount} questions (${currentFilter})`;
+        }
+        
+        function showQuestionDetail(index) {
+            currentDetailIndex = index;
+            const question = currentResults.questions[index];
+            const userAnswer = currentResults.userAnswers[index];
+            const isCorrect = userAnswer === question.correctAnswer;
+            
+            // Show detail section
+            document.getElementById('questionDetail').classList.remove('hidden');
+            document.getElementById('detailNavigation').classList.remove('hidden');
+            
+            // Update detail content
+            document.getElementById('detailTitle').textContent = `Question ${index + 1}`;
+            document.getElementById('detailStatus').textContent = isCorrect ? 'Correct' : 'Incorrect';
+            document.getElementById('detailStatus').className = `status-badge ${isCorrect ? 'status-correct' : 'status-incorrect'}`;
+            document.getElementById('detailQuestionText').textContent = question.question;
+            document.getElementById('detailExplanation').textContent = question.explanation;
+            
+            // Render options
+            const optionsContainer = document.getElementById('detailOptions');
+            optionsContainer.innerHTML = '';
+            
+            question.options.forEach((option, optionIndex) => {
+                const optionElement = document.createElement('div');
+                optionElement.className = 'option-review';
+                
+                if (optionIndex === question.correctAnswer) {
+                    optionElement.classList.add('correct');
+                }
+                if (optionIndex === userAnswer && !isCorrect) {
+                    optionElement.classList.add('incorrect', 'selected');
+                } else if (optionIndex === userAnswer) {
+                    optionElement.classList.add('selected');
+                }
+                
+                optionElement.innerHTML = `
+                    <div class="option-marker">
+                        ${optionIndex === question.correctAnswer ? '✓ Correct' : 
+                          optionIndex === userAnswer && !isCorrect ? '✗ Your Answer' : 
+                          optionIndex === userAnswer ? '✓ Your Answer' : ''}
+                    </div>
+                    ${option}
+                `;
+                
+                optionsContainer.appendChild(optionElement);
+            });
+            
+            // Update navigation buttons
+            document.getElementById('prevDetailBtn').disabled = index === 0;
+            document.getElementById('nextDetailBtn').disabled = index === currentResults.questions.length - 1;
+            
+            // Scroll to detail
+            document.getElementById('questionDetail').scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function previousDetail() {
+            if (currentDetailIndex > 0) {
+                showQuestionDetail(currentDetailIndex - 1);
+            }
+        }
+        
+        function nextDetail() {
+            if (currentDetailIndex < currentResults.questions.length - 1) {
+                showQuestionDetail(currentDetailIndex + 1);
+            }
+        }
+        
+        // Load review data when page loads
+        document.addEventListener('DOMContentLoaded', loadReviewData);
+    </script>
+</body>
+</html>

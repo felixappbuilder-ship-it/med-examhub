@@ -1,0 +1,602 @@
+[
+  {
+    "id": "histology-1",
+    "question": "Which cell type produces surfactant in the lungs?",
+    "options": [
+      "Type II pneumocytes",
+      "Type I pneumocytes",
+      "Clara cells",
+      "Alveolar macrophages"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Type II pneumocytes produce surfactant which reduces surface tension. Type I are for gas exchange, Clara cells are bronchiolar, macrophages for defense.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "histology-2",
+    "question": "The histological feature that distinguishes the small intestine is the presence of:",
+    "options": [
+      "Villi and crypts of Lieberkühn",
+      "Gastric pits",
+      "Transitional epithelium",
+      "Haversian systems"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The small intestine mucosa has finger-like villi projections and intestinal glands (crypts of Lieberkühn) that dramatically increase surface area for absorption.",
+    "topic": "histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "histology-3",
+    "question": "Which cells in the pancreatic islets produce insulin?",
+    "options": [
+      "Beta cells",
+      "Alpha cells",
+      "Delta cells",
+      "F cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beta cells (70% of islet cells) produce insulin. Alpha cells produce glucagon, delta cells produce somatostatin, and F cells produce pancreatic polypeptide.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "histology-4",
+    "question": "The glomerular filtration barrier consists of all EXCEPT:",
+    "options": [
+      "Mesangial cells",
+      "Fenestrated endothelium",
+      "Glomerular basement membrane",
+      "Podocyte foot processes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The filtration barrier includes fenestrated endothelium, glomerular basement membrane, and podocyte foot processes with filtration slits. Mesangial cells provide structural support but are not part of the filtration barrier.",
+    "topic": "histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "histology-5",
+    "question": "Kupffer cells are specialized macrophages found in the:",
+    "options": [
+      "Liver sinusoids",
+      "Spleen red pulp",
+      "Lung alveoli",
+      "Brain microglia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kupffer cells are resident macrophages located in the liver sinusoids, part of the mononuclear phagocyte system that removes debris and old red blood cells from circulation.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "histology-6",
+    "question": "The zona glomerulosa of the adrenal cortex produces:",
+    "options": [
+      "Aldosterone",
+      "Cortisol",
+      "Androgens",
+      "Epinephrine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zona glomerulosa produces mineralocorticoids (aldosterone). Zona fasciculata produces glucocorticoids (cortisol), zona reticularis produces androgens, and medulla produces catecholamines.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "histology-7",
+    "question": "Which cells in the thyroid gland produce calcitonin?",
+    "options": [
+      "Parafollicular (C) cells",
+      "Follicular cells",
+      "Oxyphil cells",
+      "Chief cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parafollicular cells (C cells) produce calcitonin which lowers blood calcium. Follicular cells produce thyroid hormones. Chief cells are in parathyroid glands.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "histology-8",
+    "question": "The histological feature unique to cardiac muscle is:",
+    "options": [
+      "Intercalated discs",
+      "Striations",
+      "Multiple nuclei",
+      "Voluntary control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intercalated discs are unique to cardiac muscle, containing gap junctions for electrical coupling and desmosomes for mechanical strength. Both cardiac and skeletal muscle are striated.",
+    "topic": "histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "histology-9",
+    "question": "The white pulp of the spleen contains primarily:",
+    "options": [
+      "Lymphocytes around central arteries",
+      "Venous sinuses filled with blood",
+      "Red blood cells and macrophages",
+      "Adipose tissue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "White pulp consists of periarteriolar lymphoid sheaths (PALS) with T lymphocytes and lymphoid follicles with B lymphocytes. Red pulp contains blood-filled sinuses and cords.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 11"
+  },
+  {
+    "id": "histology-10",
+    "question": "Parietal cells in the gastric glands are responsible for secreting:",
+    "options": [
+      "Hydrochloric acid and intrinsic factor",
+      "Pepsinogen",
+      "Gastrin",
+      "Mucus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parietal (oxyntic) cells secrete HCl and intrinsic factor. Chief cells secrete pepsinogen, G cells secrete gastrin, and mucous neck cells secrete mucus.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "histology-11",
+    "question": "Which neuroglial cell forms the blood-brain barrier?",
+    "options": [
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Microglia",
+      "Ependymal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Astrocytes form foot processes around capillaries to create the blood-brain barrier. Oligodendrocytes myelinate CNS axons, microglia are phagocytic, and ependymal cells line ventricles.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "histology-12",
+    "question": "The proximal convoluted tubule of the nephron is characterized by:",
+    "options": [
+      "Brush border of microvilli",
+      "Thin descending limb",
+      "Macula densa",
+      "Simple squamous epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The PCT has a prominent brush border of microvilli to increase surface area for reabsorption. It has simple cuboidal epithelium with basal striations, not squamous.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "histology-13",
+    "question": "Hepatocytes are arranged in:",
+    "options": [
+      "Hepatic cords radiating from central veins",
+      "Islets surrounded by sinusoids",
+      "Acini around bile ductules",
+      "Lobules with portal triads at center"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hepatocytes are arranged in cords (plates) that radiate from the central vein toward the portal triads in the classic liver lobule structure.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "histology-14",
+    "question": "The histological feature that distinguishes the esophagus is:",
+    "options": [
+      "Non-keratinized stratified squamous epithelium",
+      "Simple columnar epithelium",
+      "Pseudostratified ciliated epithelium",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The esophagus is lined by non-keratinized stratified squamous epithelium to withstand abrasion from food. The rest of the GI tract has simple columnar epithelium.",
+    "topic": "histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "histology-15",
+    "question": "Which cells produce myelin in the peripheral nervous system?",
+    "options": [
+      "Schwann cells",
+      "Oligodendrocytes",
+      "Astrocytes",
+      "Satellite cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Schwann cells myelinate axons in the PNS, with each cell myelinating a single segment of one axon. Oligodendrocytes myelinate multiple axons in the CNS.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "histology-16",
+    "question": "The histological feature unique to the trachea is:",
+    "options": [
+      "C-shaped hyaline cartilage rings",
+      "Smooth muscle in mucosa",
+      "Respiratory epithelium",
+      "Submucosal glands"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The trachea has C-shaped rings of hyaline cartilage that keep the airway open. The open ends are connected by smooth muscle (trachealis).",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "histology-17",
+    "question": "The Nissl bodies visible in neuron cell bodies represent:",
+    "options": [
+      "Rough endoplasmic reticulum",
+      "Mitochondria",
+      "Golgi apparatus",
+      "Lipofuscin granules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nissl bodies are aggregates of rough endoplasmic reticulum and free ribosomes involved in protein synthesis. They stain basophilic with histological dyes like cresyl violet.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "histology-18",
+    "question": "The histological feature that identifies the large intestine is:",
+    "options": [
+      "Abundant goblet cells and no villi",
+      "Plicae circulares and villi",
+      "Brunner's glands",
+      "Gastric pits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The large intestine has numerous goblet cells in its crypts and lacks villi, unlike the small intestine which has both villi and crypts.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "histology-19",
+    "question": "Which cells are responsible for bone resorption?",
+    "options": [
+      "Osteoclasts",
+      "Osteoblasts",
+      "Osteocytes",
+      "Osteoprogenitor cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osteoclasts are multinucleated cells derived from monocytes that resorb bone. Osteoblasts build bone matrix, osteocytes maintain bone, and osteoprogenitor cells are stem cells.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "histology-20",
+    "question": "The histological feature unique to the epidermis is:",
+    "options": [
+      "Stratified squamous keratinized epithelium",
+      "Simple columnar epithelium",
+      "Transitional epithelium",
+      "Pseudostratified epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The epidermis of the skin is stratified squamous keratinized epithelium, with keratinocytes producing keratin for protection against abrasion and dehydration.",
+    "topic": "histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 9"
+  },
+  {
+    "id": "histology-21",
+    "question": "Hassall's corpuscles are characteristic of the:",
+    "options": [
+      "Thymus",
+      "Spleen",
+      "Lymph node",
+      "Tonsil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hassall's corpuscles are concentric whorls of epithelial cells found in the thymic medulla, representing degenerating epithelial reticular cells.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 11"
+  },
+  {
+    "id": "histology-22",
+    "question": "The portal triad in the liver contains:",
+    "options": [
+      "Portal vein, hepatic artery, bile duct",
+      "Central vein, hepatic artery, sinusoid",
+      "Hepatic vein, portal vein, bile duct",
+      "Sinusoid, space of Disse, hepatocyte"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The portal triad consists of branches of the portal vein, hepatic artery, and bile duct, surrounded by connective tissue at the corners of liver lobules.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "histology-23",
+    "question": "Which type of cartilage is found in intervertebral discs?",
+    "options": [
+      "Fibrocartilage",
+      "Hyaline cartilage",
+      "Elastic cartilage",
+      "Articular cartilage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fibrocartilage contains dense bundles of type I collagen and is found in intervertebral discs, pubic symphysis, and certain tendon insertions where strength and rigidity are needed.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "histology-24",
+    "question": "The macula densa is part of the:",
+    "options": [
+      "Juxtaglomerular apparatus",
+      "Renal corpuscle",
+      "Loop of Henle",
+      "Collecting duct"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The macula densa is a specialized region of the distal convoluted tubule that contacts the vascular pole of its parent glomerulus, forming part of the juxtaglomerular apparatus.",
+    "topic": "histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "histology-25",
+    "question": "Which cells in the seminiferous tubules support sperm development?",
+    "options": [
+      "Sertoli cells",
+      "Leydig cells",
+      "Spermatogonia",
+      "Spermatocytes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sertoli (sustentacular) cells provide structural and metabolic support for developing sperm cells and form the blood-testis barrier.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 18"
+  },
+  {
+    "id": "histology-26",
+    "question": "The histological feature that distinguishes the alveoli is:",
+    "options": [
+      "Type I and Type II pneumocytes",
+      "Ciliated pseudostratified epithelium",
+      "Hyaline cartilage rings",
+      "Smooth muscle bundles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alveoli are lined by extremely thin Type I pneumocytes for gas exchange and Type II pneumocytes that produce surfactant.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "histology-27",
+    "question": "Which cells produce collagen fibers in connective tissue?",
+    "options": [
+      "Fibroblasts",
+      "Macrophages",
+      "Mast cells",
+      "Plasma cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fibroblasts synthesize and secrete collagen, elastin, and ground substance. Macrophages phagocytose, mast cells release histamine, plasma cells produce antibodies.",
+    "topic": "histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "histology-28",
+    "question": "The histological feature unique to the urinary bladder is:",
+    "options": [
+      "Transitional epithelium (urothelium)",
+      "Simple columnar epithelium",
+      "Stratified squamous epithelium",
+      "Pseudostratified epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The urinary bladder is lined by transitional epithelium (urothelium) that can stretch and flatten to accommodate changes in urine volume.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "histology-29",
+    "question": "Which type of collagen is the most abundant in the body?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Type I collagen constitutes about 90% of body collagen and is found in skin, tendon, bone, dentin, and other connective tissues providing tensile strength.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "histology-30",
+    "question": "The Haversian system (osteon) is found in:",
+    "options": [
+      "Compact bone",
+      "Spongy bone",
+      "Hyaline cartilage",
+      "Elastic cartilage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osteons are the structural units of compact bone, consisting of concentric lamellae around a central canal containing blood vessels and nerves.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "histology-31",
+    "question": "Which cells are responsible for antibody production?",
+    "options": [
+      "Plasma cells",
+      "Mast cells",
+      "Macrophages",
+      "Fibroblasts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Plasma cells are derived from B lymphocytes and synthesize and secrete antibodies (immunoglobulins) as part of the humoral immune response.",
+    "topic": "histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "histology-32",
+    "question": "The histological feature that identifies the cerebellum is:",
+    "options": [
+      "Purkinje cell layer between molecular and granular layers",
+      "Six-layered cerebral cortex",
+      "Pyramidal cells in hippocampus",
+      "Ependymal cells lining ventricles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cerebellar cortex has three layers: molecular layer (outer), Purkinje cell layer (middle), and granular layer (inner), with Purkinje cells as the output neurons.",
+    "topic": "histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "histology-33",
+    "question": "The ground substance of connective tissue primarily consists of:",
+    "options": [
+      "Glycosaminoglycans and proteoglycans",
+      "Collagen fibers",
+      "Elastic fibers",
+      "Reticular fibers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ground substance is composed of glycosaminoglycans (GAGs), proteoglycans, and multiadhesive glycoproteins that form a hydrated gel allowing nutrient diffusion.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "histology-34",
+    "question": "Which cells in the bone are mature bone cells embedded in lacunae?",
+    "options": [
+      "Osteocytes",
+      "Osteoblasts",
+      "Osteoclasts",
+      "Osteoprogenitor cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osteocytes are mature bone cells embedded in lacunae within the bone matrix, connected by canaliculi for nutrient exchange.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "histology-35",
+    "question": "The histological feature that distinguishes the ileum is:",
+    "options": [
+      "Peyer's patches in submucosa",
+      "Brunner's glands",
+      "Tall, slender villi",
+      "Gastric pits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ileum contains abundant Peyer's patches (lymphoid follicles) in the submucosa, which are part of the gut-associated lymphoid tissue (GALT).",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "histology-36",
+    "question": "Which neuroglial cells are the resident macrophages of the CNS?",
+    "options": [
+      "Microglia",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Ependymal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Microglia are the phagocytic cells of the CNS, derived from monocytes. They become activated during inflammation or tissue damage.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "histology-37",
+    "question": "The histological feature unique to the thyroid gland is:",
+    "options": [
+      "Thyroid follicles filled with colloid",
+      "Islets of endocrine cells",
+      "Adipose tissue interspersed with endocrine cells",
+      "Cords of epithelial cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The thyroid gland consists of spherical follicles lined by simple cuboidal epithelium and filled with thyroglobulin-rich colloid where thyroid hormones are stored.",
+    "topic": "histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "histology-38",
+    "question": "Which cells line the ventricles of the brain and central canal of the spinal cord?",
+    "options": [
+      "Ependymal cells",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Microglia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ependymal cells are ciliated cuboidal or columnar epithelial cells that line the ventricles and central canal, helping to circulate cerebrospinal fluid.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "histology-39",
+    "question": "The histological feature that identifies the pancreas is:",
+    "options": [
+      "Both exocrine acini and endocrine islets",
+      "Only endocrine islets",
+      "Only exocrine acini",
+      "Hepatic cords and sinusoids"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The pancreas has both exocrine acinar cells that secrete digestive enzymes and endocrine islets of Langerhans that secrete hormones like insulin and glucagon.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "histology-40",
+    "question": "The red pulp of the spleen functions primarily in:",
+    "options": [
+      "Filtering blood and removing old RBCs",
+      "T lymphocyte maturation",
+      "B lymphocyte activation",
+      "Antibody production"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Red pulp contains splenic cords and sinusoids where blood is filtered, and old or damaged red blood cells are removed by macrophages.",
+    "topic": "histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 11"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "connective-tissue-1",
+    "question": "Which cell is responsible for producing collagen fibers in connective tissue?",
+    "options": [
+      "Fibroblast",
+      "Macrophage",
+      "Mast cell",
+      "Plasma cell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fibroblasts synthesize and secrete collagen, elastin, and ground substance. Macrophages phagocytose, mast cells release histamine, plasma cells produce antibodies.",
+    "topic": "connective-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-2",
+    "question": "Which type of collagen is the most abundant in the body?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Type I collagen constitutes about 90% of body collagen and is found in skin, tendon, bone, dentin, and other connective tissues providing tensile strength.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-3",
+    "question": "The ground substance of connective tissue primarily consists of:",
+    "options": [
+      "Glycosaminoglycans and proteoglycans",
+      "Collagen fibers",
+      "Elastic fibers",
+      "Reticular fibers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ground substance is composed of glycosaminoglycans (GAGs), proteoglycans, and multiadhesive glycoproteins that form a hydrated gel allowing nutrient diffusion.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-4",
+    "question": "Which cells are derived from monocytes and function in phagocytosis?",
+    "options": [
+      "Macrophages",
+      "Fibroblasts",
+      "Mast cells",
+      "Adipocytes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Macrophages are derived from blood monocytes and function as phagocytic cells that engulf pathogens, dead cells, and debris in connective tissue.",
+    "topic": "connective-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-5",
+    "question": "Reticular fibers are primarily composed of which type of collagen?",
+    "options": [
+      "Type III",
+      "Type I",
+      "Type II",
+      "Type IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reticular fibers are composed mainly of type III collagen and form delicate networks that support cellular elements in organs like liver, spleen, and lymph nodes.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-6",
+    "question": "Which connective tissue cell contains granules with histamine and heparin?",
+    "options": [
+      "Mast cells",
+      "Plasma cells",
+      "Fibroblasts",
+      "Macrophages"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mast cells contain granules with histamine (vasoactive amine), heparin (anticoagulant), and other mediators involved in inflammatory and allergic responses.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-7",
+    "question": "Hyaline cartilage is characterized by:",
+    "options": [
+      "Type II collagen and glassy matrix",
+      "Elastic fibers in matrix",
+      "Dense collagen fibers",
+      "Calcified matrix"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hyaline cartilage contains type II collagen fibrils embedded in a glassy, homogeneous matrix rich in proteoglycans. It's found in articular surfaces, trachea, and nasal septum.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-8",
+    "question": "Which type of connective tissue has the best capacity for regeneration?",
+    "options": [
+      "Loose connective tissue",
+      "Dense regular connective tissue",
+      "Cartilage",
+      "Bone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loose connective tissue has good regenerative capacity due to its vascularity and cellularity. Cartilage has poor regeneration, while bone regenerates well but slowly.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-9",
+    "question": "Osteoblasts are responsible for:",
+    "options": [
+      "Bone formation",
+      "Bone resorption",
+      "Cartilage formation",
+      "Bone maintenance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osteoblasts synthesize and secrete bone matrix (osteoid) which then mineralizes. Osteoclasts resorb bone, while osteocytes maintain bone tissue.",
+    "topic": "connective-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-10",
+    "question": "Elastic cartilage is found in the:",
+    "options": [
+      "External ear and epiglottis",
+      "Intervertebral discs",
+      "Articular surfaces",
+      "Costal cartilages"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Elastic cartilage contains abundant elastic fibers in addition to collagen, providing flexibility. It's found in the external ear, epiglottis, and auditory tube.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-11",
+    "question": "Which fiber type provides elasticity to connective tissue?",
+    "options": [
+      "Elastic fibers",
+      "Collagen fibers",
+      "Reticular fibers",
+      "All of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Elastic fibers, composed of elastin and microfibrils, provide elasticity and resilience to tissues like skin, lungs, and blood vessels.",
+    "topic": "connective-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-12",
+    "question": "The perichondrium is:",
+    "options": [
+      "Dense connective tissue surrounding cartilage",
+      "The inner layer of bone marrow",
+      "The matrix of hyaline cartilage",
+      "The growth plate in long bones"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The perichondrium is a layer of dense connective tissue that surrounds most cartilage, containing blood vessels and chondrogenic cells for cartilage growth and repair.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-13",
+    "question": "Which cells are responsible for antibody production?",
+    "options": [
+      "Plasma cells",
+      "Mast cells",
+      "Macrophages",
+      "Fibroblasts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Plasma cells are derived from B lymphocytes and synthesize and secrete antibodies (immunoglobulins) as part of the humoral immune response.",
+    "topic": "connective-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-14",
+    "question": "The lamina propria is composed of:",
+    "options": [
+      "Loose connective tissue",
+      "Dense irregular connective tissue",
+      "Adipose tissue",
+      "Reticular tissue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The lamina propria is the layer of loose connective tissue beneath epithelial membranes, containing blood vessels, nerves, and immune cells.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-15",
+    "question": "Which type of cartilage is found in intervertebral discs?",
+    "options": [
+      "Fibrocartilage",
+      "Hyaline cartilage",
+      "Elastic cartilage",
+      "Articular cartilage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fibrocartilage contains dense bundles of type I collagen and is found in intervertebral discs, pubic symphysis, and certain tendon insertions where strength and rigidity are needed.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-16",
+    "question": "Brown adipose tissue is characterized by:",
+    "options": [
+      "Multilocular adipocytes and thermogenesis",
+      "Unilocular adipocytes and energy storage",
+      "Abundant collagen fibers",
+      "Numerous mast cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Brown adipose tissue contains multilocular adipocytes with numerous mitochondria that generate heat (thermogenesis), especially in newborns and hibernating animals.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-17",
+    "question": "The Haversian system (osteon) is found in:",
+    "options": [
+      "Compact bone",
+      "Spongy bone",
+      "Hyaline cartilage",
+      "Elastic cartilage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osteons are the structural units of compact bone, consisting of concentric lamellae around a central canal containing blood vessels and nerves.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-18",
+    "question": "Mesenchymal cells are:",
+    "options": [
+      "Undifferentiated connective tissue stem cells",
+      "Mature fat cells",
+      "Bone-forming cells",
+      "Cartilage cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mesenchymal cells are undifferentiated stem cells in connective tissue that can differentiate into various cell types including fibroblasts, osteoblasts, and chondroblasts.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-19",
+    "question": "Which glycosaminoglycan is the most abundant in the body?",
+    "options": [
+      "Chondroitin sulfate",
+      "Hyaluronic acid",
+      "Heparan sulfate",
+      "Keratan sulfate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chondroitin sulfate is the most abundant GAG, found in cartilage, bone, skin, and blood vessels. Hyaluronic acid is also very abundant but is not sulfated.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-20",
+    "question": "Tendons are composed primarily of:",
+    "options": [
+      "Dense regular connective tissue",
+      "Dense irregular connective tissue",
+      "Loose connective tissue",
+      "Elastic connective tissue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tendons consist of dense regular connective tissue with collagen fibers arranged in parallel bundles to withstand unidirectional tension.",
+    "topic": "connective-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-21",
+    "question": "Lacunae in cartilage contain:",
+    "options": [
+      "Chondrocytes",
+      "Osteocytes",
+      "Adipocytes",
+      "Fibroblasts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chondrocytes reside in lacunae within the cartilage matrix. Similarly, osteocytes reside in lacunae in bone tissue.",
+    "topic": "connective-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-22",
+    "question": "The dermis of the skin is primarily composed of:",
+    "options": [
+      "Dense irregular connective tissue",
+      "Loose connective tissue",
+      "Adipose tissue",
+      "Elastic tissue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The dermis consists mainly of dense irregular connective tissue that provides strength and elasticity, with collagen fibers arranged in various directions.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 9"
+  },
+  {
+    "id": "connective-tissue-23",
+    "question": "Which type of collagen is found in basement membranes?",
+    "options": [
+      "Type IV",
+      "Type I",
+      "Type II",
+      "Type III"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Type IV collagen forms the meshwork of basement membranes, providing structural support for epithelial and endothelial cells.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-24",
+    "question": "Mucous connective tissue is characteristic of:",
+    "options": [
+      "Wharton's jelly in umbilical cord",
+      "Tendons and ligaments",
+      "Dermis of skin",
+      "Articular cartilage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mucous connective tissue (Wharton's jelly) is found in the umbilical cord and contains abundant ground substance with scattered fibroblasts and collagen fibers.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-25",
+    "question": "Osteoclasts are derived from:",
+    "options": [
+      "Monocyte-macrophage lineage",
+      "Fibroblasts",
+      "Osteoblasts",
+      "Mesenchymal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osteoclasts are multinucleated cells derived from the fusion of monocyte precursors in the bone marrow, specialized for bone resorption.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-26",
+    "question": "The extracellular matrix of connective tissue includes:",
+    "options": [
+      "Fibers and ground substance",
+      "Cells and fibers",
+      "Cells and ground substance",
+      "Cells only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The extracellular matrix consists of fibers (collagen, elastic, reticular) embedded in ground substance (GAGs, proteoglycans, glycoproteins).",
+    "topic": "connective-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-27",
+    "question": "Which cell type is involved in inflammatory responses and contains metachromatic granules?",
+    "options": [
+      "Mast cells",
+      "Plasma cells",
+      "Macrophages",
+      "Fibroblasts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mast cells contain metachromatic granules that stain purple with basic dyes and release histamine, heparin, and other mediators during inflammation and allergy.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-28",
+    "question": "The hypodermis is primarily composed of:",
+    "options": [
+      "Adipose tissue",
+      "Dense irregular connective tissue",
+      "Loose connective tissue",
+      "Elastic tissue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The hypodermis (subcutaneous tissue) consists mainly of adipose tissue that provides insulation and energy storage, with some loose connective tissue.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 9"
+  },
+  {
+    "id": "connective-tissue-29",
+    "question": "Interstitial growth of cartilage occurs by:",
+    "options": [
+      "Division of existing chondrocytes",
+      "Differentiation of perichondrial cells",
+      "Appositional growth only",
+      "Both division and differentiation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Interstitial growth involves mitosis of existing chondrocytes within the cartilage, allowing growth from within. Appositional growth occurs at the periphery from perichondrial cells.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-30",
+    "question": "The organic component of bone matrix is called:",
+    "options": [
+      "Osteoid",
+      "Hydroxyapatite",
+      "Calcium phosphate",
+      "Bone mineral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osteoid is the unmineralized organic matrix secreted by osteoblasts, consisting mainly of type I collagen and proteoglycans.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-31",
+    "question": "Which type of connective tissue has the poorest blood supply?",
+    "options": [
+      "Cartilage",
+      "Bone",
+      "Loose connective tissue",
+      "Adipose tissue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cartilage is avascular and receives nutrients by diffusion through the matrix, which limits its regenerative capacity.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-32",
+    "question": "Reticular connective tissue forms the framework of:",
+    "options": [
+      "Lymphoid organs",
+      "Tendons",
+      "Bone",
+      "Cartilage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reticular tissue, composed of reticular fibers and fibroblasts, forms the structural framework of lymphoid organs (spleen, lymph nodes, bone marrow).",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-33",
+    "question": "The Sharpey's fibers in bone are:",
+    "options": [
+      "Collagen fibers that penetrate bone matrix",
+      "Elastic fibers in periosteum",
+      "Reticular fibers in bone marrow",
+      "Collagen fibers in cartilage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sharpey's fibers are thick bundles of collagen that extend from the periosteum into the bone matrix, anchoring tendons and ligaments to bone.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-34",
+    "question": "Which proteoglycan aggregates with hyaluronic acid to form large complexes in cartilage?",
+    "options": [
+      "Aggrecan",
+      "Decorin",
+      "Fibromodulin",
+      "Versican"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aggrecan is the major proteoglycan in cartilage that aggregates with hyaluronic acid, creating large complexes that provide compressive strength.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-35",
+    "question": "The endosteum lines the:",
+    "options": [
+      "Medullary cavity of bones",
+      "Outer surface of bones",
+      "Haversian canals",
+      "Articular surfaces"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The endosteum is a thin layer of connective tissue that lines the medullary cavity of bones and contains osteoprogenitor cells.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-36",
+    "question": "Which type of collagen is primarily found in hyaline cartilage?",
+    "options": [
+      "Type II",
+      "Type I",
+      "Type III",
+      "Type IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hyaline cartilage contains primarily type II collagen, which forms a fine network of fibrils embedded in the abundant ground substance.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-37",
+    "question": "The process of bone formation is called:",
+    "options": [
+      "Ossification",
+      "Chondrogenesis",
+      "Adipogenesis",
+      "Fibrosis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ossification (osteogenesis) is the process of bone formation, which can occur through intramembranous or endochondral mechanisms.",
+    "topic": "connective-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-38",
+    "question": "Which cells maintain the extracellular matrix of cartilage?",
+    "options": [
+      "Chondrocytes",
+      "Osteocytes",
+      "Fibroblasts",
+      "Adipocytes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chondrocytes maintain the cartilage matrix by synthesizing and degrading its components. They reside in lacunae within the matrix.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "connective-tissue-39",
+    "question": "The periodontal ligament is an example of:",
+    "options": [
+      "Dense regular connective tissue",
+      "Loose connective tissue",
+      "Elastic connective tissue",
+      "Reticular tissue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The periodontal ligament is dense regular connective tissue that connects the tooth to the alveolar bone socket, with collagen fibers arranged to withstand chewing forces.",
+    "topic": "connective-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "connective-tissue-40",
+    "question": "Which vitamin is essential for collagen cross-linking?",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin K"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vitamin C is essential for the hydroxylation of proline and lysine during collagen synthesis, which is necessary for proper collagen cross-linking and stability.",
+    "topic": "connective-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  }
+]

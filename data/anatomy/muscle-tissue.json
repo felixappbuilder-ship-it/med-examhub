@@ -1,0 +1,602 @@
+[
+  {
+    "id": "muscle-tissue-1",
+    "question": "What is the functional unit of skeletal muscle?",
+    "options": [
+      "Sarcomere",
+      "Myofibril",
+      "Muscle fiber",
+      "Motor unit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The sarcomere, extending from Z-line to Z-line, is the basic contractile unit of skeletal muscle containing actin and myosin filaments.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-2",
+    "question": "Which type of muscle tissue has intercalated discs?",
+    "options": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "All of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cardiac muscle cells are connected by intercalated discs containing gap junctions for electrical coupling and desmosomes for mechanical strength.",
+    "topic": "muscle-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-3",
+    "question": "The A band in skeletal muscle contains:",
+    "options": [
+      "Overlapping thick and thin filaments",
+      "Only thin filaments",
+      "Only thick filaments",
+      "Z-lines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The A band contains the entire length of thick filaments (myosin) and overlapping thin filaments (actin). The I band contains only thin filaments.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-4",
+    "question": "Which type of muscle is under voluntary control?",
+    "options": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Smooth muscle",
+      "Both skeletal and cardiac"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Skeletal muscle is under voluntary control via somatic nervous system. Cardiac and smooth muscle are involuntary.",
+    "topic": "muscle-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-5",
+    "question": "T-tubules in skeletal muscle are invaginations of:",
+    "options": [
+      "Sarcolemma",
+      "Sarcoplasmic reticulum",
+      "Nuclear membrane",
+      "Mitochondrial membrane"
+    ],
+    "correctAnswer": 0,
+    "explanation": "T-tubules are deep invaginations of the sarcolemma that allow rapid transmission of action potentials to the interior of the muscle fiber.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+    },
+  {
+    "id": "muscle-tissue-6",
+    "question": "Which protein forms the thick filaments in skeletal muscle?",
+    "options": [
+      "Actin",
+      "Myosin",
+      "Troponin",
+      "Tropomyosin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Myosin is the main component of thick filaments. Actin is the primary component of thin filaments, while troponin and tropomyosin are regulatory proteins on thin filaments.",
+    "topic": "muscle-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-7",
+    "question": "What is the role of the sarcoplasmic reticulum in muscle contraction?",
+    "options": [
+      "Propagate action potentials",
+      "Synthesize contractile proteins",
+      "Store and release calcium ions",
+      "Provide ATP for contraction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sarcoplasmic reticulum is a specialized smooth endoplasmic reticulum that stores calcium ions and releases them into the sarcoplasm in response to an action potential, triggering muscle contraction.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-8",
+    "question": "Which characteristic distinguishes cardiac muscle from skeletal muscle?",
+    "options": [
+      "Presence of striations",
+      "Multiple nuclei per cell",
+      "Branched fibers with intercalated discs",
+      "Voluntary control"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cardiac muscle fibers are branched and connected by intercalated discs, unlike skeletal muscle fibers which are long, cylindrical, and multinucleated. Both are striated, but only skeletal muscle is voluntary.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-9",
+    "question": "The 'sliding filament theory' describes:",
+    "options": [
+      "How muscles generate ATP",
+      "The mechanism of muscle contraction",
+      "Muscle fiber development",
+      "Neuromuscular junction function"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sliding filament theory explains how muscle contraction occurs through the sliding of actin filaments over myosin filaments, shortening the sarcomere without changing filament length.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-10",
+    "question": "Which type of muscle tissue is found in the walls of blood vessels?",
+    "options": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Smooth muscle",
+      "Both skeletal and smooth muscle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Smooth muscle is found in the walls of hollow organs including blood vessels, the gastrointestinal tract, respiratory passages, and the urinary bladder.",
+    "topic": "muscle-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-11",
+    "question": "What is the role of troponin in skeletal muscle contraction?",
+    "options": [
+      "Forms cross-bridges with myosin",
+      "Binds calcium ions to initiate contraction",
+      "Provides structural support to Z-lines",
+      "Hydrolyzes ATP for energy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Troponin binds calcium ions, causing a conformational change that moves tropomyosin away from myosin-binding sites on actin, initiating the cross-bridge cycle.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-12",
+    "question": "Which characteristic is unique to smooth muscle?",
+    "options": [
+      "Striations",
+      "Intercalated discs",
+      "Dense bodies",
+      "Multiple nuclei per cell"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Smooth muscle contains dense bodies that serve as anchoring points for actin filaments, similar to Z-lines in striated muscle. Smooth muscle lacks striations and typically has a single, centrally located nucleus.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-13",
+    "question": "The neuromuscular junction is the site where:",
+    "options": [
+      "Muscle fibers connect to each other",
+      "Nerve impulses are transmitted to muscle fibers",
+      "T-tubules contact the sarcoplasmic reticulum",
+      "Sarcomeres connect end to end"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The neuromuscular junction is a specialized synapse between a motor neuron and a skeletal muscle fiber where acetylcholine is released to transmit nerve impulses.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-14",
+    "question": "Which type of muscle has the most abundant sarcoplasmic reticulum?",
+    "options": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Smooth muscle",
+      "All have similar amounts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Skeletal muscle has the most extensive and organized sarcoplasmic reticulum, reflecting its need for rapid, precise calcium release and reuptake during voluntary contractions.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-15",
+    "question": "What is the function of creatine phosphate in muscle tissue?",
+    "options": [
+      "Stores oxygen in muscle fibers",
+      "Rapidly regenerates ATP during muscle contraction",
+      "Forms cross-bridges between actin and myosin",
+      "Transports calcium ions in sarcoplasm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Creatine phosphate serves as a rapid reservoir for ATP regeneration during the initial phase of intense muscle activity by transferring its phosphate group to ADP.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-16",
+    "question": "Which statement about smooth muscle is correct?",
+    "options": [
+      "It contains sarcomeres",
+      "It is under voluntary control",
+      "It can maintain tone for prolonged periods",
+      "It has a high energy requirement compared to skeletal muscle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Smooth muscle can maintain sustained contractions (tone) with low energy expenditure, making it ideal for functions like maintaining blood pressure and organ shape.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-17",
+    "question": "The H zone in a sarcomere contains:",
+    "options": [
+      "Only actin filaments",
+      "Only myosin filaments",
+      "Overlapping actin and myosin",
+      "Z-lines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The H zone is the central region of the A band that contains only myosin filaments (no actin overlap). It shortens during muscle contraction.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-18",
+    "question": "Which type of muscle fiber is specialized for slow, sustained contractions?",
+    "options": [
+      "Type I (slow oxidative) fibers",
+      "Type IIa (fast oxidative) fibers",
+      "Type IIb (fast glycolytic) fibers",
+      "All skeletal muscle fibers contract at similar speeds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Type I (slow oxidative) fibers have abundant mitochondria, high myoglobin content, and are specialized for endurance activities requiring sustained contraction.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-19",
+    "question": "What is the role of acetylcholinesterase at the neuromuscular junction?",
+    "options": [
+      "Synthesizes acetylcholine",
+      "Releases acetylcholine from vesicles",
+      "Breaks down acetylcholine to terminate contraction",
+      "Binds acetylcholine to receptors"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Acetylcholinesterase rapidly breaks down acetylcholine in the synaptic cleft, terminating its action and allowing the muscle fiber to repolarize.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-20",
+    "question": "Which characteristic is typical of cardiac muscle but not skeletal muscle?",
+    "options": [
+      "Presence of T-tubules",
+      "Striated appearance",
+      "Involuntary control",
+      "Central located nuclei"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cardiac muscle cells typically have one or two centrally located nuclei, while skeletal muscle fibers have multiple peripheral nuclei. Both are striated and have T-tubules, but only skeletal muscle is voluntary.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-21",
+    "question": "The contractile unit of skeletal muscle is organized between two:",
+    "options": [
+      "A bands",
+      "I bands",
+      "Z lines",
+      "H zones"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sarcomere, the basic contractile unit, extends from one Z line to the next Z line. Z lines anchor the thin (actin) filaments.",
+    "topic": "muscle-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-22",
+    "question": "Which type of muscle contains gap junctions that allow electrical coupling between cells?",
+    "options": [
+      "Skeletal muscle only",
+      "Cardiac and smooth muscle",
+      "Skeletal and cardiac muscle",
+      "All three types of muscle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Both cardiac and smooth muscle contain gap junctions that allow rapid spread of electrical impulses between cells, enabling coordinated contractions. Skeletal muscle fibers are electrically isolated from each other.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-23",
+    "question": "What is the primary energy source for muscle contraction?",
+    "options": [
+      "Glucose",
+      "Fatty acids",
+      "ATP",
+      "Creatine phosphate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ATP is the immediate energy source for muscle contraction. Creatine phosphate, glucose, and fatty acids are used to regenerate ATP.",
+    "topic": "muscle-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-24",
+    "question": "Which protein is responsible for binding calcium in the sarcoplasmic reticulum?",
+    "options": [
+      "Troponin",
+      "Calsequestrin",
+      "Calmodulin",
+      "Tropomyosin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Calsequestrin is a calcium-binding protein in the sarcoplasmic reticulum that helps store large quantities of calcium ions.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-25",
+    "question": "The 'power stroke' in muscle contraction refers to:",
+    "options": [
+      "ATP hydrolysis by myosin",
+      "Movement of the myosin head while attached to actin",
+      "Release of calcium from sarcoplasmic reticulum",
+      "Detachment of myosin from actin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The power stroke is the movement of the myosin head while it is attached to actin, which pulls the thin filament toward the center of the sarcomere.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-26",
+    "question": "Which type of muscle has the fastest contraction speed?",
+    "options": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Smooth muscle",
+      "All contract at similar speeds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Skeletal muscle has the fastest contraction speed, followed by cardiac muscle, with smooth muscle being the slowest. This reflects their different physiological roles.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-27",
+    "question": "What is the role of dystrophin in skeletal muscle?",
+    "options": [
+      "Binds calcium ions",
+      "Links the cytoskeleton to extracellular matrix",
+      "Hydrolyzes ATP",
+      "Forms the thick filaments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dystrophin links the internal cytoskeleton to the extracellular matrix through the sarcolemma, providing structural stability. Mutations in dystrophin cause Duchenne muscular dystrophy.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-28",
+    "question": "Which statement about multi-unit smooth muscle is correct?",
+    "options": [
+      "It is found in the uterus",
+      "It contracts as a single unit",
+      "It is richly innervated by autonomic nerves",
+      "It lacks gap junctions"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Multi-unit smooth muscle (found in iris, arrector pili muscles) has minimal gap junctions and each fiber contracts independently in response to neural stimulation.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-29",
+    "question": "Rigor mortis occurs because after death:",
+    "options": [
+      "Calcium ions leak into the sarcoplasm",
+      "ATP production ceases",
+      "Myosin heads cannot detach from actin",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rigor mortis results from calcium leakage into sarcoplasm, formation of actin-myosin cross-bridges, and inability to detach them due to lack of ATP.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-30",
+    "question": "Which type of muscle has the most efficient regeneration capacity?",
+    "options": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Smooth muscle",
+      "All have similar regenerative capacity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Smooth muscle has the best regenerative capacity due to the ability of smooth muscle cells to undergo mitosis. Skeletal muscle has limited regeneration via satellite cells, while cardiac muscle has very poor regenerative capacity.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-31",
+    "question": "The I band in a sarcomere contains:",
+    "options": [
+      "Only myosin filaments",
+      "Only actin filaments",
+      "Overlapping actin and myosin",
+      "M-line proteins"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The I band contains only thin (actin) filaments and extends into adjacent sarcomeres. It shortens during muscle contraction as the actin filaments slide inward.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-32",
+    "question": "What is the function of the M line in skeletal muscle?",
+    "options": [
+      "Anchors thin filaments",
+      "Connects thick filaments to each other",
+      "Stores calcium ions",
+      "Propagates action potentials"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The M line runs through the center of the H zone and connects adjacent thick (myosin) filaments, maintaining their hexagonal arrangement in the sarcomere.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-33",
+    "question": "Which characteristic is unique to skeletal muscle?",
+    "options": [
+      "Striations",
+      "Voluntary control",
+      "Cells connected by intercalated discs",
+      "Single nucleus per cell"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Skeletal muscle is the only type under voluntary control. Both skeletal and cardiac muscle are striated. Cardiac muscle has intercalated discs, and skeletal muscle is multinucleated.",
+    "topic": "muscle-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-34",
+    "question": "The term 'motor unit' refers to:",
+    "options": [
+      "A single muscle fiber and its innervating neuron",
+      "A single motor neuron and all muscle fibers it innervates",
+      "All muscles involved in a particular movement",
+      "The contractile apparatus within a muscle fiber"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A motor unit consists of a single motor neuron and all the muscle fibers it innervates. Fine control muscles have small motor units (few fibers per neuron), while large muscles have large motor units.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-35",
+    "question": "Which type of muscle contraction occurs when the muscle lengthens while generating force?",
+    "options": [
+      "Isometric contraction",
+      "Isotonic concentric contraction",
+      "Isotonic eccentric contraction",
+      "Tetanic contraction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eccentric contraction occurs when the muscle lengthens while maintaining tension, such as when lowering a weight. Concentric contraction shortens the muscle, while isometric contraction generates force without length change.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-36",
+    "question": "What is the role of titin in skeletal muscle?",
+    "options": [
+      "Binds calcium ions",
+      "Regulates actin-myosin interaction",
+      "Provides elasticity and stability to sarcomeres",
+      "Forms the Z-line structure"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Titin is a giant elastic protein that extends from the Z-line to the M-line, providing passive elasticity to muscle and helping center the thick filaments in the sarcomere.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-37",
+    "question": "Which type of muscle contains the most mitochondria?",
+    "options": [
+      "Fast glycolytic skeletal muscle fibers",
+      "Slow oxidative skeletal muscle fibers",
+      "Cardiac muscle",
+      "Smooth muscle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Slow oxidative (Type I) skeletal muscle fibers have the highest mitochondrial density, supporting their aerobic metabolism and endurance function. Cardiac muscle also has abundant mitochondria.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-38",
+    "question": "The 'all-or-none' principle applies to:",
+    "options": [
+      "Whole skeletal muscles",
+      "Individual skeletal muscle fibers",
+      "Cardiac muscle cells",
+      "Both individual skeletal muscle fibers and cardiac muscle cells"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Both individual skeletal muscle fibers and cardiac muscle cells follow the all-or-none principle - they contract maximally or not at all in response to a stimulus. Whole skeletal muscles show graded contractions based on the number of fibers recruited.",
+    "topic": "muscle-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-39",
+    "question": "Which characteristic distinguishes visceral (single-unit) smooth muscle?",
+    "options": [
+      "Each fiber contracts independently",
+      "Rich autonomic innervation of each fiber",
+      "Gap junctions coordinate contraction",
+      "Found in the iris of the eye"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Visceral smooth muscle has abundant gap junctions that allow the tissue to contract as a single unit. It is found in hollow organs like the uterus, GI tract, and urinary bladder.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "muscle-tissue-40",
+    "question": "What causes muscle fatigue during prolonged exercise?",
+    "options": [
+      "Depletion of ATP stores",
+      "Accumulation of lactic acid",
+      "Glycogen depletion and ion imbalance",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Muscle fatigue results from multiple factors including ATP depletion, lactic acid accumulation, glycogen depletion, and disruption of calcium and potassium ion balance.",
+    "topic": "muscle-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  }
+]

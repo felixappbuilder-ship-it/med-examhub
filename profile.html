@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progress Profile - Medical Exam Prep</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50, #3498db);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
+        
+        .back-btn {
+            position: absolute;
+            left: 20px;
+            top: 20px;
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        
+        .stats-overview {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            padding: 20px;
+            background: #f8f9fa;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #3498db;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        .progress-section {
+            padding: 30px;
+        }
+        
+        .section-title {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.4em;
+        }
+        
+        .subject-progress {
+            margin-bottom: 30px;
+        }
+        
+        .progress-item {
+            margin-bottom: 15px;
+        }
+        
+        .progress-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        
+        .progress-bar {
+            background: #ecf0f1;
+            border-radius: 10px;
+            overflow: hidden;
+            height: 12px;
+        }
+        
+        .progress-fill {
+            background: linear-gradient(135deg, #27ae60, #2ecc71);
+            height: 100%;
+            transition: width 0.3s ease;
+        }
+        
+        .weak-areas {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        
+        .weak-areas h4 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        
+        .weak-area-list {
+            list-style: none;
+        }
+        
+        .weak-area-item {
+            padding: 8px 0;
+            border-bottom: 1px solid #ffeaa7;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .weak-area-item:last-child {
+            border-bottom: none;
+        }
+        
+        .priority-high { color: #e74c3c; font-weight: bold; }
+        .priority-medium { color: #f39c12; }
+        .priority-low { color: #f1c40f; }
+        
+        .quiz-history {
+            margin-top: 30px;
+        }
+        
+        .history-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .history-table th,
+        .history-table td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .history-table th {
+            background: #3498db;
+            color: white;
+            font-weight: 600;
+        }
+        
+        .history-table tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .score-cell {
+            font-weight: bold;
+        }
+        
+        .score-excellent { color: #27ae60; }
+        .score-good { color: #3498db; }
+        .score-fair { color: #f39c12; }
+        .score-poor { color: #e74c3c; }
+        
+        .actions {
+            padding: 20px;
+            background: #f8f9fa;
+            border-top: 1px solid #eee;
+            text-align: center;
+        }
+        
+        .action-btn {
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.1em;
+            transition: all 0.3s ease;
+        }
+        
+        .action-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(231, 76, 60, 0.3);
+        }
+        
+        .no-data {
+            text-align: center;
+            padding: 40px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="index.html" class="back-btn">← Back</a>
+            <h1>👤 Progress Profile</h1>
+            <p>Track your learning journey and identify areas for improvement</p>
+        </div>
+        
+        <div class="stats-overview" id="statsOverview">
+            <!-- Stats will be loaded dynamically -->
+        </div>
+        
+        <div class="progress-section">
+            <div class="subject-progress">
+                <h3 class="section-title">Subject-wise Progress</h3>
+                <div id="subjectProgress">
+                    <!-- Subject progress will be loaded dynamically -->
+                </div>
+            </div>
+            
+            <div id="weakAreasSection" class="weak-areas hidden">
+                <h4>🚨 Areas Needing Improvement</h4>
+                <ul class="weak-area-list" id="weakAreasList">
+                    <!-- Weak areas will be loaded dynamically -->
+                </ul>
+            </div>
+            
+            <div class="quiz-history">
+                <h3 class="section-title">Recent Quiz History</h3>
+                <div id="quizHistory">
+                    <!-- Quiz history will be loaded dynamically -->
+                </div>
+            </div>
+        </div>
+        
+        <div class="actions">
+            <button class="action-btn" onclick="clearProgress()">🔄 Clear Progress Data</button>
+        </div>
+    </div>
+
+    <script src="assets/scripts/storage.js"></script>
+    <script src="assets/scripts/app.js"></script>
+    <script>
+        function loadProfileData() {
+            const progress = storage.getUserProgress();
+            const quizHistory = storage.getQuizHistory();
+            
+            loadStatsOverview(progress);
+            loadSubjectProgress(progress);
+            loadWeakAreas(progress);
+            loadQuizHistory(quizHistory);
+        }
+        
+        function loadStatsOverview(progress) {
+            const statsOverview = document.getElementById('statsOverview');
+            
+            const totalQuizzes = progress.quizHistory?.length || 0;
+            const totalQuestions = Object.values(progress.subjects || {}).reduce((sum, subject) => {
+                return sum + (subject.attempted || 0);
+            }, 0);
+            
+            const correctAnswers = Object.values(progress.subjects || {}).reduce((sum, subject) => {
+                return sum + (subject.correct || 0);
+            }, 0);
+            
+            const overallAccuracy = totalQuestions > 0 ? Math.round((correctAnswers / totalQuestions) * 100) : 0;
+            
+            statsOverview.innerHTML = `
+                <div class="stat-card">
+                    <div class="stat-number">${totalQuizzes}</div>
+                    <div class="stat-label">Quizzes Taken</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${totalQuestions}</div>
+                    <div class="stat-label">Questions Attempted</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${correctAnswers}</div>
+                    <div class="stat-label">Correct Answers</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${overallAccuracy}%</div>
+                    <div class="stat-label">Overall Accuracy</div>
+                </div>
+            `;
+        }
+        
+        function loadSubjectProgress(progress) {
+            const subjectProgress = document.getElementById('subjectProgress');
+            
+            if (!progress.subjects || Object.keys(progress.subjects).length === 0) {
+                subjectProgress.innerHTML = '<div class="no-data">No progress data yet. Take some quizzes to see your progress!</div>';
+                return;
+            }
+            
+            let html = '';
+            Object.entries(progress.subjects).forEach(([subject, data]) => {
+                const accuracy = data.attempted > 0 ? Math.round((data.correct / data.attempted) * 100) : 0;
+                const progressPercent = Math.min((data.attempted / getSubjectQuestionCount(subject)) * 100, 100);
+                
+                html += `
+                    <div class="progress-item">
+                        <div class="progress-header">
+                            <strong>${formatSubjectName(subject)}</strong>
+                            <span>${accuracy}% Accuracy (${data.correct}/${data.attempted})</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: ${progressPercent}%"></div>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            subjectProgress.innerHTML = html;
+        }
+        
+        function loadWeakAreas(progress) {
+            const weakAreasSection = document.getElementById('weakAreasSection');
+            const weakAreasList = document.getElementById('weakAreasList');
+            
+            if (!progress.weakAreas || progress.weakAreas.length === 0) {
+                weakAreasSection.classList.add('hidden');
+                return;
+            }
+            
+            weakAreasSection.classList.remove('hidden');
+            
+            let html = '';
+            progress.weakAreas.forEach(area => {
+                const priorityClass = `priority-${area.priority}`;
+                html += `
+                    <li class="weak-area-item">
+                        <span>${formatTopicName(area.topic)}</span>
+                        <span class="${priorityClass}">${area.accuracy}% accuracy</span>
+                    </li>
+                `;
+            });
+            
+            weakAreasList.innerHTML = html;
+        }
+        
+        function loadQuizHistory(quizHistory) {
+            const quizHistoryContainer = document.getElementById('quizHistory');
+            
+            if (!quizHistory || quizHistory.length === 0) {
+                quizHistoryContainer.innerHTML = '<div class="no-data">No quiz history yet. Take some quizzes to see your history!</div>';
+                return;
+            }
+            
+            let html = `
+                <table class="history-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Subjects</th>
+                            <th>Score</th>
+                            <th>Questions</th>
+                            <th>Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+            
+            // Show latest 10 quizzes
+            quizHistory.slice(-10).reverse().forEach(quiz => {
+                const date = new Date(quiz.timestamp).toLocaleDateString();
+                const time = formatTime(quiz.timeSpent);
+                const scoreClass = getScoreClass(quiz.score);
+                
+                html += `
+                    <tr>
+                        <td>${date}</td>
+                        <td>${quiz.topics.slice(0, 2).map(formatTopicName).join(', ')}${quiz.topics.length > 2 ? '...' : ''}</td>
+                        <td class="score-cell ${scoreClass}">${quiz.score}%</td>
+                        <td>${quiz.correctAnswers}/${quiz.totalQuestions}</td>
+                        <td>${time}</td>
+                    </tr>
+                `;
+            });
+            
+            html += '</tbody></table>';
+            quizHistoryContainer.innerHTML = html;
+        }
+        
+        function formatSubjectName(subject) {
+            return subject.charAt(0).toUpperCase() + subject.slice(1);
+        }
+        
+        function formatTopicName(topicId) {
+            return topicId.split('-')
+                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(' ');
+        }
+        
+        function formatTime(seconds) {
+            const minutes = Math.floor(seconds / 60);
+            const remainingSeconds = seconds % 60;
+            return `${minutes}m ${remainingSeconds}s`;
+        }
+        
+        function getScoreClass(score) {
+            if (score >= 90) return 'score-excellent';
+            if (score >= 75) return 'score-good';
+            if (score >= 60) return 'score-fair';
+            return 'score-poor';
+        }
+        
+        function getSubjectQuestionCount(subject) {
+            const counts = {
+                'anatomy': 1000,
+                'physiology': 800,
+                'biochemistry': 700
+            };
+            return counts[subject] || 500;
+        }
+        
+        function clearProgress() {
+            if (confirm('Are you sure you want to clear all your progress data? This action cannot be undone.')) {
+                storage.clearUserProgress();
+                alert('Progress data cleared!');
+                loadProfileData();
+            }
+        }
+        
+        // Load profile data when page loads
+        document.addEventListener('DOMContentLoaded', loadProfileData);
+    </script>
+</body>
+</html>

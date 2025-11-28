@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "general-embryology-1",
+    "question": "During which week of development does implantation occur?",
+    "options": [
+      "1st week",
+      "2nd week",
+      "3rd week",
+      "4th week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Implantation begins around day 6-7 post-fertilization and completes during the first week. The blastocyst implants into the endometrium.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-2",
+    "question": "What is the normal site of fertilization?",
+    "options": [
+      "Ampulla of uterine tube",
+      "Isthmus of uterine tube",
+      "Uterine cavity",
+      "Ovary"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fertilization normally occurs in the ampulla of the uterine tube, the widest portion. The zygote then travels to the uterus for implantation.",
+    "topic": "general-embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-3",
+    "question": "The morula stage typically contains how many cells?",
+    "options": [
+      "16-32 cells",
+      "2-4 cells",
+      "64-128 cells",
+      "Over 200 cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The morula is a solid ball of 16-32 cells that forms by day 3-4 post-fertilization. It then develops into a blastocyst.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-4",
+    "question": "Which extraembryonic membrane forms the fetal part of the placenta?",
+    "options": [
+      "Chorion",
+      "Amnion",
+      "Yolk sac",
+      "Allantois"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The chorion forms the fetal part of the placenta. The amnion forms the amniotic sac, yolk sac provides early hematopoiesis, allantois contributes to bladder development.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "general-embryology-5",
+    "question": "Neurulation occurs during which week of embryonic development?",
+    "options": [
+      "3rd-4th week",
+      "5th-6th week",
+      "7th-8th week",
+      "9th-10th week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Neurulation, the formation of the neural tube from the neural plate, occurs during the 3rd to 4th week of embryonic development.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-6",
+    "question": "The process of gastrulation begins with the formation of the:",
+    "options": [
+      "Primitive streak",
+      "Notochord",
+      "Neural tube",
+      "Somites"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gastrulation begins around day 15 with the appearance of the primitive streak on the epiblast surface, establishing the craniocaudal axis and enabling the formation of the three germ layers.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-7",
+    "question": "Which germ layer gives rise to the nervous system?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Trophoblast"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The nervous system, including the brain, spinal cord, and peripheral nerves, is derived from ectoderm through the process of neurulation.",
+    "topic": "general-embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-8",
+    "question": "The notochord is derived from cells that migrate through the:",
+    "options": [
+      "Primitive node",
+      "Primitive pit",
+      "Primitive groove",
+      "Allantois"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cells from the primitive node (Hensen's node) migrate cranially to form the notochordal process, which later becomes the definitive notochord.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-9",
+    "question": "The amniotic cavity develops:",
+    "options": [
+      "Between the cytotrophoblast and syncytiotrophoblast",
+      "Within the epiblast",
+      "From the yolk sac",
+      "From the chorionic cavity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The amniotic cavity appears as a space between the epiblast and the overlying cytotrophoblast around day 8. It is lined by amnioblasts derived from the epiblast.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 4"
+  },
+  {
+    "id": "general-embryology-10",
+    "question": "The bilaminar germ disc consists of:",
+    "options": [
+      "Epiblast and hypoblast",
+      "Ectoderm and endoderm",
+      "Trophoblast and embryoblast",
+      "Amnion and yolk sac"
+    ],
+    "correctAnswer": 0,
+    "explanation": "During the second week, the embryoblast differentiates into two layers: the epiblast (primary ectoderm) and the hypoblast (primary endoderm), forming the bilaminar germ disc.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 4"
+  },
+  {
+    "id": "general-embryology-11",
+    "question": "The process that establishes the three definitive germ layers is called:",
+    "options": [
+      "Gastrulation",
+      "Neurulation",
+      "Implantation",
+      "Organogenesis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gastrulation, occurring during the third week, transforms the bilaminar embryo into a trilaminar embryo with ectoderm, mesoderm, and endoderm germ layers.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-12",
+    "question": "The primitive streak normally regresses by the end of:",
+    "options": [
+      "The fourth week",
+      "The sixth week",
+      "The eighth week",
+      "The tenth week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primitive streak appears around day 15, is most prominent during the third week, and normally regresses and disappears by the end of the fourth week.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-13",
+    "question": "Which structure prevents polyspermy?",
+    "options": [
+      "Cortical reaction",
+      "Zona reaction",
+      "Acrosomal reaction",
+      "Both cortical and zona reactions"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Both the cortical reaction (release of cortical granules) and the resulting zona reaction (hardening of the zona pellucida) work together to prevent polyspermy.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-14",
+    "question": "The first cleavage division is completed about how long after fertilization?",
+    "options": [
+      "24 hours",
+      "36 hours",
+      "48 hours",
+      "72 hours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The first cleavage division, resulting in a 2-cell embryo, is completed approximately 30-36 hours after fertilization.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-15",
+    "question": "The decidua basalis is the portion of the endometrium:",
+    "options": [
+      "Deep to the implanting embryo",
+      "Superficial to the implanting embryo",
+      "Between the implanting sites of embryos",
+      "Lining the uterine cavity away from the implantation site"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The decidua basalis is the portion of the endometrium located deep to the developing embryo that forms the maternal component of the placenta.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "general-embryology-16",
+    "question": "The process of capacitation occurs in the:",
+    "options": [
+      "Female reproductive tract",
+      "Seminiferous tubules",
+      "Epididymis",
+      "Vas deferens"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Capacitation is a functional maturation process that sperm undergo in the female reproductive tract, making them capable of fertilizing an oocyte.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-17",
+    "question": "The embryonic period proper extends from:",
+    "options": [
+      "Week 3 to week 8",
+      "Week 1 to week 4",
+      "Week 5 to week 10",
+      "Week 9 to birth"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The embryonic period, when all major organs form, extends from the third week through the eighth week of development. This is the most critical period for teratogen exposure.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 8"
+  },
+  {
+    "id": "general-embryology-18",
+    "question": "The acrosomal reaction is triggered by:",
+    "options": [
+      "Zona pellucida glycoproteins",
+      "Progesterone from corona radiata",
+      "Calcium ions in the uterine tube",
+      "Estrogen in the follicular fluid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The acrosomal reaction, which releases enzymes to penetrate the zona pellucida, is triggered by binding of sperm to ZP3 glycoproteins in the zona pellucida.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-19",
+    "question": "The blastocyst consists of:",
+    "options": [
+      "Trophoblast and embryoblast",
+      "Epiblast and hypoblast",
+      "Ectoderm and endoderm",
+      "Amnion and chorion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The blastocyst consists of an outer cell mass (trophoblast) that forms placental structures, and an inner cell mass (embryoblast) that forms the embryo proper.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-20",
+    "question": "The process of somite formation is called:",
+    "options": [
+      "Somitogenesis",
+      "Neurulation",
+      "Gastrulation",
+      "Organogenesis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Somitogenesis is the process of somite formation from paraxial mesoderm, occurring at a rate of about 3 pairs per day from days 20-30.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-21",
+    "question": "The connecting stalk eventually becomes the:",
+    "options": [
+      "Umbilical cord",
+      "Yolk sac",
+      "Amniotic cavity",
+      "Chorionic cavity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The connecting stalk, which initially connects the embryo to the trophoblast, later contains the umbilical vessels and becomes the umbilical cord.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 6"
+  },
+  {
+    "id": "general-embryology-22",
+    "question": "The first sign of gastrulation is the appearance of the:",
+    "options": [
+      "Primitive streak",
+      "Notochord",
+      "Neural plate",
+      "Somites"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primitive streak appears as a thickened linear band of epiblast at the caudal end of the embryo around day 15, marking the beginning of gastrulation.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-23",
+    "question": "The process of implantation is completed by:",
+    "options": [
+      "Day 10-12",
+      "Day 5-6",
+      "Day 14-15",
+      "Day 20-21"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Implantation begins around day 6-7 and is completed by day 10-12, when the blastocyst is completely embedded in the endometrial stroma.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-24",
+    "question": "The syncytiotrophoblast is derived from the:",
+    "options": [
+      "Cytotrophoblast",
+      "Embryoblast",
+      "Hypoblast",
+      "Extraembryonic mesoderm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The syncytiotrophoblast forms by fusion of cells from the cytotrophoblast. It is multinucleated and invasive, responsible for endometrial invasion.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-25",
+    "question": "The primitive streak appears during which week of development?",
+    "options": [
+      "Third week",
+      "First week",
+      "Fourth week",
+      "Sixth week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primitive streak appears at the beginning of the third week (around day 15) and marks the start of gastrulation.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-26",
+    "question": "The notochord serves as the primary inducer of:",
+    "options": [
+      "Neural tube formation",
+      "Limb bud development",
+      "Heart formation",
+      "Somite formation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The notochord secretes signaling molecules that induce the overlying ectoderm to thicken and form the neural plate, which then folds to form the neural tube.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-27",
+    "question": "The process of fertilization is initiated when a sperm penetrates the:",
+    "options": [
+      "Corona radiata",
+      "Zona pellucida",
+      "Oocyte cell membrane",
+      "Cumulus oophorus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fertilization begins when sperm penetrate the corona radiata, the layer of follicular cells surrounding the oocyte, before encountering the zona pellucida.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-28",
+    "question": "The secondary oocyte completes meiosis II:",
+    "options": [
+      "After sperm penetration",
+      "Before ovulation",
+      "During implantation",
+      "After blastocyst formation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The secondary oocyte arrests in metaphase of meiosis II and only completes this division upon fertilization, after sperm penetration.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-29",
+    "question": "The fetal period is characterized primarily by:",
+    "options": [
+      "Growth and maturation of organs",
+      "Formation of germ layers",
+      "Neural tube formation",
+      "Implantation processes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The fetal period (week 9 to birth) is primarily characterized by rapid growth and functional maturation of organs that formed during the embryonic period.",
+    "topic": "general-embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 8"
+  },
+  {
+    "id": "general-embryology-30",
+    "question": "The zona pellucida is secreted by the:",
+    "options": [
+      "Oocyte and follicular cells",
+      "Uterine tube epithelium",
+      "Endometrial glands",
+      "Corpus luteum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The zona pellucida is a glycoprotein layer surrounding the oocyte that is secreted by both the oocyte itself and the surrounding follicular cells.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-31",
+    "question": "The process that establishes the dorsal-ventral axis is initiated by the:",
+    "options": [
+      "Primitive streak",
+      "Neural crest",
+      "Notochord",
+      "Somites"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primitive streak establishes not only the craniocaudal axis but also the dorsal-ventral axis, with cells migrating through it to form mesoderm and endoderm.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-32",
+    "question": "The blastocyst typically enters the uterine cavity at about:",
+    "options": [
+      "Day 4-5",
+      "Day 2-3",
+      "Day 6-7",
+      "Day 8-9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The blastocyst forms around day 4-5 and enters the uterine cavity at this time, where it floats freely for 1-2 days before implanting.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-33",
+    "question": "The first system to function in the embryo is the:",
+    "options": [
+      "Cardiovascular system",
+      "Nervous system",
+      "Digestive system",
+      "Respiratory system"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cardiovascular system is the first functional system, with the heart beginning to beat and blood beginning to circulate by the end of the third week.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 6"
+  },
+  {
+    "id": "general-embryology-34",
+    "question": "The process of compaction occurs at the:",
+    "options": [
+      "8-cell stage",
+      "2-cell stage",
+      "16-cell stage",
+      "32-cell stage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Compaction occurs at the 8-cell stage (around day 3), when blastomeres flatten against each other to form a compact ball of cells.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-35",
+    "question": "The cytotrophoblast is characterized by:",
+    "options": [
+      "Well-defined cell boundaries",
+      "Multinucleated syncytium",
+      "Invasive properties",
+      "Hormone production"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cytotrophoblast consists of mononucleated cells with clear cell boundaries, in contrast to the syncytiotrophoblast which is a multinucleated syncytium.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-36",
+    "question": "The process of neural tube closure is completed by:",
+    "options": [
+      "End of the fourth week",
+      "End of the sixth week",
+      "End of the eighth week",
+      "End of the tenth week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Neural tube closure begins in the cervical region around day 22 and proceeds cranially and caudally, completing by the end of the fourth week.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 10"
+  },
+  {
+    "id": "general-embryology-37",
+    "question": "The amniotic fluid is derived primarily from:",
+    "options": [
+      "Maternal blood and fetal urine",
+      "Yolk sac secretions",
+      "Chorionic cavity fluid",
+      "Trophoblastic secretions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Amniotic fluid is initially derived from maternal blood, but later in pregnancy it consists largely of fetal urine and secretions from fetal lungs.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "general-embryology-38",
+    "question": "The process of formation of the three germ layers is completed during:",
+    "options": [
+      "The third week",
+      "The first week",
+      "The fifth week",
+      "The seventh week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gastrulation, the process that forms the three definitive germ layers (ectoderm, mesoderm, endoderm), occurs primarily during the third week.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-39",
+    "question": "The most common site of ectopic pregnancy is the:",
+    "options": [
+      "Uterine tube",
+      "Ovary",
+      "Cervix",
+      "Abdominal cavity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The uterine tube, particularly the ampulla, is the most common site for ectopic pregnancy, accounting for over 95% of cases.",
+    "topic": "general-embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-40",
+    "question": "The process of formation of the primitive streak is induced by:",
+    "options": [
+      "Nodal signaling",
+      "BMP signaling",
+      "Wnt signaling",
+      "FGF signaling"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nodal, a TGF-β family member, is the key signaling molecule that induces formation of the primitive streak and initiates gastrulation.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-41",
+    "question": "The yolk sac is important for:",
+    "options": [
+      "Early hematopoiesis",
+      "Amniotic fluid production",
+      "Placental function",
+      "Neural induction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The yolk sac is the site of early hematopoiesis (blood cell formation) and also produces primordial germ cells.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "general-embryology-42",
+    "question": "The process of implantation requires the blastocyst to be in which stage?",
+    "options": [
+      "Hatched from zona pellucida",
+      "Within intact zona pellucida",
+      "At morula stage",
+      "At 2-cell stage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The blastocyst must hatch from the zona pellucida before it can implant, as the trophoblast cells need direct contact with the endometrial epithelium.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-43",
+    "question": "The first meiotic division in oogenesis is completed:",
+    "options": [
+      "Just before ovulation",
+      "At fertilization",
+      "During fetal life",
+      "At puberty"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The first meiotic division is completed just before ovulation, resulting in the secondary oocyte and first polar body.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-44",
+    "question": "The process of formation of the bilaminar germ disc occurs during:",
+    "options": [
+      "The second week",
+      "The first week",
+      "The third week",
+      "The fourth week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The bilaminar germ disc, consisting of epiblast and hypoblast layers, forms during the second week of development.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 4"
+  },
+  {
+    "id": "general-embryology-45",
+    "question": "The syncytiotrophoblast produces which hormone important for maintaining pregnancy?",
+    "options": [
+      "Human Chorionic Gonadotropin (hCG)",
+      "Progesterone",
+      "Estrogen",
+      "Human Placental Lactogen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The syncytiotrophoblast produces hCG, which rescues the corpus luteum and maintains progesterone production during early pregnancy.",
+    "topic": "general-embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-46",
+    "question": "The process of formation of the primitive streak begins at the:",
+    "options": [
+      "Caudal end of the embryo",
+      "Cranial end of the embryo",
+      "Lateral margins of the embryo",
+      "Ventral surface of the embryo"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primitive streak first appears at the caudal end of the embryo and extends cranially, establishing the craniocaudal axis.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-47",
+    "question": "The acrosome of the sperm contains:",
+    "options": [
+      "Hydrolytic enzymes",
+      "Mitochondria",
+      "DNA",
+      "Ribosomes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The acrosome contains hydrolytic enzymes (hyaluronidase, acrosin) that are released during the acrosomal reaction to penetrate the egg's investments.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-48",
+    "question": "The process of neural crest cell migration begins during:",
+    "options": [
+      "Neural tube formation",
+      "Gastrulation",
+      "Implantation",
+      "Somite formation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Neural crest cells begin to migrate away from the dorsal neural tube just after its closure, during the fourth week.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 10"
+  },
+  {
+    "id": "general-embryology-49",
+    "question": "The chorionic villi develop from the:",
+    "options": [
+      "Cytotrophoblast and extraembryonic mesoderm",
+      "Syncytiotrophoblast only",
+      "Embryoblast",
+      "Yolk sac"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chorionic villi develop as cytotrophoblast projections that are invaded by extraembryonic mesoderm, forming the structural basis for placental function.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "general-embryology-50",
+    "question": "The process of fertilization typically occurs within how many hours after ovulation?",
+    "options": [
+      "12-24 hours",
+      "24-48 hours",
+      "48-72 hours",
+      "72-96 hours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fertilization must occur within 12-24 hours after ovulation, as the oocyte remains viable for only about 24 hours after ovulation.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-51",
+    "question": "The notochord degenerates but persists as the:",
+    "options": [
+      "Nucleus pulposus of intervertebral discs",
+      "Vertebral bodies",
+      "Spinal cord",
+      "Spinal ganglia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The notochord degenerates as the vertebral bodies form, but persists as the nucleus pulposus in the center of intervertebral discs.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-52",
+    "question": "The process of formation of the amniotic cavity begins during:",
+    "options": [
+      "The second week",
+      "The first week",
+      "The third week",
+      "The fourth week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The amniotic cavity begins to form around day 8, during the second week, as a small space between the epiblast and cytotrophoblast.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 4"
+  },
+  {
+    "id": "general-embryology-53",
+    "question": "The primitive streak gives rise to:",
+    "options": [
+      "Mesoderm and endoderm",
+      "Ectoderm only",
+      "Trophoblast",
+      "Extraembryonic membranes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cells migrating through the primitive streak give rise to the mesoderm and endoderm germ layers, while the remaining epiblast forms ectoderm.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-54",
+    "question": "The process of sperm penetration through the zona pellucida is facilitated by:",
+    "options": [
+      "Acrosin",
+      "Hyaluronidase",
+      "Trypsin",
+      "Collagenase"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Acrosin, a protease released from the acrosome during the acrosomal reaction, digests the zona pellucida to allow sperm penetration.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-55",
+    "question": "The first sign of pregnancy detectable by laboratory tests is:",
+    "options": [
+      "hCG in maternal blood",
+      "Progesterone rise",
+      "Estrogen elevation",
+      "Relaxin production"
+    ],
+    "correctAnswer": 0,
+    "explanation": "hCG produced by the syncytiotrophoblast can be detected in maternal blood as early as 8-9 days after fertilization, making it the earliest laboratory sign of pregnancy.",
+    "topic": "general-embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-56",
+    "question": "The process of formation of the trilaminar germ disc is called:",
+    "options": [
+      "Gastrulation",
+      "Neurulation",
+      "Organogenesis",
+      "Somitogenesis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gastrulation is the process that converts the bilaminar germ disc into a trilaminar germ disc with ectoderm, mesoderm, and endoderm layers.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-57",
+    "question": "The decidual reaction refers to changes in the:",
+    "options": [
+      "Endometrial stromal cells",
+      "Trophoblast cells",
+      "Ovarian follicles",
+      "Uterine tube epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The decidual reaction is the transformation of endometrial stromal cells into large, glycogen-rich decidual cells in preparation for implantation.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-58",
+    "question": "The process of formation of the primitive streak is complete by:",
+    "options": [
+      "Day 16",
+      "Day 12",
+      "Day 20",
+      "Day 24"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primitive streak reaches its maximum development by day 16, after which it begins to regress.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-59",
+    "question": "The yolk sac is connected to the midgut by the:",
+    "options": [
+      "Vitelline duct",
+      "Allantois",
+      "Connecting stalk",
+      "Body stalk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The vitelline duct (yolk stalk) connects the yolk sac to the midgut portion of the developing digestive tube.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "general-embryology-60",
+    "question": "The process of implantation begins when the blastocyst attaches to the:",
+    "options": [
+      "Endometrial epithelium",
+      "Myometrium",
+      "Perimetrium",
+      "Cervical mucosa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Implantation begins when the blastocyst attaches to the endometrial epithelium, usually on the posterior wall of the uterine body.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-61",
+    "question": "The primitive streak normally disappears by the end of the fourth week to prevent:",
+    "options": [
+      "Sacrococcygeal teratoma formation",
+      "Neural tube defects",
+      "Heart abnormalities",
+      "Limb deformities"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Failure of the primitive streak to regress can lead to sacrococcygeal teratoma, a tumor derived from pluripotent cells of the primitive streak.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-62",
+    "question": "The process of formation of the chorionic cavity occurs during:",
+    "options": [
+      "The second week",
+      "The first week",
+      "The third week",
+      "The fourth week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The chorionic cavity (extraembryonic coelom) forms during the second week as spaces appear in the extraembryonic mesoderm.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 4"
+  },
+  {
+    "id": "general-embryology-63",
+    "question": "The acrosomal reaction is preceded by:",
+    "options": [
+      "Capacitation",
+      "Implantation",
+      "Cleavage",
+      "Gastrulation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Capacitation, which occurs in the female reproductive tract, must precede the acrosomal reaction to enable sperm to fertilize the oocyte.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-64",
+    "question": "The process of formation of the notochord is complete by:",
+    "options": [
+      "Day 20",
+      "Day 15",
+      "Day 25",
+      "Day 30"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The notochordal process forms from the primitive node around day 16, and the definitive notochord is established by day 20.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-65",
+    "question": "The syncytiotrophoblast is responsible for:",
+    "options": [
+      "Invasion of endometrial tissue",
+      "Formation of the amniotic cavity",
+      "Development of the yolk sac",
+      "Formation of the primitive streak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The syncytiotrophoblast erodes endometrial tissue, allowing the blastocyst to implant deeply into the uterine wall.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-66",
+    "question": "The process of formation of the bilaminar germ disc is initiated by:",
+    "options": [
+      "Differentiation of the embryoblast",
+      "Implantation of the blastocyst",
+      "Formation of the primitive streak",
+      "Development of the notochord"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The bilaminar germ disc forms when the embryoblast differentiates into epiblast and hypoblast layers during the second week.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 4"
+  },
+  {
+    "id": "general-embryology-67",
+    "question": "The zona pellucida remains intact until:",
+    "options": [
+      "The blastocyst stage",
+      "The morula stage",
+      "The 2-cell stage",
+      "The 8-cell stage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The zona pellucida remains intact throughout cleavage and early blastocyst formation, preventing premature implantation in the uterine tube.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-68",
+    "question": "The process of formation of the primitive streak is first visible at:",
+    "options": [
+      "The caudal end of the embryo",
+      "The cranial end of the embryo",
+      "The lateral edges of the embryo",
+      "The ventral surface of the embryo"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primitive streak first appears at the caudal end of the embryonic disc and extends cranially.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-69",
+    "question": "The cytotrophoblast contributes to the formation of:",
+    "options": [
+      "Chorionic villi",
+      "The amniotic cavity",
+      "The yolk sac",
+      "The allantois"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cytotrophoblast forms cellular projections that develop into the primary chorionic villi, the functional units of the placenta.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "general-embryology-70",
+    "question": "The process of implantation is most commonly located in the:",
+    "options": [
+      "Posterior wall of the uterine body",
+      "Anterior wall of the uterine body",
+      "Uterine fundus",
+      "Cervical region"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Implantation most commonly occurs in the posterior wall of the uterine body, which is better vascularized than other locations.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-71",
+    "question": "The primitive node gives rise to the:",
+    "options": [
+      "Notochord",
+      "Neural tube",
+      "Somites",
+      "Limb buds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cells migrating cranially from the primitive node form the notochordal process, which becomes the definitive notochord.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-72",
+    "question": "The process of formation of the amniotic cavity is complete by:",
+    "options": [
+      "The end of the second week",
+      "The end of the first week",
+      "The end of the third week",
+      "The end of the fourth week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The amniotic cavity forms during the second week and is well-established by the end of this week.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 4"
+  },
+  {
+    "id": "general-embryology-73",
+    "question": "The syncytiotrophoblast begins to produce hCG:",
+    "options": [
+      "Around day 8",
+      "Around day 14",
+      "Around day 21",
+      "Around day 28"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The syncytiotrophoblast begins producing hCG around day 8, shortly after implantation begins.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-74",
+    "question": "The process of formation of the chorionic villi begins during:",
+    "options": [
+      "The third week",
+      "The first week",
+      "The second week",
+      "The fourth week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Primary chorionic villi begin to form during the third week as cytotrophoblastic cords grow into the syncytiotrophoblast.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "general-embryology-75",
+    "question": "The zona pellucida is digested by enzymes from the:",
+    "options": [
+      "Acrosome",
+      "Oocyte cytoplasm",
+      "Endometrial glands",
+      "Uterine tube epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enzymes released from the sperm acrosome during the acrosomal reaction digest the zona pellucida, allowing sperm penetration.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 2"
+  },
+  {
+    "id": "general-embryology-76",
+    "question": "The process of formation of the trilaminar germ disc is primarily driven by:",
+    "options": [
+      "Cell migration through the primitive streak",
+      "Differentiation of the trophoblast",
+      "Formation of the amniotic cavity",
+      "Development of the yolk sac"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The formation of the trilaminar germ disc occurs through gastrulation, where epiblast cells migrate through the primitive streak to form mesoderm and endoderm.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "general-embryology-77",
+    "question": "The decidua capsularis is the portion of the endometrium that:",
+    "options": [
+      "Covers the implanted embryo",
+      "Lies deep to the embryo",
+      "Is between implantation sites",
+      "Lines the non-pregnant uterus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The decidua capsularis is the portion of the endometrium that covers the implanted embryo and separates it from the uterine cavity.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "general-embryology-78",
+    "question": "The process of neural tube formation begins in the:",
+    "options": [
+      "Cervical region",
+      "Cranial region",
+      "Thoracic region",
+      "Lumbar region"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Neural tube closure begins in the cervical region around day 22 and proceeds both cranially and caudally.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 10"
+  },
+  {
+    "id": "general-embryology-79",
+    "question": "The blastocyst forms when the:",
+    "options": [
+      "Morula develops a fluid-filled cavity",
+      "Zygote undergoes first cleavage",
+      "Embryo implants in the uterus",
+      "Primitive streak appears"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The blastocyst forms around day 4-5 when fluid enters the morula, creating a fluid-filled blastocyst cavity and separating the cells into trophoblast and embryoblast.",
+    "topic": "general-embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 3"
+  },
+  {
+    "id": "general-embryology-80",
+    "question": "The process of formation of the primitive streak establishes the:",
+    "options": [
+      "Craniocaudal axis",
+      "Dorsoventral axis",
+      "Left-right asymmetry",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The primitive streak establishes the craniocaudal axis, initiates dorsoventral patterning, and through nodal cilia, helps establish left-right asymmetry.",
+    "topic": "general-embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  }
+]

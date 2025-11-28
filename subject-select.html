@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Subjects - Medical Exam Prep</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50, #3498db);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
+        
+        .back-btn {
+            position: absolute;
+            left: 20px;
+            top: 20px;
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        
+        .selection-controls {
+            padding: 20px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .subject-section {
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .subject-section h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.4em;
+        }
+        
+        .topic-group {
+            margin-bottom: 15px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+        }
+        
+        .group-toggle {
+            font-weight: 600;
+            font-size: 1.1em;
+            cursor: pointer;
+            display: block;
+            margin-bottom: 10px;
+        }
+        
+        .subtopics {
+            margin-left: 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+        }
+        
+        .subtopics label {
+            display: flex;
+            align-items: center;
+            padding: 8px;
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        .subtopics label:hover {
+            background: #e9ecef;
+        }
+        
+        .subtopics input {
+            margin-right: 8px;
+        }
+        
+        .quiz-settings {
+            padding: 20px;
+            background: #f8f9fa;
+        }
+        
+        .setting-group {
+            margin-bottom: 15px;
+        }
+        
+        .setting-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+        
+        .setting-group select, .setting-group input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 1em;
+        }
+        
+        .start-btn {
+            display: block;
+            width: 100%;
+            padding: 20px;
+            background: linear-gradient(135deg, #27ae60, #229954);
+            color: white;
+            border: none;
+            border-radius: 15px;
+            font-size: 1.3em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .start-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(39, 174, 96, 0.3);
+        }
+        
+        .start-btn:disabled {
+            background: #95a5a6;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="index.html" class="back-btn">← Back</a>
+            <h1>📚 Select Subjects & Topics</h1>
+            <p>Choose specific topics or take comprehensive quizzes</p>
+        </div>
+        
+        <div class="selection-controls">
+            <div>
+                <button onclick="selectAll()">Select All</button>
+                <button onclick="deselectAll()">Deselect All</button>
+            </div>
+            <div id="selectedCount">0 topics selected</div>
+        </div>
+        
+        <div id="subjectsContainer">
+            <!-- Subjects will be loaded dynamically -->
+        </div>
+        
+        <div class="quiz-settings">
+            <div class="setting-group">
+                <label>Number of Questions:</label>
+                <select id="questionCount">
+                    <option value="10">10 Questions</option>
+                    <option value="20">20 Questions</option>
+                    <option value="30" selected>30 Questions</option>
+                    <option value="50">50 Questions</option>
+                    <option value="100">100 Questions</option>
+                </select>
+            </div>
+            
+            <div class="setting-group">
+                <label>Quiz Mode:</label>
+                <select id="quizMode">
+                    <option value="practice">Practice Mode</option>
+                    <option value="timed">Timed Mode (1 min/question)</option>
+                    <option value="exam">Exam Mode</option>
+                </select>
+            </div>
+            
+            <button id="startQuizBtn" class="start-btn" onclick="startQuiz()" disabled>
+                Start Quiz
+            </button>
+        </div>
+    </div>
+
+<!-- Load scripts in correct order -->
+<script src="assets/scripts/storage.js"></script>
+<script src="assets/scripts/app.js"></script>
+<script src="assets/scripts/quiz-engine.js"></script>
+<script src="assets/scripts/analytics.js"></script>
+    <script>
+        let selectedTopics = new Set();
+        
+        function loadSubjectSelection() {
+            const subjects = app.getSubjects();
+            const container = document.getElementById('subjectsContainer');
+            
+            subjects.forEach(subject => {
+                const section = document.createElement('div');
+                section.className = 'subject-section';
+                section.innerHTML = `
+                    <h3>${subject.icon} ${subject.name}</h3>
+                    ${subject.groups.map(group => `
+                        <div class="topic-group">
+                            <label class="group-toggle">
+                                <input type="checkbox" id="${group.id}-all" 
+                                       onchange="toggleGroup('${group.id}', this.checked)">
+                                ${group.icon} ${group.name} (All)
+                            </label>
+                            <div class="subtopics" id="${group.id}-subtopics">
+                                ${group.topics.map(topic => `
+                                    <label>
+                                        <input type="checkbox" data-topic="${topic.id}" 
+                                               onchange="updateSelection('${topic.id}', this.checked)">
+                                        ${topic.name}
+                                    </label>
+                                `).join('')}
+                            </div>
+                        </div>
+                    `).join('')}
+                `;
+                container.appendChild(section);
+            });
+        }
+        
+        function toggleGroup(groupId, checked) {
+            const subtopics = document.querySelectorAll(`#${groupId}-subtopics input[type="checkbox"]`);
+            subtopics.forEach(checkbox => {
+                checkbox.checked = checked;
+                updateSelection(checkbox.dataset.topic, checked);
+            });
+        }
+        
+        function updateSelection(topicId, isSelected) {
+            if (isSelected) {
+                selectedTopics.add(topicId);
+            } else {
+                selectedTopics.delete(topicId);
+                // Uncheck "all" checkbox if any subtopic is unchecked
+                const groupId = topicId.split('-')[0];
+                document.getElementById(`${groupId}-all`).checked = false;
+            }
+            
+            updateSelectionCount();
+        }
+        
+        function updateSelectionCount() {
+            const count = selectedTopics.size;
+            document.getElementById('selectedCount').textContent = `${count} topics selected`;
+            document.getElementById('startQuizBtn').disabled = count === 0;
+        }
+        
+        function selectAll() {
+            const allCheckboxes = document.querySelectorAll('input[type="checkbox"]');
+            allCheckboxes.forEach(checkbox => {
+                checkbox.checked = true;
+                if (checkbox.dataset.topic) {
+                    selectedTopics.add(checkbox.dataset.topic);
+                }
+            });
+            updateSelectionCount();
+        }
+        
+        function deselectAll() {
+            const allCheckboxes = document.querySelectorAll('input[type="checkbox"]');
+            allCheckboxes.forEach(checkbox => {
+                checkbox.checked = false;
+                if (checkbox.dataset.topic) {
+                    selectedTopics.delete(checkbox.dataset.topic);
+                }
+            });
+            updateSelectionCount();
+        }
+        
+        function startQuiz() {
+            if (selectedTopics.size === 0) return;
+            
+            const quizConfig = {
+                topics: Array.from(selectedTopics),
+                questionCount: parseInt(document.getElementById('questionCount').value),
+                mode: document.getElementById('quizMode').value
+            };
+            
+            storage.saveQuizConfig(quizConfig);
+            window.location.href = 'quiz.html';
+        }
+        
+        // Initialize
+        app.init().then(() => {
+            loadSubjectSelection();
+        });
+    </script>
+</body>
+</html>

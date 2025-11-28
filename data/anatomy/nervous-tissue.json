@@ -1,0 +1,602 @@
+[
+  {
+    "id": "nervous-tissue-1",
+    "question": "Which neuroglial cell forms the blood-brain barrier?",
+    "options": [
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Microglia",
+      "Ependymal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Astrocytes form foot processes around capillaries to create the blood-brain barrier. Oligodendrocytes myelinate CNS, microglia are phagocytic, ependymal line ventricles.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-2",
+    "question": "Which cells produce myelin in the peripheral nervous system?",
+    "options": [
+      "Schwann cells",
+      "Oligodendrocytes",
+      "Astrocytes",
+      "Satellite cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Schwann cells myelinate axons in the PNS, with each cell myelinating a single segment of one axon. Oligodendrocytes myelinate multiple axons in the CNS.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-3",
+    "question": "The Nissl bodies visible in neuron cell bodies represent:",
+    "options": [
+      "Rough endoplasmic reticulum",
+      "Mitochondria",
+      "Golgi apparatus",
+      "Lipofuscin granules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nissl bodies are aggregates of rough endoplasmic reticulum and free ribosomes involved in protein synthesis. They stain basophilic with histological dyes.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-4",
+    "question": "Which type of neuron is most abundant in the central nervous system?",
+    "options": [
+      "Interneurons",
+      "Sensory neurons",
+      "Motor neurons",
+      "Autonomic neurons"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Interneurons comprise about 99% of all neurons and are located entirely within the CNS, forming connections between other neurons.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-5",
+    "question": "The nodes of Ranvier are:",
+    "options": [
+      "Gaps between myelin sheaths where action potentials are regenerated",
+      "Sites of neurotransmitter release",
+      "Junctions between neurons and glial cells",
+      "Regions of axon hillock"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nodes of Ranvier are periodic gaps in the myelin sheath where the axon is exposed. They allow saltatory conduction, speeding up nerve impulse transmission.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-6",
+    "question": "Which neuroglial cells are the resident macrophages of the CNS?",
+    "options": [
+      "Microglia",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Ependymal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Microglia are the phagocytic cells of the CNS, derived from monocytes. They become activated during inflammation or tissue damage.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-7",
+    "question": "The axon hillock is characterized by:",
+    "options": [
+      "Absence of Nissl bodies",
+      "Abundant rough endoplasmic reticulum",
+      "Many mitochondria",
+      "Myelinated region"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The axon hillock lacks Nissl bodies (RER) and serves as the site where action potentials are initiated. It connects the cell body to the axon.",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-8",
+    "question": "Which cells line the ventricles of the brain and central canal of the spinal cord?",
+    "options": [
+      "Ependymal cells",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Microglia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ependymal cells are ciliated cuboidal or columnar epithelial cells that line the ventricles and central canal, helping to circulate cerebrospinal fluid.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-9",
+    "question": "Multipolar neurons are typically:",
+    "options": [
+      "Motor neurons and interneurons",
+      "Sensory neurons in dorsal root ganglia",
+      "Olfactory receptor neurons",
+      "Retinal ganglion cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Multipolar neurons have multiple dendrites and one axon. They include most CNS neurons, motor neurons in spinal cord, and autonomic ganglia neurons.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-10",
+    "question": "The white matter of the CNS appears white due to:",
+    "options": [
+      "Myelinated axons",
+      "Neuronal cell bodies",
+      "Blood vessels",
+      "Glial cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "White matter contains primarily myelinated axons, and the lipid-rich myelin gives it a white appearance. Gray matter contains neuronal cell bodies.",
+    "topic": "nervous-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-11",
+    "question": "Which structure contains the nucleus and most organelles in a neuron?",
+    "options": [
+      "Cell body (soma)",
+      "Axon",
+      "Dendrite",
+      "Axon terminal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cell body (soma) contains the nucleus, Nissl bodies, Golgi apparatus, mitochondria, and other organelles necessary for neuronal metabolism.",
+    "topic": "nervous-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-12",
+    "question": "Bipolar neurons are found in the:",
+    "options": [
+      "Retina and olfactory epithelium",
+      "Cerebral cortex",
+      "Spinal cord",
+      "Cerebellum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bipolar neurons have one dendrite and one axon. They are found in special sensory organs like the retina, olfactory epithelium, and inner ear.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-13",
+    "question": "The resting membrane potential in neurons is primarily maintained by:",
+    "options": [
+      "Sodium-potassium pumps",
+      "Calcium channels",
+      "Chloride pumps",
+      "Proton pumps"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Na+/K+ ATPase pump actively transports 3 Na+ out and 2 K+ in, maintaining the resting membrane potential of about -70 mV.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-14",
+    "question": "Which cells surround neuronal cell bodies in ganglia?",
+    "options": [
+      "Satellite cells",
+      "Schwann cells",
+      "Oligodendrocytes",
+      "Astrocytes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Satellite cells are glial cells in the PNS that surround neuronal cell bodies in ganglia, providing structural support and regulating the microenvironment.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-15",
+    "question": "The synaptic vesicles in axon terminals contain:",
+    "options": [
+      "Neurotransmitters",
+      "Ribosomes",
+      "Mitochondria",
+      "Lysosomes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Synaptic vesicles store neurotransmitters that are released into the synaptic cleft upon arrival of an action potential.",
+    "topic": "nervous-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-16",
+    "question": "Which type of fiber has the fastest conduction velocity?",
+    "options": [
+      "Large diameter, myelinated fibers",
+      "Small diameter, myelinated fibers",
+      "Large diameter, unmyelinated fibers",
+      "Small diameter, unmyelinated fibers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conduction velocity increases with larger axon diameter and the presence of myelin. Large myelinated fibers conduct fastest (up to 120 m/s).",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-17",
+    "question": "The gray matter of the spinal cord contains:",
+    "options": [
+      "Neuronal cell bodies and dendrites",
+      "Myelinated axons",
+      "Primarily glial cells",
+      "Cerebrospinal fluid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gray matter contains neuronal cell bodies, dendrites, unmyelinated axons, and glial cells. It forms the butterfly-shaped central region of the spinal cord.",
+    "topic": "nervous-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-18",
+    "question": "Which neuroglial cells help form the choroid plexus?",
+    "options": [
+      "Ependymal cells",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Microglia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ependymal cells of the choroid plexus, along with underlying blood vessels, produce cerebrospinal fluid by filtering blood plasma.",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-19",
+    "question": "Pseudounipolar neurons are characteristic of:",
+    "options": [
+      "Sensory ganglia",
+      "Motor ganglia",
+      "Cerebral cortex",
+      "Cerebellar cortex"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pseudounipolar neurons have a single process that divides into peripheral and central branches. They are found in dorsal root ganglia and cranial nerve ganglia.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-20",
+    "question": "The myelin sheath is composed primarily of:",
+    "options": [
+      "Lipids and proteins",
+      "Carbohydrates",
+      "Nucleic acids",
+      "Glycogen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Myelin is about 80% lipid and 20% protein, forming an insulating layer around axons that speeds up nerve impulse conduction.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-21",
+    "question": "Which cells are responsible for scavenging and removing debris after CNS injury?",
+    "options": [
+      "Microglia",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Ependymal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Microglia become activated macrophages after CNS injury, phagocytosing debris, dead cells, and pathogens.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-22",
+    "question": "The initial segment of the axon where action potentials are generated is the:",
+    "options": [
+      "Axon hillock",
+      "Node of Ranvier",
+      "Synaptic terminal",
+      "Dendritic spine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The axon hillock and initial segment have a high density of voltage-gated sodium channels, making them the site of action potential initiation.",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-23",
+    "question": "Which type of synapse is most common in the nervous system?",
+    "options": [
+      "Chemical synapse",
+      "Electrical synapse",
+      "Mixed synapse",
+      "Gap junction synapse"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chemical synapses, which use neurotransmitters, are by far the most common. Electrical synapses (gap junctions) are less common and allow direct ion flow.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-24",
+    "question": "The postsynaptic membrane typically contains:",
+    "options": [
+      "Receptor proteins",
+      "Voltage-gated calcium channels",
+      "Synaptic vesicles",
+      "Myelin basic protein"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The postsynaptic membrane contains receptor proteins that bind neurotransmitters released from the presynaptic terminal, leading to postsynaptic potentials.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-25",
+    "question": "Which neuroglial cells are involved in potassium buffering in the CNS?",
+    "options": [
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Microglia",
+      "Ependymal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Astrocytes help maintain extracellular potassium homeostasis by taking up excess K+ released during neuronal activity.",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-26",
+    "question": "The connective tissue layer that surrounds individual nerve fibers is called:",
+    "options": [
+      "Endoneurium",
+      "Perineurium",
+      "Epineurium",
+      "Neurilemma"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Endoneurium surrounds individual axons, perineurium surrounds fascicles of axons, and epineurium surrounds the entire nerve.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-27",
+    "question": "Which cells form the regeneration tube after peripheral nerve injury?",
+    "options": [
+      "Schwann cells",
+      "Fibroblasts",
+      "Macrophages",
+      "Satellite cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "After peripheral nerve injury, Schwann cells proliferate and align to form regeneration tubes (bands of Büngner) that guide regenerating axons.",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-28",
+    "question": "The most common inhibitory neurotransmitter in the CNS is:",
+    "options": [
+      "GABA (gamma-aminobutyric acid)",
+      "Glutamate",
+      "Acetylcholine",
+      "Dopamine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "GABA is the primary inhibitory neurotransmitter in the brain, while glycine is important in the spinal cord. Glutamate is the main excitatory neurotransmitter.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-29",
+    "question": "Which structure contains clusters of neuronal cell bodies in the CNS?",
+    "options": [
+      "Nuclei",
+      "Tracts",
+      "Nerves",
+      "Ganglia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nuclei are clusters of neuronal cell bodies in the CNS, while ganglia are clusters in the PNS. Tracts are bundles of axons in the CNS.",
+    "topic": "nervous-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-30",
+    "question": "The blood-brain barrier is formed by:",
+    "options": [
+      "Endothelial cells with tight junctions and astrocyte foot processes",
+      "Oligodendrocytes and microglia",
+      "Ependymal cells and choroid plexus",
+      "Schwann cells and satellite cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The blood-brain barrier consists of capillary endothelial cells with tight junctions, a thick basal lamina, and astrocyte foot processes that cover the capillaries.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-31",
+    "question": "Which cells produce cerebrospinal fluid?",
+    "options": [
+      "Choroid plexus epithelial cells",
+      "Ependymal cells lining ventricles",
+      "Astrocytes",
+      "Oligodendrocytes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The choroid plexus, consisting of modified ependymal cells and capillaries, produces cerebrospinal fluid by filtering blood plasma.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-32",
+    "question": "The refractory period of a neuron is due to:",
+    "options": [
+      "Inactivation of sodium channels",
+      "Depletion of neurotransmitters",
+      "Myelin degeneration",
+      "Mitochondrial failure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The refractory period occurs because voltage-gated sodium channels become inactivated and cannot open again until the membrane repolarizes.",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-33",
+    "question": "Which type of potential is generated in dendrites and cell bodies?",
+    "options": [
+      "Graded potentials",
+      "Action potentials",
+      "Resting potentials",
+      "Pacemaker potentials"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Graded potentials are local changes in membrane potential that occur in dendrites and cell bodies in response to synaptic input. They decrease with distance.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-34",
+    "question": "The neuromuscular junction is a synapse between:",
+    "options": [
+      "Motor neuron and skeletal muscle fiber",
+      "Sensory neuron and motor neuron",
+      "Two neurons in CNS",
+      "Autonomic neuron and smooth muscle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The neuromuscular junction is a specialized chemical synapse between a motor neuron axon terminal and a skeletal muscle fiber, using acetylcholine as neurotransmitter.",
+    "topic": "nervous-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-35",
+    "question": "Which cells are responsible for Wallerian degeneration after nerve injury?",
+    "options": [
+      "Schwann cells and macrophages",
+      "Astrocytes and microglia",
+      "Oligodendrocytes and ependymal cells",
+      "Satellite cells and fibroblasts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "After axon transection, Schwann cells and macrophages phagocytose the degenerating axon and myelin distal to the injury site (Wallerian degeneration).",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-36",
+    "question": "The resting membrane potential is closest to the equilibrium potential for:",
+    "options": [
+      "Potassium",
+      "Sodium",
+      "Calcium",
+      "Chloride"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The resting membrane potential (-70 mV) is closest to the potassium equilibrium potential (-90 mV) because the membrane is more permeable to K+ at rest.",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-37",
+    "question": "Which neuroglial cells are derived from mesoderm?",
+    "options": [
+      "Microglia",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Ependymal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Microglia are derived from mesodermal tissue (monocytes), while other CNS glial cells (astrocytes, oligodendrocytes, ependymal) are derived from neuroectoderm.",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-38",
+    "question": "The synaptic cleft typically measures about:",
+    "options": [
+      "20-30 nanometers",
+      "1-2 micrometers",
+      "5-10 micrometers",
+      "0.1-0.5 millimeters"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The synaptic cleft is a very narrow gap of about 20-30 nm between the presynaptic and postsynaptic membranes across which neurotransmitters diffuse.",
+    "topic": "nervous-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-39",
+    "question": "Which cells form the myelin sheath around multiple axons in the CNS?",
+    "options": [
+      "Oligodendrocytes",
+      "Schwann cells",
+      "Astrocytes",
+      "Microglia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each oligodendrocyte can myelinate multiple axons (up to 50) in the CNS, whereas each Schwann cell myelinates only one axon segment in the PNS.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "nervous-tissue-40",
+    "question": "The enteric nervous system is located in the:",
+    "options": [
+      "Wall of the gastrointestinal tract",
+      "Brain stem",
+      "Spinal cord",
+      "Autonomic ganglia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The enteric nervous system consists of neurons and glial cells in the wall of the GI tract that can function independently to control digestion.",
+    "topic": "nervous-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  }
+]

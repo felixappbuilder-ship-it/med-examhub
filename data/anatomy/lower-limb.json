@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "upper-limb-1",
+    "question": "Which nerve is most commonly injured in fractures of the surgical neck of the humerus?",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve",
+      "Ulnar nerve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The axillary nerve winds around the surgical neck of the humerus and is vulnerable in fractures of this region. Injury results in loss of shoulder abduction (deltoid paralysis) and sensory loss over the regimental badge area.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-2",
+    "question": "The carpal tunnel contains all of the following structures EXCEPT:",
+    "options": [
+      "Flexor digitorum profundus tendons",
+      "Flexor digitorum superficialis tendons",
+      "Flexor pollicis longus tendon",
+      "Median nerve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The carpal tunnel contains: 4 FDS tendons, 4 FDP tendons, flexor pollicis longus tendon, and median nerve. The flexor carpi radialis travels in its own compartment, not in the carpal tunnel.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-3",
+    "question": "Which muscle is the primary supinator of the forearm when the elbow is extended?",
+    "options": [
+      "Supinator muscle",
+      "Biceps brachii",
+      "Brachioradialis",
+      "Pronator teres"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biceps brachii is the primary supinator when the elbow is extended because it has better mechanical advantage. Supinator muscle is more effective when the elbow is flexed.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "lower-limb-4",
+    "question": "A positive Trendelenburg sign is indicative of weakness or paralysis of which muscle?",
+    "options": [
+      "Gluteus maximus",
+      "Gluteus medius",
+      "Piriformis",
+      "Tensor fasciae latae"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Trendelenburg sign tests the function of the gluteus medius (and minimus). Weakness causes the pelvis to drop on the unsupported side when standing on one leg, indicating a loss of hip abduction stability.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 486"
+  },
+  {
+    "id": "lower-limb-5",
+    "question": "The 'screw-home' mechanism of the knee joint is primarily a function of which structure?",
+    "options": [
+      "Medial meniscus",
+      "Anterior cruciate ligament",
+      "Shape of the femoral condyles",
+      "Patellar ligament"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'screw-home' mechanism (terminal rotation that locks the knee in extension) is due to the longer medial femoral condyle. The ACL also guides this motion, but the primary cause is the bony anatomy.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "lower-limb-6",
+    "question": "Loss of sensation on the sole of the foot would most likely result from injury to which nerve?",
+    "options": [
+      "Superficial fibular nerve",
+      "Deep fibular nerve",
+      "Tibial nerve",
+      "Sural nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The tibial nerve, via its terminal branches the medial and lateral plantar nerves, provides sensory innervation to the sole of the foot.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-7",
+    "question": "The 'unhappy triad' of the knee involves injury to the:",
+    "options": [
+      "ACL, PCL, and Medial Meniscus",
+      "ACL, MCL, and Lateral Meniscus",
+      "ACL, MCL, and Medial Meniscus",
+      "PCL, LCL, and Lateral Meniscus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'unhappy triad' (or O'Donoghue's triad) is a common sports injury involving the Anterior Cruciate Ligament (ACL), Medial Collateral Ligament (MCL), and Medial Meniscus.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 500"
+  },
+  {
+    "id": "lower-limb-8",
+    "question": "Which of the following muscles is the most powerful inverter of the foot?",
+    "options": [
+      "Tibialis anterior",
+      "Tibialis posterior",
+      "Flexor hallucis longus",
+      "Flexor digitorum longus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The tibialis posterior is the primary and most powerful inverter of the foot. It also plays a key role in supporting the medial longitudinal arch.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-9",
+    "question": "The femoral nerve is derived from which spinal cord segments?",
+    "options": [
+      "L1-L2",
+      "L2-L4",
+      "L4-S1",
+      "S1-S2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The femoral nerve arises from the posterior divisions of the ventral rami of L2, L3, and L4.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-10",
+    "question": "Pes planus (flat foot) is primarily associated with dysfunction of which structure?",
+    "options": [
+      "Plantar aponeurosis",
+      "Spring ligament",
+      "Long plantar ligament",
+      "Deltoid ligament"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The spring (calcaneonavicular) ligament is the primary static supporter of the medial longitudinal arch. Its failure is a major factor in adult-acquired flatfoot deformity.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-11",
+    "question": "The primary blood supply to the posterior compartment of the thigh is the:",
+    "options": [
+      "Femoral artery",
+      "Popliteal artery",
+      "Profunda femoris artery",
+      "Inferior gluteal artery"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The profunda femoris (deep femoral) artery provides the perforating arteries which are the main blood supply to the posterior thigh muscles (hamstrings).",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-12",
+    "question": "A patient presents with foot drop and loss of sensation on the dorsum of the foot. The most likely site of injury is:",
+    "options": [
+      "Femoral nerve at the inguinal ligament",
+      "Sciatic nerve at the sciatic notch",
+      "Common fibular nerve at the neck of the fibula",
+      "Tibial nerve in the popliteal fossa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The common fibular nerve is superficial and winds around the neck of the fibula, making it highly susceptible to injury. It innervates the muscles of the anterior and lateral compartments, which dorsiflex and evert the foot.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-13",
+    "question": "Which structure forms the roof of the popliteal fossa?",
+    "options": [
+      "Popliteus muscle",
+      "Skin and superficial fascia",
+      "Semimembranosus and biceps femoris",
+      "Fascia lata"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The roof of the popliteal fossa is formed by (from deep to superficial): the skin, superficial fascia, and the deep (popliteal) fascia.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 494"
+  },
+  {
+    "id": "lower-limb-14",
+    "question": "The primary stabilizer against varus stress at the knee is the:",
+    "options": [
+      "Anterior Cruciate Ligament",
+      "Posterior Cruciate Ligament",
+      "Medial Collateral Ligament",
+      "Lateral Collateral Ligament"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Lateral Collateral Ligament (LCL or Fibular Collateral Ligament) is the primary restraint against varus stress (force applied to the medial side of the knee, pushing it into a bow-legged position).",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "lower-limb-15",
+    "question": "Which muscle is responsible for unlocking the knee from full extension?",
+    "options": [
+      "Rectus femoris",
+      "Biceps femoris",
+      "Popliteus",
+      "Gastrocnemius"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The popliteus muscle initiates knee flexion by laterally rotating the femur on the fixed tibia (or medially rotating the tibia), 'unlocking' the extended knee by reversing the screw-home mechanism.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "lower-limb-16",
+    "question": "The tarsal tunnel contains all of the following EXCEPT:",
+    "options": [
+      "Tibialis posterior tendon",
+      "Flexor digitorum longus tendon",
+      "Tibial nerve",
+      "Anterior tibial artery"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The tarsal tunnel, located posterior to the medial malleolus, contains (from anterior to posterior): Tibialis posterior, Flexor digitorum longus, Posterior tibial artery, Posterior tibial vein, Tibial nerve, Flexor hallucis longus (Tom, Dick, And Very Nervous Harry). The Anterior tibial artery is in the anterior compartment.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 511"
+  },
+  {
+    "id": "lower-limb-17",
+    "question": "A fracture of the surgical neck of the femur would most likely disrupt the blood supply from which artery?",
+    "options": [
+      "Medial femoral circumflex artery",
+      "Lateral femoral circumflex artery",
+      "Obturator artery",
+      "First perforating artery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The medial femoral circumflex artery is the primary source of blood to the femoral head. Its branches run along the posterior aspect of the femoral neck, making them vulnerable in femoral neck fractures.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "lower-limb-18",
+    "question": "Which nerve provides cutaneous innervation to the skin over the 'ball' of the foot (head of the 1st metatarsal)?",
+    "options": [
+      "Medial plantar nerve",
+      "Lateral plantar nerve",
+      "Saphenous nerve",
+      "Superficial fibular nerve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The medial plantar nerve (a branch of the tibial nerve) provides sensory innervation to the medial sole of the foot, including the skin over the head of the first metatarsal.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-19",
+    "question": "The adductor canal (Hunter's canal) contains all of the following EXCEPT:",
+    "options": [
+      "Femoral artery",
+      "Femoral vein",
+      "Femoral nerve",
+      "Saphenous nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The adductor canal contains the femoral artery, femoral vein, the nerve to the vastus medialis, and the saphenous nerve. The femoral nerve itself ends proximal to the canal, dividing into its branches.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-20",
+    "question": "Which ligament is the primary restraint to anterior translation of the tibia on the femur?",
+    "options": [
+      "Anterior Cruciate Ligament",
+      "Posterior Cruciate Ligament",
+      "Medial Collateral Ligament",
+      "Arcuate popliteal ligament"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Anterior Cruciate Ligament (ACL) is the primary restraint to anterior translation of the tibia relative to the femur. This is tested clinically with the anterior drawer test and Lachman test.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 500"
+  },
+  {
+    "id": "lower-limb-21",
+    "question": "The 'root value' of the sciatic nerve is:",
+    "options": [
+      "L2-L4",
+      "L4-S3",
+      "S1-S3",
+      "L1-L3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sciatic nerve is derived from the ventral rami of L4 through S3. It is the largest nerve in the body.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "lower-limb-22",
+    "question": "Which of the following is NOT a boundary of the femoral triangle?",
+    "options": [
+      "Inguinal ligament (superior)",
+      "Sartorius (lateral)",
+      "Adductor longus (medial)",
+      "Gracilis (medial)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The boundaries of the femoral triangle are: Superior - Inguinal ligament; Lateral - Medial border of sartorius; Medial - Medial border of adductor longus. The gracilis is located more medially and is not a boundary.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-23",
+    "question": "A patient has weak plantarflexion and a loss of the ankle jerk reflex. Which nerve is most likely injured?",
+    "options": [
+      "Common fibular nerve",
+      "Deep fibular nerve",
+      "Superficial fibular nerve",
+      "Tibial nerve"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The tibial nerve innervates the posterior compartment muscles of the leg (gastrocnemius, soleus, etc.), which are the primary plantarflexors. It also provides the afferent and efferent limbs of the Achilles (ankle jerk) reflex.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-24",
+    "question": "The deep peroneal nerve provides motor innervation to which group of muscles?",
+    "options": [
+      "Lateral compartment of the leg",
+      "Posterior compartment of the leg",
+      "Anterior compartment of the leg",
+      "Plantar foot muscles"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The deep fibular (peroneal) nerve innervates the muscles of the anterior compartment of the leg (tibialis anterior, extensor hallucis longus, extensor digitorum longus, and fibularis tertius), which are responsible for dorsiflexion.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-25",
+    "question": "Which bony landmark is the primary site for attachment of the patellar ligament?",
+    "options": [
+      "Tibial plateau",
+      "Tibial tuberosity",
+      "Gerdy's tubercle",
+      "Medial malleolus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The patellar ligament is the distal portion of the quadriceps tendon and attaches inferiorly to the tibial tuberosity.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "lower-limb-26",
+    "question": "Piriformis syndrome results from compression of which nerve?",
+    "options": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Sciatic nerve",
+      "Pudendal nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Piriformis syndrome occurs when the sciatic nerve is compressed or irritated by the piriformis muscle as it exits the greater sciatic foramen. It can cause pain, tingling, and numbness in the buttock and down the leg.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 485"
+  },
+  {
+    "id": "lower-limb-27",
+    "question": "The deltoid ligament of the ankle attaches proximally to the:",
+    "options": [
+      "Lateral malleolus",
+      "Medial malleolus",
+      "Talus",
+      "Calcaneus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The deltoid ligament is a strong, triangular band on the medial side of the ankle. It attaches proximally to the medial malleolus and fans out to attach to the talus, calcaneus, and navicular bone.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-28",
+    "question": "Which artery becomes the dorsalis pedis artery?",
+    "options": [
+      "Posterior tibial artery",
+      "Anterior tibial artery",
+      "Peroneal artery",
+      "Popliteal artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The anterior tibial artery passes anteriorly through the interosseous membrane and descends on the anterior leg. It becomes the dorsalis pedis artery distal to the extensor retinaculum, palpable on the dorsum of the foot.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-29",
+    "question": "A patient cannot stand on their toes. Which muscle's function is most critically impaired?",
+    "options": [
+      "Tibialis anterior",
+      "Gastrocnemius",
+      "Fibularis longus",
+      "Extensor digitorum longus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The gastrocnemius and soleus (together forming the triceps surae) are the prime plantarflexors of the ankle, essential for rising onto the toes (tip-toeing).",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-30",
+    "question": "The great saphenous vein drains into which vessel?",
+    "options": [
+      "Popliteal vein",
+      "Small saphenous vein",
+      "Femoral vein",
+      "External iliac vein"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The great saphenous vein, the longest vein in the body, ascends the medial leg and thigh and drains into the femoral vein just inferior to the inguinal ligament at the saphenous opening.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-31",
+    "question": "Which muscle is innervated by the superior gluteal nerve?",
+    "options": [
+      "Gluteus maximus",
+      "Gluteus medius",
+      "Piriformis",
+      "Quadratus femoris"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The superior gluteal nerve (L4-S1) innervates the gluteus medius, gluteus minimus, and tensor fasciae latae. These muscles are abductors and medial rotators of the thigh.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "lower-limb-32",
+    "question": "The sustentaculum tali is a bony projection from which tarsal bone?",
+    "options": [
+      "Talus",
+      "Calcaneus",
+      "Navicular",
+      "Cuboid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sustentaculum tali is a horizontal shelf on the medial surface of the calcaneus. It supports the talus and serves as an attachment point for the spring ligament.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-33",
+    "question": "Inversion ankle sprains most commonly injure which ligament?",
+    "options": [
+      "Deltoid ligament",
+      "Anterior talofibular ligament",
+      "Tibiofibular syndesmosis",
+      "Spring ligament"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The anterior talofibular ligament (ATFL) is the most commonly injured ligament in the body, typically sprained during an inversion injury when the ankle is plantarflexed.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-34",
+    "question": "Which structure passes through the lesser sciatic foramen?",
+    "options": [
+      "Sciatic nerve",
+      "Pudendal nerve",
+      "Superior gluteal vessels",
+      "Piriformis muscle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pudendal nerve and internal pudendal vessels exit the pelvis through the greater sciatic foramen, hook around the ischial spine, and then re-enter the pelvis through the lesser sciatic foramen.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 368"
+  },
+  {
+    "id": "lower-limb-35",
+    "question": "The muscle that is the prime mover for hip flexion is the:",
+    "options": [
+      "Iliopsoas",
+      "Rectus femoris",
+      "Sartorius",
+      "Pectineus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The iliopsoas (a combination of the psoas major and iliacus) is the most powerful flexor of the thigh at the hip joint.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "lower-limb-36",
+    "question": "Which nerve provides sensory innervation to the web space between the first and second toes?",
+    "options": [
+      "Sural nerve",
+      "Saphenous nerve",
+      "Superficial fibular nerve",
+      "Deep fibular nerve"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The deep fibular nerve provides sensory innervation to the adjacent sides of the first and second toes. This is a key clinical point for testing L5 nerve root function.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-37",
+    "question": "The primary action of the fibularis (peroneus) longus muscle is:",
+    "options": [
+      "Dorsiflexion",
+      "Plantarflexion and eversion",
+      "Inversion and plantarflexion",
+      "Knee flexion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fibularis longus and brevis are located in the lateral compartment of the leg and are the primary evertors of the foot. They also assist in plantarflexion.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-38",
+    "question": "Which of the following is a content of the adductor canal?",
+    "options": [
+      "Femoral nerve",
+      "Great saphenous vein",
+      "Saphenous nerve",
+      "Sciatic nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The saphenous nerve, a sensory branch of the femoral nerve, travels through the adductor canal to provide sensation to the medial leg and foot.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-39",
+    "question": "The ligament that prevents posterior displacement of the tibia on the femur is the:",
+    "options": [
+      "Anterior Cruciate Ligament",
+      "Posterior Cruciate Ligament",
+      "Medial Collateral Ligament",
+      "Oblique popliteal ligament"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Posterior Cruciate Ligament (PCL) is the primary restraint to posterior translation of the tibia relative to the femur. This is tested with the posterior drawer test.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 500"
+  },
+  {
+    "id": "lower-limb-40",
+    "question": "Which muscle is innervated by the obturator nerve?",
+    "options": [
+      "Psoas major",
+      "Iliacus",
+      "Gracilis",
+      "Quadratus femoris"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The obturator nerve (L2-L4) innervates the medial (adductor) compartment of the thigh, which includes the gracilis, adductor longus, adductor brevis, and adductor magnus (its adductor part).",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-41",
+    "question": "The ankle joint (talocrural joint) is best described as a:",
+    "options": [
+      "Ball and socket joint",
+      "Hinge joint",
+      "Pivot joint",
+      "Plane joint"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The talocrural joint is a uniaxial hinge joint, allowing the movements of dorsiflexion and plantarflexion.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-42",
+    "question": "A fracture of the fibular neck is most likely to injure which nerve?",
+    "options": [
+      "Tibial nerve",
+      "Common fibular nerve",
+      "Sural nerve",
+      "Saphenous nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The common fibular nerve is superficial and winds around the neck of the fibula, making it highly vulnerable to injury from fractures or tight casts at this site.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-43",
+    "question": "Which artery is the main source of blood for the posterior compartment of the leg?",
+    "options": [
+      "Anterior tibial artery",
+      "Posterior tibial artery",
+      "Fibular artery",
+      "Popliteal artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The posterior tibial artery is the primary blood supply to the posterior compartment of the leg (the superficial and deep flexor muscles).",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-44",
+    "question": "The L4 dermatome is typically located over the:",
+    "options": [
+      "Lateral thigh",
+      "Medial thigh",
+      "Medial leg",
+      "Dorsum of the foot"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The L4 dermatome covers the medial leg and knee area. This is often tested by assessing sensation just above the medial malleolus.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 163"
+  },
+  {
+    "id": "lower-limb-45",
+    "question": "Which structure is found within the substance of the sartorius muscle?",
+    "options": [
+      "Femoral artery",
+      "Adductor hiatus",
+      "Pes anserinus",
+      "Inguinal ligament"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pes anserinus ('goose's foot') is the combined insertion of the sartorius, gracilis, and semitendinosus tendons on the medial proximal tibia. The sartorius forms the most anterior component.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "lower-limb-46",
+    "question": "The muscle that is primarily responsible for the 'push-off' phase of gait is the:",
+    "options": [
+      "Tibialis anterior",
+      "Gastrocnemius",
+      "Flexor hallucis longus",
+      "Soleus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The gastrocnemius and soleus (triceps surae) provide the powerful plantarflexion needed for propulsion during the 'push-off' (or toe-off) phase of walking and running.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-47",
+    "question": "The nerve that innervates the skin on the lateral side of the foot is the:",
+    "options": [
+      "Saphenous nerve",
+      "Superficial fibular nerve",
+      "Sural nerve",
+      "Deep fibular nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sural nerve, formed by branches from the tibial and common fibular nerves, provides cutaneous innervation to the lateral and posterior aspect of the leg and the lateral side of the foot.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-48",
+    "question": "Which bone bears the majority of body weight when standing?",
+    "options": [
+      "Fibula",
+      "Talus",
+      "Calcaneus",
+      "Navicular"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The calcaneus (heel bone) is the largest tarsal bone and is the primary weight-bearing bone of the foot.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-49",
+    "question": "The deep fascia of the thigh is known as the:",
+    "options": [
+      "Crural fascia",
+      "Fascia lata",
+      "Popliteal fascia",
+      "Iliotibial tract"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The deep fascia that envelops the muscles of the thigh is called the fascia lata. Its lateral thickening is the iliotibial tract.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-50",
+    "question": "A positive Thomas test is used to diagnose tightness in which muscle?",
+    "options": [
+      "Hamstrings",
+      "Gluteus maximus",
+      "Iliopsoas",
+      "Quadratus femoris"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Thomas test is used to assess for a fixed flexion deformity of the hip, commonly caused by tightness in the iliopsoas muscle.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-51",
+    "question": "Which structure is NOT part of the knee joint's supporting structures?",
+    "options": [
+      "Medial meniscus",
+      "Tibial collateral ligament",
+      "Fibular collateral ligament",
+      "Interosseous membrane"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The interosseous membrane is a fibrous sheet connecting the tibia and fibula shafts. It is not a direct supporting structure of the knee joint itself.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "lower-limb-52",
+    "question": "The muscle that both flexes the knee and extends the hip is the:",
+    "options": [
+      "Semitendinosus",
+      "Biceps femoris",
+      "Gluteus maximus",
+      "Rectus femoris"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The biceps femoris, as part of the hamstring group, acts on both the hip (extension) and the knee (flexion).",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-53",
+    "question": "The 'safe zone' for a gluteal intramuscular injection targets the:",
+    "options": [
+      "Upper outer quadrant of the buttock",
+      "Lower inner quadrant of the buttock",
+      "Over the sciatic nerve",
+      "Center of the gluteus maximus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The upper outer quadrant of the buttock is the recommended site for gluteal IM injections to avoid injury to the sciatic nerve and superior gluteal vessels.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 3"
+  },
+  {
+    "id": "lower-limb-54",
+    "question": "The ligament that checks hyperextension of the knee is the:",
+    "options": [
+      "Oblique popliteal ligament",
+      "Arcuate popliteal ligament",
+      "Anterior cruciate ligament",
+      "Posterior cruciate ligament"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Anterior Cruciate Ligament (ACL) becomes taut during knee hyperextension and is a primary restraint against it.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "lower-limb-55",
+    "question": "Which muscle is responsible for the 'swing phase' of gait by dorsiflexing the foot?",
+    "options": [
+      "Tibialis posterior",
+      "Gastrocnemius",
+      "Tibialis anterior",
+      "Soleus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The tibialis anterior dorsiflexes the ankle during the swing phase of gait to prevent the toes from catching on the ground.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-56",
+    "question": "The head of the femur articulates with the:",
+    "options": [
+      "Acetabulum",
+      "Obturator foramen",
+      "Gluteal tuberosity",
+      "Auricular surface of the ilium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The head of the femur forms the ball-and-socket hip joint by articulating with the acetabulum of the hip bone.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "lower-limb-57",
+    "question": "A lesion of the tibial nerve would result in paralysis of all of the following EXCEPT:",
+    "options": [
+      "Gastrocnemius",
+      "Soleus",
+      "Tibialis anterior",
+      "Flexor digitorum longus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The tibial nerve innervates the posterior compartment of the leg. The tibialis anterior is in the anterior compartment and is innervated by the deep fibular nerve.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-58",
+    "question": "The small saphenous vein drains into the:",
+    "options": [
+      "Femoral vein",
+      "Popliteal vein",
+      "Great saphenous vein",
+      "External iliac vein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The small (short) saphenous vein ascends the posterior leg and typically pierces the popliteal fascia to drain into the popliteal vein.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-59",
+    "question": "Which muscle is an important stabilizer of the pelvis during single-leg stance?",
+    "options": [
+      "Adductor longus",
+      "Gluteus medius",
+      "Psoas major",
+      "Sartorius"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The gluteus medius (and minimus) on the supported side contract to prevent the contralateral side of the pelvis from dropping (a positive Trendelenburg sign).",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 486"
+  },
+  {
+    "id": "lower-limb-60",
+    "question": "The talocrural joint is formed by the articulation of the tibia, fibula, and which bone?",
+    "options": [
+      "Calcaneus",
+      "Navicular",
+      "Cuboid",
+      "Talus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The ankle joint (talocrural joint) is a mortise formed by the distal tibia and fibula, which articulates with the trochlea of the talus.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-61",
+    "question": "Which nerve is compressed in tarsal tunnel syndrome?",
+    "options": [
+      "Deep fibular nerve",
+      "Superficial fibular nerve",
+      "Tibial nerve",
+      "Sural nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tarsal tunnel syndrome involves compression of the tibial nerve as it passes posterior to the medial malleolus deep to the flexor retinaculum.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-62",
+    "question": "The iliotibial band is a thickening of the fascia lata and inserts on:",
+    "options": [
+      "Femoral linea aspera",
+      "Gerdy's tubercle",
+      "Ischial tuberosity",
+      "Pubic tubercle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The iliotibial (IT) band inserts distally on Gerdy's tubercle on the lateral aspect of the proximal tibia.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-63",
+    "question": "The primary artery supplying the lateral compartment of the leg is the:",
+    "options": [
+      "Anterior tibial artery",
+      "Posterior tibial artery",
+      "Fibular artery",
+      "Popliteal artery"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The fibular (peroneal) artery, a branch of the posterior tibial artery, is the major blood supply to the lateral compartment of the leg.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-64",
+    "question": "A patient has weak hip abduction and an associated Trendelenburg gait. The nerve most likely injured is the:",
+    "options": [
+      "Inferior gluteal nerve",
+      "Superior gluteal nerve",
+      "Sciatic nerve",
+      "Femoral nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The superior gluteal nerve innervates the gluteus medius and minimus. Injury results in weak hip abduction and a Trendelenburg gait.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-65",
+    "question": "The muscle that is the prime mover for hip extension is the:",
+    "options": [
+      "Gluteus medius",
+      "Gluteus maximus",
+      "Biceps femoris",
+      "Adductor magnus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The gluteus maximus is the largest and most powerful extensor of the thigh at the hip joint, crucial for rising from a seated position, climbing stairs, and running.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "lower-limb-66",
+    "question": "Which structure is found in the femoral sheath?",
+    "options": [
+      "Femoral nerve",
+      "Femoral artery",
+      "Great saphenous vein",
+      "Lymph nodes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The femoral sheath contains the femoral artery, femoral vein, and lymphatic vessels. The femoral nerve lies outside the sheath.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-67",
+    "question": "The subtalar joint allows primarily which movement?",
+    "options": [
+      "Dorsiflexion and plantarflexion",
+      "Inversion and eversion",
+      "Abduction and adduction",
+      "Flexion and extension"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The subtalar (talocalcaneal) joint is a plane synovial joint that allows gliding and rotation, which are the components of inversion and eversion of the foot.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-68",
+    "question": "A patient with a herniated L5-S1 intervertebral disc would most likely present with weakness in:",
+    "options": [
+      "Hip flexion",
+      "Knee extension",
+      "Ankle dorsiflexion",
+      "Ankle plantarflexion"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The S1 nerve root is primarily responsible for ankle plantarflexion (via the gastrocnemius/soleus). A L5-S1 disc herniation typically affects the S1 root, causing weakness in plantarflexion and a diminished ankle jerk reflex.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 4"
+  },
+  {
+    "id": "lower-limb-69",
+    "question": "The ligament that connects the anterior superior iliac spine (ASIS) to the pubic tubercle is the:",
+    "options": [
+      "Inguinal ligament",
+      "Sacrospinous ligament",
+      "Sacrotuberous ligament",
+      "Iliolumbar ligament"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The inguinal ligament is formed by the inferior aponeurotic fibers of the external oblique muscle and runs from the ASIS to the pubic tubercle. It forms the base of the femoral triangle.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  },
+  {
+    "id": "lower-limb-70",
+    "question": "Which muscle is innervated by the inferior gluteal nerve?",
+    "options": [
+      "Gluteus minimus",
+      "Gluteus maximus",
+      "Piriformis",
+      "Tensor fasciae latae"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The inferior gluteal nerve (L5-S2) exclusively innervates the gluteus maximus muscle.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 77"
+  },
+  {
+    "id": "lower-limb-71",
+    "question": "The 'tom, dick, and harry' mnemonic refers to the structures in the:",
+    "options": [
+      "Femoral triangle",
+      "Popliteal fossa",
+      "Tarsal tunnel",
+      "Adductor canal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The mnemonic 'Tom, Dick, And Very Nervous Harry' represents the order of structures posterior to the medial malleolus in the tarsal tunnel: Tibialis posterior, Flexor Digitorum longus, posterior tibial Artery, posterior tibial Vein, tibial Nerve, Flexor Hallucis longus.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Netter's Atlas of Human Anatomy, 7th Edition, Plate 511"
+  },
+  {
+    "id": "lower-limb-72",
+    "question": "The medial meniscus of the knee is:",
+    "options": [
+      "More mobile than the lateral meniscus",
+      "Less prone to injury than the lateral meniscus",
+      "Firmly attached to the tibial collateral ligament",
+      "C-shaped"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The medial meniscus is C-shaped, while the lateral meniscus is more circular (O-shaped). Its attachment to the MCL makes it less mobile and more prone to injury.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "lower-limb-73",
+    "question": "A patient has sensory loss on the medial leg. Which nerve is likely damaged?",
+    "options": [
+      "Lateral femoral cutaneous nerve",
+      "Obturator nerve",
+      "Saphenous nerve",
+      "Common fibular nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The saphenous nerve is a sensory branch of the femoral nerve that supplies the skin on the medial aspect of the leg and foot.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-74",
+    "question": "The artery palpated behind the knee is the:",
+    "options": [
+      "Femoral artery",
+      "Popliteal artery",
+      "Anterior tibial artery",
+      "Posterior tibial artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The popliteal artery is the continuation of the femoral artery and can be palpated in the deep part of the popliteal fossa with the knee slightly flexed.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-75",
+    "question": "Which muscle is responsible for the 'stirrup' effect by supporting the transverse arch of the foot?",
+    "options": [
+      "Tibialis anterior",
+      "Fibularis longus",
+      "Flexor hallucis longus",
+      "Tibialis posterior"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fibularis longus tendon crosses the sole of the foot obliquely to insert on the base of the 1st metatarsal and medial cuneiform, acting like a stirrup to support the transverse arch.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-76",
+    "question": "The patella is a sesamoid bone located within the tendon of which muscle?",
+    "options": [
+      "Hamstrings",
+      "Quadriceps femoris",
+      "Gastrocnemius",
+      "Sartorius"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The patella is the largest sesamoid bone in the body and is embedded in the quadriceps femoris tendon.",
+    "topic": "lower-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 82"
+  },
+  {
+    "id": "lower-limb-77",
+    "question": "The deep fibular nerve provides motor innervation to:",
+    "options": [
+      "Extensor digitorum brevis",
+      "Abductor hallucis",
+      "Quadratus plantae",
+      "Lumbricals (2nd-4th)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The deep fibular nerve innervates the extensor digitorum brevis on the dorsum of the foot. The other options are intrinsic foot muscles innervated by the medial and lateral plantar nerves (branches of the tibial nerve).",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 84"
+  },
+  {
+    "id": "lower-limb-78",
+    "question": "The 'Q-angle' of the knee is formed by the intersection of lines representing the pull of the:",
+    "options": [
+      "Hamstrings and quadriceps",
+      "Quadriceps and the patellar tendon",
+      "Adductors and abductors",
+      "ACL and PCL"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Q-angle (quadriceps angle) is the angle between the line of pull of the quadriceps muscle (from ASIS to patella) and the line of the patellar tendon (from patella to tibial tubercle). An increased Q-angle is a risk factor for patellofemoral pain syndrome.",
+    "topic": "lower-limb",
+    "difficulty": "hard",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-79",
+    "question": "Which structure is most at risk during a posterior hip dislocation?",
+    "options": [
+      "Femoral nerve",
+      "Femoral artery",
+      "Sciatic nerve",
+      "Obturator nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Posterior hip dislocations, often from dashboard injuries in car accidents, can injure the sciatic nerve as it lies posterior to the hip joint.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "lower-limb-80",
+    "question": "The muscle that is the prime mover for hip adduction is the:",
+    "options": [
+      "Gracilis",
+      "Pectineus",
+      "Adductor longus",
+      "Adductor magnus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "While all adductors contribute, the adductor magnus is the largest and most powerful adductor of the thigh.",
+    "topic": "lower-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 78"
+  }
+]

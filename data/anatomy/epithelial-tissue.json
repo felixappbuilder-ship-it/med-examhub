@@ -1,0 +1,602 @@
+[
+  {
+    "id": "epithelial-tissue-1",
+    "question": "Which type of epithelium lines the small intestine?",
+    "options": [
+      "Simple columnar with microvilli",
+      "Stratified squamous",
+      "Pseudostratified columnar",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The small intestine is lined by simple columnar epithelium with microvilli (brush border) to increase surface area for absorption.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-2",
+    "question": "Which type of epithelium is best suited for areas of high mechanical friction, such as the skin?",
+    "options": [
+      "Simple squamous",
+      "Stratified squamous (keratinized)",
+      "Simple cuboidal",
+      "Pseudostratified columnar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stratified squamous keratinized epithelium is found in the epidermis of the skin. The multiple layers provide protection, and the keratinization of the outer layers provides a tough, waterproof, and abrasion-resistant surface.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-3",
+    "question": "The epithelium lining the urinary bladder that allows for distension is:",
+    "options": [
+      "Stratified squamous",
+      "Transitional epithelium (Urothelium)",
+      "Simple columnar",
+      "Pseudostratified columnar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Transitional epithelium (urothelium) is a specialized stratified epithelium that lines the urinary tract. It can stretch and flatten to accommodate changes in fluid volume, as seen in the bladder.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-4",
+    "question": "Ciliated pseudostratified columnar epithelium is characteristic of the:",
+    "options": [
+      "Esophagus",
+      "Trachea",
+      "Kidney tubules",
+      "Blood vessels"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The lining of the respiratory tract, from the nasal cavity to the bronchi, is primarily ciliated pseudostratified columnar epithelium with goblet cells. The cilia help move mucus and trapped particles.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-5",
+    "question": "The endothelium lining blood vessels is an example of which epithelial type?",
+    "options": [
+      "Simple cuboidal",
+      "Simple squamous",
+      "Stratified columnar",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Endothelium is a specialized type of simple squamous epithelium that forms the inner lining of the entire circulatory system, providing a smooth, non-thrombogenic surface for blood flow.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-6",
+    "question": "Which of the following is a characteristic feature of all epithelia?",
+    "options": [
+      "Presence of blood vessels",
+      "Basement membrane",
+      "Extensive extracellular matrix",
+      "Presence of nerve endings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "All epithelial tissues rest on a basement membrane (basal lamina), which attaches the epithelium to the underlying connective tissue. Epithelia are avascular.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-7",
+    "question": "Which cell junction forms an impermeable seal between adjacent epithelial cells?",
+    "options": [
+      "Gap junction",
+      "Desmosome",
+      "Tight junction (Zonula occludens)",
+      "Hemidesmosome"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tight junctions form a continuous, impermeable or semi-permeable seal around the apical end of the cells, preventing the passage of molecules between the cells (paracellular pathway) and maintaining polarity.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-8",
+    "question": "Microvilli are most highly developed in epithelia specialized for:",
+    "options": [
+      "Secretion",
+      "Protection",
+      "Absorption",
+      "Distension"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Microvilli are finger-like cytoplasmic projections on the apical surface of cells that dramatically increase the surface area for absorption, as seen in the intestinal epithelium and proximal kidney tubules.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-9",
+    "question": "Which type of gland secretes its product by exocytosis, without loss of cellular material?",
+    "options": [
+      "Apocrine gland",
+      "Holocrine gland",
+      "Merocrine gland (Eccrine)",
+      "Endocrine gland"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merocrine (or eccrine) secretion is the most common mode. The secretory product is packaged into vesicles and released via exocytosis, leaving the cell intact (e.g., salivary glands, pancreas).",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-10",
+    "question": "The epithelium lining the thyroid follicles is:",
+    "options": [
+      "Simple squamous",
+      "Stratified cuboidal",
+      "Simple cuboidal",
+      "Pseudostratified columnar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The thyroid follicles are spherical structures lined by a single layer of cuboidal epithelial cells, which are responsible for the production and storage of thyroid hormone precursors.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "epithelial-tissue-11",
+    "question": "Which cell junction provides strong mechanical attachment between cells, acting like a 'spot weld'?",
+    "options": [
+      "Tight junction",
+      "Gap junction",
+      "Desmosome (Macula adherens)",
+      "Zonula adherens"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Desmosomes are spot-like junctions that provide strong adhesion, distributing mechanical stress throughout the tissue. They are abundant in tissues subjected to stretching, like the skin and heart.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-12",
+    "question": "Sebaceous glands are an example of which mode of secretion?",
+    "options": [
+      "Merocrine",
+      "Apocrine",
+      "Holocrine",
+      "Cytocrine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Holocrine secretion involves the rupture and death of the entire secretory cell to release its product. Sebaceous glands release sebum (oily secretion) through this process.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-13",
+    "question": "The mesothelium lining body cavities (peritoneum, pleura) is composed of:",
+    "options": [
+      "Stratified squamous epithelium",
+      "Simple cuboidal epithelium",
+      "Transitional epithelium",
+      "Simple squamous epithelium"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mesothelium is a specialized simple squamous epithelium that lines the peritoneal, pleural, and pericardial cavities, providing a smooth, slippery surface.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-14",
+    "question": "Which of the following is NOT a function of epithelial tissue?",
+    "options": [
+      "Secretion",
+      "Sensation",
+      "Structural support of organs",
+      "Selective permeability"
+    ],
+    "correctAnswer": 2,
+    "explanation": "While epithelia provide protection and form boundaries, the primary function of providing structural support to organs is carried out by connective tissue.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-15",
+    "question": "Stratified cuboidal epithelium is typically found in:",
+    "options": [
+      "The alveoli of the lungs",
+      "The ducts of sweat glands",
+      "The lining of the stomach",
+      "The surface of the ovary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stratified cuboidal epithelium, consisting of two or more layers of cuboidal cells, is relatively rare and is found primarily in the ducts of sweat glands and salivary glands.",
+    "topic": "epithelial-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-16",
+    "question": "The 'brush border' seen under light microscopy on intestinal epithelial cells is formed by:",
+    "options": [
+      "Cilia",
+      "Microvilli",
+      "Stereocilia",
+      "Flagella"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The brush border is the name given to the dense, striated appearance of the apical surface of absorptive cells in the intestine, caused by the tightly packed microvilli.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-17",
+    "question": "Which structure anchors the basal surface of epithelial cells to the underlying basement membrane?",
+    "options": [
+      "Desmosomes",
+      "Tight junctions",
+      "Hemidesmosomes",
+      "Gap junctions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hemidesmosomes are specialized junctions that look like half-desmosomes. They anchor the basal surface of epithelial cells to the basal lamina of the basement membrane.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-18",
+    "question": "The epithelium lining the fallopian tubes (oviducts) is:",
+    "options": [
+      "Simple columnar, some ciliated",
+      "Stratified squamous, non-keratinized",
+      "Transitional",
+      "Pseudostratified columnar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The mucosa of the fallopian tube is lined by simple columnar epithelium, which consists of both ciliated cells (to help move the ovum) and non-ciliated secretory cells (peg cells).",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 19"
+  },
+  {
+    "id": "epithelial-tissue-19",
+    "question": "Goblet cells are unicellular glands that secrete mucus and are found within:",
+    "options": [
+      "Stratified squamous epithelia",
+      "Simple columnar and pseudostratified epithelia",
+      "Transitional epithelia",
+      "Simple squamous epithelia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goblet cells are modified epithelial cells that synthesize and secrete mucus. They are scattered among the columnar cells of the respiratory and gastrointestinal tracts.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-20",
+    "question": "Which type of epithelium appears stratified because nuclei are at different levels, but all cells contact the basement membrane?",
+    "options": [
+      "Stratified columnar",
+      "Transitional epithelium",
+      "Pseudostratified columnar",
+      "Stratified cuboidal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In pseudostratified columnar epithelium, the nuclei lie at different levels, giving a false impression of stratification. However, every cell extends from the basement membrane to the lumen.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-21",
+    "question": "The basement membrane is composed of which of the following layers?",
+    "options": [
+      "Stratum basale and stratum spinosum",
+      "Basal lamina and reticular lamina",
+      "Lamina propria and submucosa",
+      "Zonula occludens and zonula adherens"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The basement membrane is a sheet-like structure composed of the basal lamina (secreted by the epithelial cells) and the reticular lamina (produced by the underlying connective tissue fibroblasts).",
+    "topic": "epithelial-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-22",
+    "question": "Which of the following epithelia is best adapted for rapid diffusion of gases?",
+    "options": [
+      "Stratified squamous",
+      "Simple squamous",
+      "Simple cuboidal",
+      "Pseudostratified ciliated columnar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Simple squamous epithelium, being only one cell layer thick, provides the shortest diffusion distance. This makes it ideal for gas exchange in the alveoli of the lungs and for filtration in the kidney glomeruli.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-23",
+    "question": "Myoepithelial cells are contractile cells found in which of the following structures?",
+    "options": [
+      "Lining of blood vessels",
+      "Basal layer of sweat and salivary glands",
+      "Apical surface of intestinal villi",
+      "Stratum corneum of the skin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Myoepithelial cells are located between the basal lamina and the secretory cells in glands like the sweat, mammary, and salivary glands. Their contraction helps expel secretions from the glandular acini.",
+    "topic": "epithelial-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-24",
+    "question": "The epithelium lining the oral cavity and esophagus is:",
+    "options": [
+      "Stratified squamous, keratinized",
+      "Stratified squamous, non-keratinized",
+      "Simple columnar",
+      "Transitional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The oral cavity and esophagus are subject to mechanical abrasion from food, so they are lined by protective stratified squamous epithelium. In these moist environments, it is non-keratinized.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-25",
+    "question": "Which cell junction allows for the direct passage of ions and small molecules between adjacent cells?",
+    "options": [
+      "Desmosome",
+      "Tight junction",
+      "Gap junction",
+      "Hemidesmosome"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gap junctions (nexuses) are specialized intercellular connections that form channels allowing for the direct diffusion of ions, second messengers, and small metabolites between cells, facilitating electrical and chemical coupling.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-26",
+    "question": "The 'dome cells' seen in relaxed transitional epithelium are a feature of which cell type?",
+    "options": [
+      "Basal cells",
+      "Intermediate cells",
+      "Superficial umbrella cells",
+      "Goblet cells"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The superficial cells of transitional epithelium (umbrella cells) have a unique ability to fold their apical plasma membrane. In a relaxed state, they appear large, rounded, and 'dome-shaped'.",
+    "topic": "epithelial-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-27",
+    "question": "Stereocilia, long microvilli that enhance absorptive capacity, are found in the:",
+    "options": [
+      "Trachea",
+      "Epididymis and ductus deferens",
+      "Small intestine",
+      "Urinary bladder"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Despite their name, stereocilia are very long, branching microvilli (not true cilia). They are found in the male reproductive tract (epididymis, ductus deferens) and the inner ear, where they increase surface area for absorption and sensory reception, respectively.",
+    "topic": "epithelial-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-28",
+    "question": "A gland that secretes its product into a duct that opens onto an internal or external surface is classified as a(n):",
+    "options": [
+      "Endocrine gland",
+      "Exocrine gland",
+      "Mixed gland",
+      "Paracrine gland"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exocrine glands secrete their products (enzymes, mucus, sweat, etc.) via a duct system onto an epithelial surface. Endocrine glands are ductless and secrete hormones directly into the bloodstream.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-29",
+    "question": "Which of the following is a characteristic of malignant epithelial tumors (carcinomas)?",
+    "options": [
+      "They remain confined to the epithelium",
+      "They breach the basement membrane and invade underlying tissue",
+      "They are always benign",
+      "They originate from connective tissue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The defining feature of a carcinoma (malignant epithelial tumor) is its ability to invade through the basement membrane into the underlying connective tissue, which allows for metastasis.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Robbins and Cotran Pathologic Basis of Disease, 10th Ed., Chapter 6"
+  },
+  {
+    "id": "epithelial-tissue-30",
+    "question": "The junctional complex at the apical end of simple columnar epithelial cells typically includes, in order from apex to base:",
+    "options": [
+      "Desmosome, Gap junction, Tight junction",
+      "Tight junction, Adherens junction, Desmosome",
+      "Hemidesmosome, Tight junction, Gap junction",
+      "Gap junction, Tight junction, Hemidesmosome"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The classic junctional complex consists of three components, from apex to base: a tight junction (zonula occludens), an adherens junction (zonula adherens), and a desmosome (macula adherens).",
+    "topic": "epithelial-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-31",
+    "question": "Which type of exocrine gland has a branched, rounded secretory portion?",
+    "options": [
+      "Simple tubular",
+      "Compound acinar",
+      "Simple coiled tubular",
+      "Compound tubuloalveolar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Glands are classified by their duct system (simple vs. compound) and the shape of their secretory units (tubular, acinar/alveolar, or tubuloacinar). The pancreas is an example of a compound acinar gland.",
+    "topic": "epithelial-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-32",
+    "question": "The 'pores' in the glomerular filtration barrier of the kidney are formed by the:",
+    "options": [
+      "Podocyte foot processes",
+      "Endothelial cells of the glomerular capillaries",
+      "Basement membrane",
+      "Mesangial cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The filtration slits (or pores) are the narrow gaps between the foot processes of the podocytes, which are highly specialized epithelial cells lining the outer aspect of the glomerular basement membrane.",
+    "topic": "epithelial-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "epithelial-tissue-33",
+    "question": "Which epithelial feature is most critical for creating a selective barrier between different body compartments?",
+    "options": [
+      "Desmosomes",
+      "Tight Junctions",
+      "Gap Junctions",
+      "The Basement Membrane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tight junctions form a seal that controls the paracellular pathway (between cells), creating a selective barrier that determines which molecules can pass from one side of the epithelium to the other.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-34",
+    "question": "In which location would you find a simple columnar epithelium without goblet cells?",
+    "options": [
+      "Gallbladder",
+      "Small Intestine",
+      "Colon",
+      "Trachea"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The gallbladder is lined by simple columnar epithelium whose primary function is absorption of water and electrolytes, not mucus secretion. Therefore, it lacks goblet cells under normal conditions.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "epithelial-tissue-35",
+    "question": "The term 'avascular' in reference to epithelial tissue means that it:",
+    "options": [
+      "Lacks nerve endings",
+      "Lacks blood vessels",
+      "Is unable to regenerate",
+      "Has a poor blood supply"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Epithelial tissues are avascular, meaning they contain no blood vessels. They receive nutrients and eliminate waste via diffusion from the underlying connective tissue, which is highly vascular.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-36",
+    "question": "Which of the following is a unicellular exocrine gland?",
+    "options": [
+      "Pancreatic acinar cell",
+      "Goblet cell",
+      "Parietal cell",
+      "Hepatocyte"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A goblet cell is a classic example of a unicellular exocrine gland. It secretes mucus directly onto the epithelial surface without a dedicated duct, unlike multicellular glands like the pancreas.",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-37",
+    "question": "The epithelium that lines the terminal bronchioles of the respiratory system is:",
+    "options": [
+      "Pseudostratified ciliated columnar",
+      "Stratified squamous",
+      "Simple cuboidal",
+      "Transitional"
+    ],
+    "correctAnswer": 2,
+    "explanation": "As the respiratory tree branches and becomes smaller, the epithelium changes from pseudostratified ciliated columnar in the bronchi to simple columnar, and finally to simple cuboidal in the terminal bronchioles.",
+    "topic": "epithelial-tissue",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "epithelial-tissue-38",
+    "question": "Which type of cell junction is most important for resisting shearing forces in stratified epithelia like the skin?",
+    "options": [
+      "Tight Junctions",
+      "Gap Junctions",
+      "Desmosomes",
+      "Hemidesmosomes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Desmosomes are spot-welds that provide extremely strong adhesion between cells. They are abundant in tissues like the epidermis and cardiac muscle, which are subjected to significant mechanical stress.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  },
+  {
+    "id": "epithelial-tissue-39",
+    "question": "The process of epithelial renewal in the intestine originates from which location?",
+    "options": [
+      "The tips of the villi",
+      "The intestinal crypts (of Lieberkühn)",
+      "The lamina propria",
+      "The muscularis mucosa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stem cells located in the bases of the intestinal crypts continuously divide. Their progeny differentiate into the various epithelial cell types as they migrate upward to cover the villi, replacing cells that are shed at the tip.",
+    "topic": "epithelial-tissue",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "epithelial-tissue-40",
+    "question": "Which characteristic is used to classify epithelia?",
+    "options": [
+      "Number of cell layers and cell shape",
+      "Type of extracellular matrix",
+      "Presence or absence of cilia",
+      "The nature of the connective tissue underneath"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Epithelia are classified based on two fundamental characteristics: the number of cell layers (simple = one layer, stratified = multiple layers) and the shape of the cells in the apical layer (squamous, cuboidal, or columnar).",
+    "topic": "epithelial-tissue",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 2"
+  }
+]

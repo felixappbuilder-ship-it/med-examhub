@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "upper-limb-1",
+    "question": "Which nerve is most commonly injured in fractures of the surgical neck of the humerus?",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve",
+      "Ulnar nerve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The axillary nerve winds around the surgical neck of the humerus and is vulnerable in fractures of this region. Injury results in loss of shoulder abduction (deltoid paralysis) and sensory loss over the regimental badge area.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-2",
+    "question": "The carpal tunnel contains all of the following structures EXCEPT:",
+    "options": [
+      "Flexor digitorum profundus tendons",
+      "Flexor digitorum superficialis tendons",
+      "Flexor pollicis longus tendon",
+      "Median nerve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The carpal tunnel contains: 4 FDS tendons, 4 FDP tendons, flexor pollicis longus tendon, and median nerve. The flexor carpi radialis travels in its own compartment, not in the carpal tunnel.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-3",
+    "question": "Which muscle is the primary supinator of the forearm when the elbow is extended?",
+    "options": [
+      "Supinator muscle",
+      "Biceps brachii",
+      "Brachioradialis",
+      "Pronator teres"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biceps brachii is the primary supinator when the elbow is extended because it has better mechanical advantage. Supinator muscle is more effective when the elbow is flexed.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-4",
+    "question": "Which nerve is most commonly injured in a mid-shaft fracture of the humerus?",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve",
+      "Median nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The radial nerve runs in the spiral groove on the posterior aspect of the mid-shaft of the humerus, making it highly susceptible to injury in such fractures. This can lead to wrist drop.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-5",
+    "question": "The anatomical snuffbox contains which of the following structures?",
+    "options": [
+      "Ulnar artery",
+      "Radial artery",
+      "Median nerve",
+      "Flexor carpi radialis tendon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The anatomical snuffbox is bounded by the tendons of extensor pollicis brevis and abductor pollicis longus anteriorly, and extensor pollicis longus posteriorly. Its floor contains the radial artery and the scaphoid bone.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-6",
+    "question": "Which muscle is innervated by the dorsal scapular nerve?",
+    "options": [
+      "Serratus anterior",
+      "Rhomboid major",
+      "Trapezius",
+      "Levator scapulae"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The dorsal scapular nerve (C5) innervates the rhomboid major and minor muscles, which retract and stabilize the scapula.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-7",
+    "question": "A patient presents with 'winging' of the scapula. Which nerve is most likely injured?",
+    "options": [
+      "Dorsal scapular nerve",
+      "Spinal accessory nerve (CN XI)",
+      "Long thoracic nerve",
+      "Suprascapular nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The long thoracic nerve innervates the serratus anterior muscle, which holds the scapula against the thoracic wall. Injury causes medial border of scapula to protrude, known as 'winging'.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-8",
+    "question": "The 'wrist drop' deformity is characteristic of injury to which nerve?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The radial nerve innervates the extensor muscles of the forearm. Injury results in paralysis of these muscles, causing an inability to extend the wrist and fingers (wrist drop).",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-9",
+    "question": "Which artery is the primary blood supply to the posterior compartment of the arm?",
+    "options": [
+      "Brachial artery",
+      "Profunda brachii artery",
+      "Ulnar artery",
+      "Radial collateral artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The profunda brachii artery is the main artery of the posterior compartment of the arm, accompanying the radial nerve in the spiral groove to supply the triceps brachii.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-10",
+    "question": "The thenar muscles are primarily innervated by which nerve?",
+    "options": [
+      "Ulnar nerve",
+      "Median nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The median nerve innervates the thenar muscles (abductor pollicis brevis, flexor pollicis brevis, opponens pollicis), which are responsible for thumb movement.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-11",
+    "question": "Which structure forms the roof of the cubital fossa?",
+    "options": [
+      "Brachioradialis muscle",
+      "Bicipital aponeurosis",
+      "Pronator teres muscle",
+      "Brachialis muscle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cubital fossa is bounded by brachioradialis (lateral) and pronator teres (medial). Its roof is formed by the deep fascia reinforced by the bicipital aponeurosis.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-12",
+    "question": "Injury to the median nerve at the wrist results in which characteristic hand deformity?",
+    "options": [
+      "Claw hand",
+      "Ape hand",
+      "Wrist drop",
+      "Benediction hand"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Median nerve injury at the wrist causes paralysis of thenar muscles and lateral two lumbricals, resulting in 'ape hand' deformity where the thumb is laterally rotated and adducted.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-13",
+    "question": "Which muscle is the primary flexor of the arm at the glenohumeral joint?",
+    "options": [
+      "Deltoid",
+      "Pectoralis major",
+      "Biceps brachii",
+      "Coracobrachialis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The clavicular head of pectoralis major is the primary flexor of the arm. While other muscles assist, pectoralis major provides the most powerful flexion.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-14",
+    "question": "The 'carrying angle' of the elbow is more pronounced in:",
+    "options": [
+      "Males",
+      "Females",
+      "Children only",
+      "Elderly only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The carrying angle (normal valgus attitude of the extended elbow) is typically more pronounced in females (10-15°) than males (5-10°).",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-15",
+    "question": "Which nerve provides sensory innervation to the tip of the little finger?",
+    "options": [
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The ulnar nerve provides sensory innervation to the palmar and dorsal aspects of the medial hand, including the little finger.",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-16",
+    "question": "The rotator cuff muscles include all of the following EXCEPT:",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Teres major",
+      "Teres minor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The rotator cuff muscles are supraspinatus, infraspinatus, teres minor, and subscapularis (SITS). Teres major is not part of the rotator cuff.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-17",
+    "question": "Which artery is the main source of blood supply to the deep palmar arch?",
+    "options": [
+      "Ulnar artery",
+      "Radial artery",
+      "Anterior interosseous artery",
+      "Princeps pollicis artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The deep palmar arch is formed mainly by the radial artery, with contribution from the deep branch of ulnar artery. The superficial palmar arch is formed mainly by the ulnar artery.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-18",
+    "question": "A patient cannot abduct their arm from 0-15 degrees. Which muscle is most likely paralyzed?",
+    "options": [
+      "Deltoid",
+      "Supraspinatus",
+      "Infraspinatus",
+      "Serratus anterior"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Supraspinatus initiates abduction of the arm for the first 15 degrees, after which the deltoid becomes the prime mover.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-19",
+    "question": "The medial epicondyle of the humerus is the common origin for which muscle group?",
+    "options": [
+      "Extensors of the forearm",
+      "Flexors of the forearm",
+      "Rotator cuff muscles",
+      "Thenar muscles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The medial epicondyle serves as the common flexor origin for the superficial flexor muscles of the forearm.",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-20",
+    "question": "Which nerve is compressed in 'Saturday night palsy'?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Axillary nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Saturday night palsy involves compression of the radial nerve in the spiral groove, typically from prolonged pressure on the back of the arm, leading to wrist drop.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-21",
+    "question": "The 'dorsal digital expansion' (extensor hood) is primarily formed by contributions from:",
+    "options": [
+      "Extensor digitorum tendons only",
+      "Lumbricals and interossei",
+      "Thenar and hypothenar muscles",
+      "Flexor digitorum profundus tendons"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The extensor expansion receives contributions from the lumbricals and interossei muscles, which allow these small muscles to extend the interphalangeal joints.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-22",
+    "question": "Which muscle is responsible for the 'screw home' mechanism of the shoulder during abduction?",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Subscapularis",
+      "Teres minor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Supraspinatus initiates abduction and causes inferior gliding of the humeral head, creating a 'screw home' mechanism that prevents impingement under the acromion.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-23",
+    "question": "The anatomical 'true' space of the shoulder joint is between:",
+    "options": [
+      "Acromion and humeral head",
+      "Glenoid fossa and humeral head",
+      "Coracoid process and clavicle",
+      "Scapula and rib cage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The true shoulder (glenohumeral) joint space is between the glenoid fossa of the scapula and the head of the humerus.",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-24",
+    "question": "Which nerve innervates the skin over the anatomical snuffbox?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The superficial branch of the radial nerve provides sensory innervation to the dorsum of the hand, including the anatomical snuffbox area.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-25",
+    "question": "The 'quadrangular space' transmits which structures?",
+    "options": [
+      "Axillary nerve and posterior circumflex humeral vessels",
+      "Radial nerve and profunda brachii artery",
+      "Suprascapular nerve and artery",
+      "Circumflex scapular artery"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The quadrangular space is bounded by teres major, teres minor, long head of triceps, and humerus. It transmits the axillary nerve and posterior circumflex humeral vessels.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-26",
+    "question": "Which muscle is the primary antagonist to supination?",
+    "options": [
+      "Biceps brachii",
+      "Supinator",
+      "Pronator teres",
+      "Brachioradialis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pronator teres is the primary muscle responsible for pronation of the forearm, making it the main antagonist to supination.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-27",
+    "question": "The 'danger space' of the palm refers to which anatomical space?",
+    "options": [
+      "Thenar space",
+      "Hypothenar space",
+      "Midpalmar space",
+      "Palmar aponeurosis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The midpalmar space is a potential space deep to the flexor tendons that can become infected, with pus tracking proximally into the forearm - hence called the 'danger space'.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-28",
+    "question": "Which movement is primarily lost in Erb's palsy?",
+    "options": [
+      "Wrist extension",
+      "Finger flexion",
+      "Arm abduction and external rotation",
+      "Thumb opposition"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Erb's palsy (C5-C6 injury) affects muscles like deltoid, supraspinatus, infraspinatus, and biceps, resulting in loss of arm abduction and external rotation ('waiter's tip' position).",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-29",
+    "question": "The 'arcade of Struthers' is a potential site of compression for which nerve?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The arcade of Struthers is a fibrous band in the medial arm that can compress the ulnar nerve, causing cubital tunnel syndrome-like symptoms.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-30",
+    "question": "Which muscle is innervated by both median and ulnar nerves?",
+    "options": [
+      "Flexor digitorum profundus",
+      "Flexor pollicis longus",
+      "Pronator quadratus",
+      "Flexor carpi ulnaris"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Flexor digitorum profundus has dual innervation: medial half by ulnar nerve, lateral half by anterior interosseous branch of median nerve.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-31",
+    "question": "The 'triangle of auscultation' is bounded by all EXCEPT:",
+    "options": [
+      "Trapezius",
+      "Rhomboid major",
+      "Latissimus dorsi",
+      "Medial border of scapula"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The triangle of auscultation is bounded by trapezius (superiorly), latissimus dorsi (inferiorly), and medial border of scapula (laterally). Rhomboid major is deep to this triangle.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-32",
+    "question": "Which artery is commonly used for coronary artery bypass grafting?",
+    "options": [
+      "Brachial artery",
+      "Radial artery",
+      "Ulnar artery",
+      "Axillary artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The radial artery is frequently used as a conduit for coronary artery bypass grafting due to its suitable size, length, and the presence of good collateral circulation from the ulnar artery.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-33",
+    "question": "The 'ligament of Struthers' can compress which nerve?",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve",
+      "Median nerve",
+      "Ulnar nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The ligament of Struthers is an occasional fibrous band extending from a supracondylar process to the medial epicondyle, which can compress the median nerve.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-34",
+    "question": "Which muscle is responsible for stabilizing the clavicle during arm movement?",
+    "options": [
+      "Subclavius",
+      "Pectoralis minor",
+      "Sternocleidomastoid",
+      "Trapezius"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The subclavius muscle acts to stabilize the clavicle during movements of the shoulder girdle, preventing excessive movement at the sternoclavicular joint.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-35",
+    "question": "The 'critical zone' of the rotator cuff refers to the area in:",
+    "options": [
+      "Subscapularis tendon",
+      "Infraspinatus tendon",
+      "Supraspinatus tendon",
+      "Teres minor tendon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The critical zone of the supraspinatus tendon, about 1 cm proximal to its insertion, is relatively avascular and most susceptible to degeneration and tears.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-36",
+    "question": "Which nerve provides motor innervation to the first and second lumbricals?",
+    "options": [
+      "Ulnar nerve",
+      "Median nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The median nerve innervates the first and second lumbricals, while the ulnar nerve innervates the third and fourth lumbricals.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-37",
+    "question": "The 'Guyon's canal' transmits which structures?",
+    "options": [
+      "Median nerve and flexor tendons",
+      "Ulnar nerve and artery",
+      "Radial nerve and artery",
+      "Axillary nerve and vessels"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Guyon's canal (ulnar tunnel) at the wrist transmits the ulnar nerve and artery into the hand, protecting them from compression.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-38",
+    "question": "Which muscle is primarily responsible for retracting the scapula?",
+    "options": [
+      "Serratus anterior",
+      "Pectoralis minor",
+      "Rhomboid major",
+      "Levator scapulae"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The rhomboid major and minor are the primary retractors of the scapula, pulling it medially toward the vertebral column.",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-39",
+    "question": "The 'Wartenberg's sign' indicates paralysis of which muscle?",
+    "options": [
+      "Extensor digiti minimi",
+      "Extensor carpi ulnaris",
+      "Abductor pollicis longus",
+      "Extensor indicis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wartenberg's sign (abducted little finger) occurs due to unopposed action of extensor digiti minimi when the extensor carpi ulnaris is paralyzed (ulnar nerve injury).",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-40",
+    "question": "Which structure forms the floor of the anatomical snuffbox?",
+    "options": [
+      "Trapezium",
+      "Scaphoid",
+      "Lunate",
+      "Capitate"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The floor of the anatomical snuffbox is formed by the scaphoid and trapezium bones. The scaphoid is palpable here and is commonly fractured in FOOSH injuries.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-41",
+    "question": "The 'musculocutaneous nerve' emerges between which two muscles?",
+    "options": [
+      "Biceps and brachialis",
+      "Coracobrachialis and biceps",
+      "Brachialis and triceps",
+      "Coracobrachialis and brachialis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The musculocutaneous nerve pierces the coracobrachialis muscle and then descends between the biceps brachii and brachialis muscles.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-42",
+    "question": "Which test is used to assess for thoracic outlet syndrome?",
+    "options": [
+      "Phalen's test",
+      "Adson's test",
+      "Tinel's test",
+      "Finkelstein's test"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adson's test assesses for thoracic outlet syndrome by checking radial pulse diminution when the patient extends their neck and turns their head toward the affected side while taking a deep breath.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-43",
+    "question": "The 'spiral groove' of the humerus transmits which nerve?",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve",
+      "Median nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The radial nerve runs in the spiral groove on the posterior surface of the humeral shaft, accompanied by the profunda brachii artery.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-44",
+    "question": "Which muscle is the primary flexor of the distal interphalangeal joints?",
+    "options": [
+      "Flexor digitorum superficialis",
+      "Flexor digitorum profundus",
+      "Lumbricals",
+      "Interossei"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Flexor digitorum profundus is the only muscle that flexes the distal interphalangeal joints. FDS flexes the proximal interphalangeal joints.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-45",
+    "question": "The 'Allen's test' assesses the patency of which arteries?",
+    "options": [
+      "Brachial and axillary arteries",
+      "Radial and ulnar arteries",
+      "Subclavian and vertebral arteries",
+      "Palmar arch arteries"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Allen's test assesses the adequacy of collateral circulation between the radial and ulnar arteries before arterial puncture or cannulation.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-46",
+    "question": "Which nerve injury results in 'claw hand' deformity?",
+    "options": [
+      "High median nerve injury",
+      "Low median nerve injury",
+      "High ulnar nerve injury",
+      "Low ulnar nerve injury"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Low ulnar nerve injury causes 'claw hand' due to unopposed action of extensors on the 4th and 5th digits (MP extension, IP flexion). High ulnar nerve injury spares FDP and shows less clawing.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-47",
+    "question": "The 'coracoclavicular ligament' consists of which two parts?",
+    "options": [
+      "Trapezoid and conoid",
+      "Anterior and posterior",
+      "Superior and inferior",
+      "Medial and lateral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The coracoclavicular ligament has two parts: the trapezoid ligament (anterolateral) and conoid ligament (posteromedial), providing major stability to the acromioclavicular joint.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-48",
+    "question": "Which muscle is innervated by the posterior interosseous nerve?",
+    "options": [
+      "Brachioradialis",
+      "Extensor carpi radialis longus",
+      "Extensor carpi radialis brevis",
+      "Extensor digitorum"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Extensor digitorum is innervated by the posterior interosseous nerve (deep branch of radial nerve). ECRL is innervated by radial nerve proper before its division.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-49",
+    "question": "The 'triangle of Petit' is a potential site for:",
+    "options": [
+      "Lumbar hernia",
+      "Femoral hernia",
+      "Inguinal hernia",
+      "Umbilical hernia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The triangle of Petit (lumbar triangle) is bounded by latissimus dorsi, external oblique, and iliac crest. It's a potential site for lumbar hernia.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-50",
+    "question": "Which movement is primarily produced by the brachioradialis muscle?",
+    "options": [
+      "Pure elbow flexion",
+      "Forearm supination",
+      "Forearm pronation",
+      "Wrist extension"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Brachioradialis is a flexor of the elbow joint, most effective when the forearm is in a mid-prone position.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-51",
+    "question": "The 'sulcus nervi ulnaris' is located on which bone?",
+    "options": [
+      "Radius",
+      "Ulna",
+      "Humerus",
+      "Scapula"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sulcus nervi ulnaris (ulnar groove) is located on the posterior aspect of the medial epicondyle of the humerus, transmitting the ulnar nerve.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-52",
+    "question": "Which muscle is responsible for 'hitching up' the shoulder?",
+    "options": [
+      "Trapezius (upper fibers)",
+      "Trapezius (lower fibers)",
+      "Serratus anterior",
+      "Levator scapulae"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Levator scapulae is the primary elevator of the scapula, 'hitching up' the shoulder girdle.",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-53",
+    "question": "The 'Froment's sign' tests for paralysis of which muscle?",
+    "options": [
+      "Opponens pollicis",
+      "Adductor pollicis",
+      "Abductor pollicis brevis",
+      "Flexor pollicis longus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Froment's sign (paper sign) tests for adductor pollicis weakness (ulnar nerve injury). Patient flexes IP joint of thumb (using FPL) when attempting to hold paper against resistance.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-54",
+    "question": "Which artery is the primary blood supply to the scapular anastomosis?",
+    "options": [
+      "Suprascapular artery",
+      "Dorsal scapular artery",
+      "Circumflex scapular artery",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The scapular anastomosis involves multiple arteries: suprascapular (from thyrocervical trunk), dorsal scapular (from transverse cervical), and circumflex scapular (from subscapular).",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-55",
+    "question": "The 'radial tunnel' transmits which nerve?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Posterior interosseous nerve"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The radial tunnel transmits the posterior interosseous nerve (deep branch of radial nerve) as it winds around the radial neck.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-56",
+    "question": "Which muscle is the primary pronator of the forearm?",
+    "options": [
+      "Pronator teres",
+      "Pronator quadratus",
+      "Brachioradialis",
+      "Supinator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pronator quadratus is the primary pronator, especially for fine movements. Pronator teres is a stronger pronator used against resistance.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-57",
+    "question": "The 'teres major' is often called the 'latissimus dorsi's little helper' because:",
+    "options": [
+      "They have the same nerve supply",
+      "They have similar actions",
+      "They originate from the same bone",
+      "They insert together"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Teres major assists latissimus dorsi in arm adduction, extension, and medial rotation, hence the nickname.",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-58",
+    "question": "Which nerve provides sensory innervation to the dorsal aspect of the thumb?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The superficial branch of radial nerve provides sensory innervation to the dorsal aspect of the thumb, index, middle, and radial half of ring fingers.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-59",
+    "question": "The 'hook of hamate' serves as attachment for which ligament?",
+    "options": [
+      "Radial collateral ligament",
+      "Ulnar collateral ligament",
+      "Flexor retinaculum",
+      "Extensor retinaculum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The flexor retinaculum attaches to the hook of hamate on the ulnar side and to the tubercle of trapezium on the radial side, forming the roof of the carpal tunnel.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-60",
+    "question": "Which test is used to diagnose subacromial impingement?",
+    "options": [
+      "Yergason's test",
+      "Neer's test",
+      "Thompson's test",
+      "McMurray's test"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Neer's test involves forced flexion of the arm while scapula is stabilized, reproducing pain in subacromial impingement syndrome.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-61",
+    "question": "The 'bicipital aponeurosis' protects which underlying structure?",
+    "options": [
+      "Brachial artery",
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The bicipital aponeurosis (lacertus fibrosus) runs from biceps tendon across the cubital fossa to protect the brachial artery and median nerve.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-62",
+    "question": "Which muscle is primarily responsible for thumb opposition?",
+    "options": [
+      "Abductor pollicis brevis",
+      "Opponens pollicis",
+      "Flexor pollicis brevis",
+      "Adductor pollicis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Opponens pollicis is the primary muscle for thumb opposition, bringing the thumb across the palm to touch the tips of other fingers.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-63",
+    "question": "The 'Kocher's approach' to the elbow utilizes which intermuscular plane?",
+    "options": [
+      "Between brachioradialis and pronator teres",
+      "Between anconeus and extensor carpi ulnaris",
+      "Between triceps and brachialis",
+      "Between biceps and brachialis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kocher's posterior approach to the elbow uses the plane between anconeus (radial nerve) and extensor carpi ulnaris (posterior interosseous nerve).",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-64",
+    "question": "Which nerve injury results in 'waiter's tip' deformity?",
+    "options": [
+      "Radial nerve injury",
+      "Median nerve injury",
+      "Ulnar nerve injury",
+      "Upper trunk brachial plexus injury"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Upper trunk brachial plexus injury (Erb's palsy) results in 'waiter's tip' position: arm adducted and internally rotated, forearm extended and pronated.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-65",
+    "question": "The 'extensor mechanism' of the fingers includes all EXCEPT:",
+    "options": [
+      "Extensor digitorum tendons",
+      "Lumbricals",
+      "Interossei",
+      "Flexor digitorum profundus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The extensor mechanism includes extensor tendons, lumbricals, interossei, and sagittal bands. Flexor digitorum profundus is a flexor, not part of the extensor mechanism.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-66",
+    "question": "Which artery is palpated in the anatomical snuffbox?",
+    "options": [
+      "Ulnar artery",
+      "Radial artery",
+      "Posterior interosseous artery",
+      "Anterior interosseous artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The radial artery can be palpated in the anatomical snuffbox as it crosses the scaphoid and trapezium bones.",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 50"
+  },
+  {
+    "id": "upper-limb-67",
+    "question": "The 'deltoid tuberosity' serves as insertion for which muscle?",
+    "options": [
+      "Pectoralis major",
+      "Deltoid",
+      "Teres major",
+      "Latissimus dorsi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The deltoid muscle inserts into the deltoid tuberosity on the lateral aspect of the humeral shaft.",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-68",
+    "question": "Which test is used to assess for carpal tunnel syndrome?",
+    "options": [
+      "Finkelstein's test",
+      "Phalen's test",
+      "Allen's test",
+      "Adson's test"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Phalen's test involves holding wrists in full flexion for 60 seconds to reproduce symptoms of carpal tunnel syndrome (median nerve compression).",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-69",
+    "question": "The 'supracondylar process' of the humerus is found on which aspect?",
+    "options": [
+      "Lateral",
+      "Medial",
+      "Anterior",
+      "Posterior"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The supracondylar process is an occasional bony spur on the anteromedial aspect of the distal humerus, about 5 cm proximal to medial epicondyle.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-70",
+    "question": "Which muscle is responsible for 'shrugging' the shoulders?",
+    "options": [
+      "Levator scapulae",
+      "Rhomboids",
+      "Trapezius (upper fibers)",
+      "Sternocleidomastoid"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The upper fibers of trapezius are primarily responsible for elevating the scapula ('shrugging' the shoulders).",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-71",
+    "question": "The 'Finkelstein's test' is used to diagnose:",
+    "options": [
+      "Carpal tunnel syndrome",
+      "de Quervain's tenosynovitis",
+      "Cubital tunnel syndrome",
+      "Rotator cuff tear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Finkelstein's test (ulnar deviation of wrist with thumb flexed across palm) reproduces pain in de Quervain's tenosynovitis (inflammation of APL and EPB tendons).",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 6"
+  },
+  {
+    "id": "upper-limb-72",
+    "question": "Which nerve provides motor innervation to the infraspinatus muscle?",
+    "options": [
+      "Axillary nerve",
+      "Suprascapular nerve",
+      "Dorsal scapular nerve",
+      "Subscapular nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The suprascapular nerve (C5-C6) innervates both supraspinatus and infraspinatus muscles after passing through the suprascapular and spinoglenoid notches.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-73",
+    "question": "The 'intertubercular sulcus' of the humerus transmits which tendon?",
+    "options": [
+      "Subscapularis",
+      "Teres major",
+      "Long head of biceps",
+      "Coracobrachialis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The intertubercular (bicipital) groove transmits the tendon of long head of biceps brachii, lined by the transverse humeral ligament.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-74",
+    "question": "Which muscle is the primary abductor of the arm?",
+    "options": [
+      "Supraspinatus",
+      "Deltoid",
+      "Infraspinatus",
+      "Subscapularis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The deltoid is the primary abductor of the arm (15-90 degrees), while supraspinatus initiates abduction (0-15 degrees).",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-75",
+    "question": "The 'Martin-Gruber anastomosis' involves communication between which nerves?",
+    "options": [
+      "Median and ulnar nerves",
+      "Radial and median nerves",
+      "Ulnar and radial nerves",
+      "Musculocutaneous and median nerves"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Martin-Gruber anastomosis is a common connection between the median and ulnar nerves in the forearm, carrying motor fibers that can alter expected patterns of muscle innervation.",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 49"
+  },
+  {
+    "id": "upper-limb-76",
+    "question": "Which structure forms the 'roof' of the axilla?",
+    "options": [
+      "Pectoralis major and minor",
+      "Clavicle and scapula",
+      "Serratus anterior",
+      "Latissimus dorsi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The apex (roof) of the axilla is formed by the clavicle anteriorly, scapula posteriorly, and first rib medially.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-77",
+    "question": "The 'Thompson test' is used to assess integrity of which structure?",
+    "options": [
+      "Rotator cuff",
+      "Achilles tendon",
+      "Biceps tendon",
+      "Patellar tendon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thompson test (calf squeeze test) assesses for Achilles tendon rupture. While this is a lower limb test, it's included here for completeness of orthopedic testing knowledge.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Clinically Oriented Anatomy, 8th Ed., Chapter 5"
+  },
+  {
+    "id": "upper-limb-78",
+    "question": "Which muscle is innervated by the thoracodorsal nerve?",
+    "options": [
+      "Serratus anterior",
+      "Latissimus dorsi",
+      "Pectoralis major",
+      "Teres major"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The thoracodorsal nerve (middle subscapular nerve, C6-C8) innervates the latissimus dorsi muscle.",
+    "topic": "upper-limb",
+    "difficulty": "medium",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-79",
+    "question": "The 'quadrangular space' is bounded by all EXCEPT:",
+    "options": [
+      "Teres major",
+      "Teres minor",
+      "Long head of triceps",
+      "Surgical neck of humerus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The quadrangular space is bounded by teres major (inferior), teres minor (superior), long head of triceps (medial), and surgical neck of humerus (lateral).",
+    "topic": "upper-limb",
+    "difficulty": "hard",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  },
+  {
+    "id": "upper-limb-80",
+    "question": "Which artery is the direct continuation of the subclavian artery?",
+    "options": [
+      "Brachial artery",
+      "Axillary artery",
+      "Radial artery",
+      "Ulnar artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The subclavian artery becomes the axillary artery at the lateral border of the first rib. The axillary artery becomes the brachial artery at the inferior border of teres major.",
+    "topic": "upper-limb",
+    "difficulty": "easy",
+    "reference": "Gray's Anatomy, 42nd Edition, Chapter 48"
+  }
+]

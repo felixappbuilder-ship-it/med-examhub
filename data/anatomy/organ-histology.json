@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "organ-histology-1",
+    "question": "Which cells in the pancreatic islets produce insulin?",
+    "options": [
+      "Beta cells",
+      "Alpha cells",
+      "Delta cells",
+      "F cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beta cells (70% of islet cells) produce insulin. Alpha cells produce glucagon, delta cells produce somatostatin, F cells produce pancreatic polypeptide.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-2",
+    "question": "The glomerular filtration barrier consists of all EXCEPT:",
+    "options": [
+      "Mesangial cells",
+      "Fenestrated endothelium",
+      "Glomerular basement membrane",
+      "Podocyte foot processes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The filtration barrier includes fenestrated endothelium, glomerular basement membrane, and podocyte foot processes with filtration slits. Mesangial cells provide structural support.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-3",
+    "question": "Kupffer cells are found in which organ?",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Lung",
+      "Brain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kupffer cells are specialized macrophages located in the liver sinusoids, part of the mononuclear phagocyte system that removes debris and old RBCs.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "organ-histology-4",
+    "question": "The zona glomerulosa of the adrenal cortex produces:",
+    "options": [
+      "Aldosterone",
+      "Cortisol",
+      "Androgens",
+      "Epinephrine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zona glomerulosa produces aldosterone (mineralocorticoid). Zona fasciculata produces cortisol, zona reticularis produces androgens, medulla produces catecholamines.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-5",
+    "question": "Which cells in the thyroid gland produce calcitonin?",
+    "options": [
+      "Parafollicular (C) cells",
+      "Follicular cells",
+      "Oxyphil cells",
+      "Chief cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parafollicular cells (C cells) produce calcitonin which lowers blood calcium. Follicular cells produce thyroid hormones. Chief cells are in parathyroid.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-6",
+    "question": "The respiratory epithelium in the trachea is primarily:",
+    "options": [
+      "Pseudostratified ciliated columnar with goblet cells",
+      "Simple squamous",
+      "Stratified squamous",
+      "Simple cuboidal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The trachea and most of the respiratory tract is lined by pseudostratified ciliated columnar epithelium with goblet cells, which helps trap and move particles.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-7",
+    "question": "Parietal cells in the gastric glands are responsible for secreting:",
+    "options": [
+      "Hydrochloric acid and intrinsic factor",
+      "Pepsinogen",
+      "Gastrin",
+      "Mucus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parietal (oxyntic) cells secrete HCl and intrinsic factor. Chief cells secrete pepsinogen, G cells secrete gastrin, and mucous neck cells secrete mucus.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-8",
+    "question": "The white pulp of the spleen contains primarily:",
+    "options": [
+      "Lymphocytes around central arteries",
+      "Venous sinuses filled with blood",
+      "Red blood cells and macrophages",
+      "Adipose tissue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "White pulp consists of periarteriolar lymphoid sheaths (PALS) with T lymphocytes and lymphoid follicles with B lymphocytes. Red pulp contains blood-filled sinuses and cords.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 11"
+  },
+  {
+    "id": "organ-histology-9",
+    "question": "Which cells form the blood-brain barrier?",
+    "options": [
+      "Astrocytes and endothelial cells",
+      "Oligodendrocytes",
+      "Microglia",
+      "Ependymal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The blood-brain barrier is formed by capillary endothelial cells with tight junctions, supported by astrocyte foot processes. This prevents most substances from entering the brain.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "organ-histology-10",
+    "question": "The histologic feature that distinguishes the jejunum from the ileum is:",
+    "options": [
+      "Presence of Peyer's patches",
+      "Villi height and number",
+      "Number of goblet cells",
+      "Presence of Brunner's glands"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The jejunum has taller, more numerous villi and more circular folds (plicae circulares) than the ileum. Peyer's patches are more characteristic of the ileum.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-11",
+    "question": "Hepatocytes are arranged in:",
+    "options": [
+      "Hepatic cords radiating from central veins",
+      "Islets surrounded by sinusoids",
+      "Acini around bile ductules",
+      "Lobules with portal triads at center"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hepatocytes are arranged in cords (plates) that radiate from the central vein toward the portal triads in the classic liver lobule structure.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "organ-histology-12",
+    "question": "The proximal convoluted tubule of the nephron is characterized by:",
+    "options": [
+      "Brush border of microvilli",
+      "Thin descending limb",
+      "Macula densa",
+      "Simple squamous epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The PCT has a prominent brush border of microvilli to increase surface area for reabsorption. It has simple cuboidal epithelium, not squamous.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-13",
+    "question": "Which cells produce surfactant in the lungs?",
+    "options": [
+      "Type II pneumocytes",
+      "Type I pneumocytes",
+      "Clara cells",
+      "Alveolar macrophages"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Type II pneumocytes produce surfactant, which reduces surface tension in alveoli. Type I pneumocytes form the thin respiratory membrane.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-14",
+    "question": "The crypts of Lieberkühn are found in the:",
+    "options": [
+      "Small and large intestine",
+      "Stomach",
+      "Esophagus",
+      "Gallbladder"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestinal glands (crypts of Lieberkühn) are found throughout the small and large intestine, containing stem cells, Paneth cells, and enteroendocrine cells.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-15",
+    "question": "The histologic feature unique to the epididymis is:",
+    "options": [
+      "Pseudostratified columnar epithelium with stereocilia",
+      "Simple squamous epithelium",
+      "Stratified squamous epithelium",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The epididymis has pseudostratified columnar epithelium with long, branching microvilli called stereocilia that absorb fluid and help concentrate sperm.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 18"
+  },
+  {
+    "id": "organ-histology-16",
+    "question": "Brunner's glands are characteristic of the:",
+    "options": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Colon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Brunner's glands are found in the submucosa of the duodenum and secrete alkaline mucus to neutralize gastric acid and protect the intestinal mucosa.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-17",
+    "question": "The zona fasciculata of the adrenal cortex is characterized by:",
+    "options": [
+      "Cells arranged in radial cords",
+      "Small, clustered cells",
+      "Chromaffin cells",
+      "Neural tissue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The zona fasciculata has cells arranged in long, straight cords separated by sinusoids. These cells produce glucocorticoids (cortisol).",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-18",
+    "question": "Paneth cells in the small intestine function to:",
+    "options": [
+      "Secrete antibacterial enzymes",
+      "Absorb nutrients",
+      "Produce mucus",
+      "Secrete hormones"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Paneth cells, located at the base of intestinal crypts, secrete lysozyme and other antibacterial substances to help control intestinal flora.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-19",
+    "question": "The histologic feature that distinguishes cardiac muscle from skeletal muscle is:",
+    "options": [
+      "Intercalated discs",
+      "Striations",
+      "Multiple nuclei",
+      "Peripheral nuclei"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intercalated discs are unique to cardiac muscle, containing gap junctions for electrical coupling and desmosomes for mechanical strength.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "organ-histology-20",
+    "question": "The renal corpuscle consists of:",
+    "options": [
+      "Glomerulus and Bowman's capsule",
+      "Proximal and distal tubules",
+      "Loop of Henle and collecting duct",
+      "Afferent and efferent arterioles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The renal corpuscle includes the glomerulus (capillary tuft) and Bowman's capsule, where plasma filtration occurs.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-21",
+    "question": "The histological feature that identifies the large intestine is:",
+    "options": [
+      "Abundant goblet cells and no villi",
+      "Plicae circulares and villi",
+      "Brunner's glands",
+      "Gastric pits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The large intestine has numerous goblet cells in its crypts and lacks villi, unlike the small intestine which has both villi and crypts.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-22",
+    "question": "Hassall's corpuscles are characteristic of the:",
+    "options": [
+      "Thymus",
+      "Spleen",
+      "Lymph node",
+      "Tonsil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hassall's corpuscles are concentric whorls of epithelial cells found in the thymic medulla, representing degenerating epithelial reticular cells.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 11"
+  },
+  {
+    "id": "organ-histology-23",
+    "question": "The portal triad in the liver contains:",
+    "options": [
+      "Portal vein, hepatic artery, bile duct",
+      "Central vein, hepatic artery, sinusoid",
+      "Hepatic vein, portal vein, bile duct",
+      "Sinusoid, space of Disse, hepatocyte"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The portal triad consists of branches of the portal vein, hepatic artery, and bile duct, surrounded by connective tissue at the corners of liver lobules.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "organ-histology-24",
+    "question": "The macula densa is part of the:",
+    "options": [
+      "Juxtaglomerular apparatus",
+      "Renal corpuscle",
+      "Loop of Henle",
+      "Collecting duct"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The macula densa is a specialized region of the distal convoluted tubule that contacts the vascular pole of its parent glomerulus, forming part of the juxtaglomerular apparatus.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-25",
+    "question": "The histological feature that distinguishes the esophagus is:",
+    "options": [
+      "Non-keratinized stratified squamous epithelium",
+      "Simple columnar epithelium",
+      "Pseudostratified ciliated epithelium",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The esophagus is lined by non-keratinized stratified squamous epithelium to withstand abrasion from food. The rest of the GI tract has simple columnar epithelium.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-26",
+    "question": "The red pulp of the spleen functions primarily in:",
+    "options": [
+      "Filtering blood and removing old RBCs",
+      "T lymphocyte maturation",
+      "B lymphocyte activation",
+      "Antibody production"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Red pulp contains splenic cords and sinusoids where blood is filtered, and old or damaged red blood cells are removed by macrophages.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 11"
+  },
+  {
+    "id": "organ-histology-27",
+    "question": "The histological feature unique to the trachea is:",
+    "options": [
+      "C-shaped hyaline cartilage rings",
+      "Smooth muscle in mucosa",
+      "Respiratory epithelium",
+      "Submucosal glands"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The trachea has C-shaped rings of hyaline cartilage that keep the airway open. The open ends are connected by smooth muscle (trachealis).",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-28",
+    "question": "Chief cells in the parathyroid gland secrete:",
+    "options": [
+      "Parathyroid hormone (PTH)",
+      "Calcitonin",
+      "Thyroid hormone",
+      "Calcitriol"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chief cells in the parathyroid secrete parathyroid hormone (PTH), which increases blood calcium levels. Oxyphil cells have unknown function.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-29",
+    "question": "The histological feature that identifies the stomach is:",
+    "options": [
+      "Gastric pits and gastric glands",
+      "Villi and crypts",
+      "Brunner's glands",
+      "Peyer's patches"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The stomach mucosa has gastric pits that lead into gastric glands containing parietal cells, chief cells, and mucous cells.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-30",
+    "question": "The space of Disse is located between:",
+    "options": [
+      "Hepatocytes and sinusoids",
+      "Bile canaliculi and hepatocytes",
+      "Portal triads and central veins",
+      "Kupffer cells and endothelial cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The space of Disse (perisinusoidal space) lies between hepatocytes and sinusoidal endothelial cells, allowing exchange of materials between blood and liver cells.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "organ-histology-31",
+    "question": "The histological feature unique to the urinary bladder is:",
+    "options": [
+      "Transitional epithelium (urothelium)",
+      "Simple columnar epithelium",
+      "Stratified squamous epithelium",
+      "Pseudostratified epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The urinary bladder is lined by transitional epithelium (urothelium) that can stretch and flatten to accommodate changes in urine volume.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-32",
+    "question": "The histological feature that distinguishes the ileum is:",
+    "options": [
+      "Peyer's patches in submucosa",
+      "Brunner's glands",
+      "Tall, slender villi",
+      "Gastric pits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ileum contains abundant Peyer's patches (lymphoid follicles) in the submucosa, which are part of the gut-associated lymphoid tissue (GALT).",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-33",
+    "question": "The histological feature unique to the thyroid gland is:",
+    "options": [
+      "Thyroid follicles filled with colloid",
+      "Islets of endocrine cells",
+      "Adipose tissue interspersed with endocrine cells",
+      "Cords of epithelial cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The thyroid gland consists of spherical follicles lined by simple cuboidal epithelium and filled with thyroglobulin-rich colloid where thyroid hormones are stored.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-34",
+    "question": "The histological feature that identifies the pancreas is:",
+    "options": [
+      "Both exocrine acini and endocrine islets",
+      "Only endocrine islets",
+      "Only exocrine acini",
+      "Hepatic cords and sinusoids"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The pancreas has both exocrine acinar cells that secrete digestive enzymes and endocrine islets of Langerhans that secrete hormones like insulin and glucagon.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-35",
+    "question": "The histological feature unique to the adrenal medulla is:",
+    "options": [
+      "Chromaffin cells",
+      "Zona glomerulosa",
+      "Zona fasciculata",
+      "Zona reticularis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The adrenal medulla contains chromaffin cells, which are modified postganglionic sympathetic neurons that secrete epinephrine and norepinephrine.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-36",
+    "question": "The histological feature that distinguishes the gall bladder is:",
+    "options": [
+      "Simple columnar epithelium with microvilli",
+      "Stratified squamous epithelium",
+      "Transitional epithelium",
+      "Pseudostratified ciliated epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The gallbladder is lined by simple columnar epithelium with microvilli that actively absorb water from bile, concentrating it.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "organ-histology-37",
+    "question": "The histological feature unique to the appendix is:",
+    "options": [
+      "Abundant lymphoid tissue in submucosa",
+      "Brunner's glands",
+      "Gastric glands",
+      "Parietal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The appendix has extensive lymphoid tissue in its wall, often forming lymphoid follicles that extend into the submucosa, making it part of GALT.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-38",
+    "question": "The histological feature that identifies the prostate gland is:",
+    "options": [
+      "Corpora amylacea (prostatic concretions)",
+      "Seminiferous tubules",
+      "Leydig cells",
+      "Sertoli cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The prostate gland often contains corpora amylacea, which are glycoprotein concretions that increase with age and are a characteristic histological feature.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 18"
+  },
+  {
+    "id": "organ-histology-39",
+    "question": "The histological feature unique to the pituitary gland is:",
+    "options": [
+      "Dual embryonic origin (Rathke's pouch and neural tissue)",
+      "Follicles with colloid",
+      "Chromaffin cells",
+      "Hassall's corpuscles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The pituitary has dual origin: anterior lobe from Rathke's pouch (oral ectoderm) and posterior lobe from neural tissue (diencephalon outgrowth).",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-40",
+    "question": "The histological feature that distinguishes the ureter is:",
+    "options": [
+      "Star-shaped lumen and smooth muscle layers",
+      "Transitional epithelium only",
+      "Skeletal muscle in wall",
+      "Mucosal folds with villi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ureter has a characteristic star-shaped lumen due to mucosal folds and distinct inner longitudinal and outer circular smooth muscle layers.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-41",
+    "question": "Which cells in the stomach secrete pepsinogen?",
+    "options": [
+      "Chief cells",
+      "Parietal cells",
+      "Mucous neck cells",
+      "G cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chief (zymogenic) cells in the gastric glands secrete pepsinogen, the inactive precursor of the protein-digesting enzyme pepsin.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-42",
+    "question": "The histological feature that identifies the lymph node is:",
+    "options": [
+      "Cortex with follicles and medulla with cords",
+      "White pulp and red pulp",
+      "Hassall's corpuscles",
+      "Hepatic cords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lymph nodes have a cortex with lymphoid follicles and a medulla with medullary cords containing plasma cells and macrophages.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 11"
+  },
+  {
+    "id": "organ-histology-43",
+    "question": "The histological feature unique to the small intestine is:",
+    "options": [
+      "Villi and microvilli (brush border)",
+      "Gastric pits",
+      "Transitional epithelium",
+      "Respiratory epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The small intestine has finger-like villi projections and epithelial cells with microvilli (brush border) that dramatically increase surface area for absorption.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-44",
+    "question": "The histological feature that distinguishes the alveoli is:",
+    "options": [
+      "Type I and Type II pneumocytes",
+      "Ciliated pseudostratified epithelium",
+      "Hyaline cartilage rings",
+      "Smooth muscle bundles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alveoli are lined by extremely thin Type I pneumocytes for gas exchange and Type II pneumocytes that produce surfactant.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-45",
+    "question": "The histological feature unique to the kidney is:",
+    "options": [
+      "Renal corpuscles and tubules",
+      "Hepatic cords",
+      "Pancreatic acini",
+      "Thyroid follicles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The kidney contains renal corpuscles for filtration and various tubules (PCT, loop of Henle, DCT) for modification of the filtrate.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-46",
+    "question": "Which cells in the seminiferous tubules support sperm development?",
+    "options": [
+      "Sertoli cells",
+      "Leydig cells",
+      "Spermatogonia",
+      "Spermatocytes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sertoli (sustentacular) cells provide structural and metabolic support for developing sperm cells and form the blood-testis barrier.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 18"
+  },
+  {
+    "id": "organ-histology-47",
+    "question": "The histological feature that identifies the tonsils is:",
+    "options": [
+      "Crypts in stratified squamous epithelium",
+      "Hassall's corpuscles",
+      "White and red pulp",
+      "Hepatic lobules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tonsils have crypts that invaginate the surface epithelium, with lymphoid tissue in the lamina propria, making them part of Waldeyer's ring.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 11"
+  },
+  {
+    "id": "organ-histology-48",
+    "question": "The histological feature unique to the skin is:",
+    "options": [
+      "Stratified squamous keratinized epithelium",
+      "Simple columnar epithelium",
+      "Transitional epithelium",
+      "Pseudostratified epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The epidermis of the skin is stratified squamous keratinized epithelium, with keratinocytes producing keratin for protection against abrasion and dehydration.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 9"
+  },
+  {
+    "id": "organ-histology-49",
+    "question": "The histological feature that distinguishes the bronchi from bronchioles is:",
+    "options": [
+      "Presence of cartilage in the wall",
+      "Presence of smooth muscle",
+      "Ciliated epithelium",
+      "Goblet cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bronchi have cartilage plates in their walls, while bronchioles lack cartilage but have prominent smooth muscle.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-50",
+    "question": "The histological feature unique to the ovary is:",
+    "options": [
+      "Ovarian follicles at various stages",
+      "Seminiferous tubules",
+      "Corpus albicans",
+      "Endometrial glands"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ovary contains ovarian follicles at various stages of development (primordial, primary, secondary, Graafian) and corpus luteum after ovulation.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 19"
+  },
+  {
+    "id": "organ-histology-51",
+    "question": "Which cells in the bone are responsible for bone resorption?",
+    "options": [
+      "Osteoclasts",
+      "Osteoblasts",
+      "Osteocytes",
+      "Osteoprogenitor cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osteoclasts are multinucleated cells derived from monocytes that resorb bone, while osteoblasts build bone matrix.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "organ-histology-52",
+    "question": "The histological feature that identifies the uterus in proliferative phase is:",
+    "options": [
+      "Straight tubular glands with mitotic activity",
+      "Coiled, sacculated glands with secretion",
+      "Thickened stratum functionalis",
+      "Numerous leukocytes in stroma"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the proliferative phase, endometrial glands are straight and tubular with frequent mitoses, while in secretory phase they become coiled and sacculated.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 19"
+  },
+  {
+    "id": "organ-histology-53",
+    "question": "The histological feature unique to the testis is:",
+    "options": [
+      "Seminiferous tubules with spermatogenic cells",
+      "Ovarian follicles",
+      "Corpus luteum",
+      "Endometrial stroma"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The testis contains seminiferous tubules lined by spermatogenic epithelium where sperm production occurs, with Leydig cells in the interstitial tissue.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 18"
+  },
+  {
+    "id": "organ-histology-54",
+    "question": "The histological feature that distinguishes the fallopian tube is:",
+    "options": [
+      "Mucosal folds (plicae) and peg cells",
+      "Simple columnar epithelium only",
+      "Stratified squamous epithelium",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The fallopian tube has extensive mucosal folds and is lined by simple columnar epithelium with ciliated cells and non-ciliated peg (secretory) cells.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 19"
+  },
+  {
+    "id": "organ-histology-55",
+    "question": "The histological feature unique to the parathyroid gland is:",
+    "options": [
+      "Chief cells and oxyphil cells",
+      "Follicles with colloid",
+      "Chromaffin cells",
+      "Zona glomerulosa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The parathyroid contains chief cells that secrete PTH and oxyphil cells of unknown function, often arranged in cords.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-56",
+    "question": "Which cells in the cerebral cortex are the primary output neurons?",
+    "options": [
+      "Pyramidal cells",
+      "Granule cells",
+      "Purkinje cells",
+      "Stellate cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pyramidal cells are the principal output neurons of the cerebral cortex, with large pyramid-shaped cell bodies and long axons projecting to other areas.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "organ-histology-57",
+    "question": "The histological feature that identifies the cerebellum is:",
+    "options": [
+      "Purkinje cell layer between molecular and granular layers",
+      "Six-layered cerebral cortex",
+      "Pyramidal cells in hippocampus",
+      "Ependymal cells lining ventricles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cerebellar cortex has three layers: molecular layer (outer), Purkinje cell layer (middle), and granular layer (inner), with Purkinje cells as the output neurons.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "organ-histology-58",
+    "question": "The histological feature unique to the spinal cord is:",
+    "options": [
+      "Butterfly-shaped gray matter with anterior and posterior horns",
+      "Cerebral cortex layers",
+      "Cerebellar folia",
+      "Choroid plexus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The spinal cord has a characteristic butterfly-shaped gray matter with anterior (motor) horns and posterior (sensory) horns, surrounded by white matter tracts.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "organ-histology-59",
+    "question": "The histological feature that distinguishes the retina is:",
+    "options": [
+      "Multiple layers including photoreceptor layer",
+      "Simple squamous epithelium",
+      "Stratified squamous epithelium",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The retina has multiple layers including the photoreceptor layer (rods and cones), bipolar cell layer, and ganglion cell layer, with light passing through all layers to reach photoreceptors.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 8"
+  },
+  {
+    "id": "organ-histology-60",
+    "question": "The histological feature unique to the choroid plexus is:",
+    "options": [
+      "Vascular fronds with ependymal cells",
+      "Purkinje cells",
+      "Pyramidal cells",
+      "Oligodendrocytes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The choroid plexus consists of highly vascularized fronds covered by modified ependymal cells that produce cerebrospinal fluid.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "organ-histology-61",
+    "question": "Which cells in the bone are mature bone cells embedded in lacunae?",
+    "options": [
+      "Osteocytes",
+      "Osteoblasts",
+      "Osteoclasts",
+      "Osteoprogenitor cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osteocytes are mature bone cells embedded in lacunae within the bone matrix, connected by canaliculi for nutrient exchange.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "organ-histology-62",
+    "question": "The histological feature that identifies the epidermis is:",
+    "options": [
+      "Stratum corneum, granulosum, spinosum, basale",
+      "Papillary and reticular layers",
+      "Hypodermis with adipose tissue",
+      "Dermal papillae"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The epidermis has distinct layers: stratum basale (germinativum), spinosum, granulosum, lucidum (in thick skin), and corneum.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 9"
+  },
+  {
+    "id": "organ-histology-63",
+    "question": "The histological feature unique to the mammary gland during lactation is:",
+    "options": [
+      "Abundant acini filled with milk",
+      "Dense connective tissue stroma",
+      "Adipose tissue predominance",
+      "Simple duct system"
+    ],
+    "correctAnswer": 0,
+    "explanation": "During lactation, mammary glands develop numerous acini (alveoli) filled with milk and have reduced connective tissue and adipose tissue.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 19"
+  },
+  {
+    "id": "organ-histology-64",
+    "question": "The histological feature that distinguishes the placenta is:",
+    "options": [
+      "Chorionic villi with fetal vessels",
+      "Endometrial glands",
+      "Myometrial smooth muscle",
+      "Cervical mucus glands"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The placenta contains chorionic villi with fetal blood vessels, surrounded by maternal blood in the intervillous space, facilitating maternal-fetal exchange.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 19"
+  },
+  {
+    "id": "organ-histology-65",
+    "question": "The histological feature unique to the pineal gland is:",
+    "options": [
+      "Brain sand (corpora arenacea)",
+      "Thyroid follicles",
+      "Adrenal cortical zones",
+      "Pancreatic islets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The pineal gland contains calcified concretions called brain sand (corpora arenacea) that increase with age and are visible on radiographs.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-66",
+    "question": "Which cells in the cartilage are found in lacunae?",
+    "options": [
+      "Chondrocytes",
+      "Chondroblasts",
+      "Osteocytes",
+      "Fibroblasts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chondrocytes are mature cartilage cells embedded in lacunae within the cartilage matrix, producing and maintaining the extracellular matrix.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 10"
+  },
+  {
+    "id": "organ-histology-67",
+    "question": "The histological feature that identifies the hypodermis is:",
+    "options": [
+      "Adipose tissue and loose connective tissue",
+      "Stratified squamous epithelium",
+      "Dense irregular connective tissue",
+      "Smooth muscle bundles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The hypodermis (subcutaneous tissue) consists of adipose tissue and loose connective tissue that connects the skin to underlying structures.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 9"
+  },
+  {
+    "id": "organ-histology-68",
+    "question": "The histological feature unique to the cornea is:",
+    "options": [
+      "Stratified squamous non-keratinized epithelium and Bowman's layer",
+      "Photoreceptor cells",
+      "Choroid layer with melanocytes",
+      "Retinal layers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cornea has stratified squamous non-keratinized epithelium, Bowman's layer (anterior limiting membrane), stroma, Descemet's membrane, and endothelium.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 8"
+  },
+  {
+    "id": "organ-histology-69",
+    "question": "The histological feature that distinguishes the iris is:",
+    "options": [
+      "Pigmented epithelium and sphincter pupillae muscle",
+      "Lens fibers",
+      "Corneal epithelium",
+      "Retinal photoreceptors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The iris contains pigmented epithelium and two smooth muscles: sphincter pupillae (parasympathetic) for pupil constriction and dilator pupillae (sympathetic) for dilation.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 8"
+  },
+  {
+    "id": "organ-histology-70",
+    "question": "The histological feature unique to the lens is:",
+    "options": [
+      "Lens fibers from elongated epithelial cells",
+      "Photoreceptor cells",
+      "Ganglion cells",
+      "Bipolar cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The lens consists of elongated, transparent lens fibers derived from epithelial cells that lose their nuclei and organelles to become transparent.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 8"
+  },
+  {
+    "id": "organ-histology-71",
+    "question": "Which cells in the bone marrow are responsible for platelet production?",
+    "options": [
+      "Megakaryocytes",
+      "Erythroblasts",
+      "Myeloblasts",
+      "Lymphoblasts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Megakaryocytes are large, multinucleated cells in bone marrow that produce platelets by shedding cytoplasmic fragments.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 4"
+  },
+  {
+    "id": "organ-histology-72",
+    "question": "The histological feature that identifies the thymus in a child is:",
+    "options": [
+      "Lobules with cortex and medulla",
+      "White pulp and red pulp",
+      "Lymphoid follicles with germinal centers",
+      "Hepatic cords"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The thymus has lobules with a dark-staining cortex (dense lymphocytes) and light-staining medulla (fewer lymphocytes) with Hassall's corpuscles.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 11"
+  },
+  {
+    "id": "organ-histology-73",
+    "question": "The histological feature unique to the elastic artery is:",
+    "options": [
+      "Abundant elastic fibers in tunica media",
+      "Thick muscular tunica media",
+      "Simple squamous endothelium",
+      "Vasa vasorum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Elastic arteries (aorta, major branches) have numerous elastic lamellae in the tunica media that allow stretch and recoil during the cardiac cycle.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 5"
+  },
+  {
+    "id": "organ-histology-74",
+    "question": "The histological feature that distinguishes the muscular artery is:",
+    "options": [
+      "Prominent internal elastic lamina and muscular media",
+      "Elastic lamellae throughout media",
+      "Thin media with few muscle fibers",
+      "Valves in the lumen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Muscular arteries have a prominent internal elastic lamina and a tunica media composed mainly of smooth muscle for vasoconstriction and dilation.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 5"
+  },
+  {
+    "id": "organ-histology-75",
+    "question": "The histological feature unique to the vein is:",
+    "options": [
+      "Large, irregular lumen and thin wall",
+      "Thick muscular media",
+      "Internal elastic lamina",
+      "Numerous elastic lamellae"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Veins have larger, more irregular lumens and thinner walls compared to arteries, with less smooth muscle and elastic tissue.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 5"
+  },
+  {
+    "id": "organ-histology-76",
+    "question": "Which cells in the nervous system produce myelin in the CNS?",
+    "options": [
+      "Oligodendrocytes",
+      "Schwann cells",
+      "Astrocytes",
+      "Microglia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Oligodendrocytes produce myelin sheaths around multiple axons in the CNS, while Schwann cells myelinate peripheral nerves.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "organ-histology-77",
+    "question": "The histological feature that identifies the peripheral nerve is:",
+    "options": [
+      "Axons surrounded by endometrium, perineurium, and epineurium",
+      "White and gray matter",
+      "Neurons in nuclei or layers",
+      "Ventricles with CSF"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Peripheral nerves have a connective tissue organization: endometrium around individual axons, perineurium around fascicles, and epineurium around the entire nerve.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "organ-histology-78",
+    "question": "The histological feature unique to the ganglion is:",
+    "options": [
+      "Clusters of neuron cell bodies in PNS",
+      "Bundles of axons in CNS",
+      "White matter tracts",
+      "Ventricles of the brain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ganglia are collections of neuron cell bodies in the peripheral nervous system, surrounded by satellite cells (modified Schwann cells).",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 7"
+  },
+  {
+    "id": "organ-histology-79",
+    "question": "The histological feature that distinguishes the neuromuscular junction is:",
+    "options": [
+      "Motor end plate with synaptic clefts",
+      "Node of Ranvier",
+      "Intercalated disc",
+      "Gap junction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The neuromuscular junction has a motor end plate with junctional folds and synaptic clefts where acetylcholine is released from motor neuron terminals.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 6"
+  },
+  {
+    "id": "organ-histology-80",
+    "question": "The histological feature unique to the taste bud is:",
+    "options": [
+      "Taste cells with microvilli in taste pore",
+      "Filiform papillae",
+      "Fungiform papillae",
+      "Circumvallate papillae"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Taste buds contain taste cells with microvilli that project through the taste pore to detect taste molecules, supported by basal and supporting cells.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-81",
+    "question": "Which cells in the olfactory epithelium are the sensory neurons?",
+    "options": [
+      "Olfactory receptor cells",
+      "Supporting cells",
+      "Basal cells",
+      "Bowman's gland cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Olfactory receptor cells are bipolar neurons with cilia that detect odorants. They are unique as they can regenerate throughout life.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-82",
+    "question": "The histological feature that identifies the thyroid gland is:",
+    "options": [
+      "Follicles lined by simple cuboidal epithelium with colloid",
+      "Cords of chief cells",
+      "Islets of endocrine cells",
+      "Zona glomerulosa and fasciculata"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The thyroid gland consists of spherical follicles lined by simple cuboidal epithelium and filled with thyroglobulin-rich colloid where thyroid hormones are synthesized and stored.",
+    "topic": "organ-histology",
+    "difficulty": "easy",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-83",
+    "question": "The histological feature unique to the adrenal gland is:",
+    "options": [
+      "Cortex with three zones and medulla with chromaffin cells",
+      "Follicles with colloid",
+      "Islets of Langerhans",
+      "Seminiferous tubules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The adrenal gland has a cortex with three zones (glomerulosa, fasciculata, reticularis) and a medulla with chromaffin cells, representing two different embryonic origins.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-84",
+    "question": "The histological feature that distinguishes the pituitary anterior lobe is:",
+    "options": [
+      "Cords of acidophil, basophil, and chromophobe cells",
+      "Neural tissue with Herring bodies",
+      "Follicles with colloid",
+      "Chromaffin cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The anterior pituitary (adenohypophysis) contains cords of endocrine cells: acidophils (somatotrophs, lactotrophs), basophils (corticotrophs, thyrotrophs, gonadotrophs), and chromophobes.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-85",
+    "question": "The histological feature unique to the pituitary posterior lobe is:",
+    "options": [
+      "Herring bodies in axon terminals",
+      "Acidophil and basophil cells",
+      "Follicular cells",
+      "Chief cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The posterior pituitary (neurohypophysis) contains axon terminals from hypothalamic neurons with Herring bodies, which are accumulations of neurosecretory vesicles containing oxytocin and ADH.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-86",
+    "question": "Which cells in the pancreatic islets produce glucagon?",
+    "options": [
+      "Alpha cells",
+      "Beta cells",
+      "Delta cells",
+      "F cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alpha cells (20% of islet cells) produce glucagon, which raises blood glucose. Beta cells produce insulin, delta cells produce somatostatin.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 17"
+  },
+  {
+    "id": "organ-histology-87",
+    "question": "The histological feature that identifies the liver lobule is:",
+    "options": [
+      "Hepatocyte cords radiating from central vein",
+      "Portal triads at corners",
+      "Sinusoids between hepatocyte cords",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The classic liver lobule has hepatocyte cords radiating from a central vein, with portal triads (portal vein, hepatic artery, bile duct) at the corners and sinusoids between cords.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 15"
+  },
+  {
+    "id": "organ-histology-88",
+    "question": "The histological feature unique to the kidney medulla is:",
+    "options": [
+      "Loops of Henle and collecting ducts",
+      "Renal corpuscles",
+      "Proximal convoluted tubules",
+      "Distal convoluted tubules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The renal medulla contains loops of Henle and collecting ducts arranged in pyramids, while the cortex contains renal corpuscles and convoluted tubules.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-89",
+    "question": "The histological feature that distinguishes the renal cortex is:",
+    "options": [
+      "Renal corpuscles and convoluted tubules",
+      "Loops of Henle",
+      "Collecting ducts",
+      "Renal papillae"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The renal cortex contains renal corpuscles (glomeruli) and both proximal and distal convoluted tubules, arranged in cortical labyrinths and medullary rays.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-90",
+    "question": "The histological feature unique to the urinary system is:",
+    "options": [
+      "Transitional epithelium throughout",
+      "Simple columnar epithelium",
+      "Stratified squamous epithelium",
+      "Pseudostratified epithelium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The urinary passages from renal calyces to urethra (except distal urethra) are lined by transitional epithelium (urothelium) that can stretch.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 16"
+  },
+  {
+    "id": "organ-histology-91",
+    "question": "Which cells in the respiratory epithelium are sensory receptors?",
+    "options": [
+      "Brush cells",
+      "Ciliated cells",
+      "Goblet cells",
+      "Basal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Brush cells are columnar cells with microvilli that may have sensory or receptor functions, though their exact role is not fully understood.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-92",
+    "question": "The histological feature that identifies the alveolar wall is:",
+    "options": [
+      "Type I and II pneumocytes with capillaries",
+      "Ciliated pseudostratified epithelium",
+      "Hyaline cartilage plates",
+      "Smooth muscle bundles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The alveolar wall (respiratory membrane) consists of Type I pneumocytes, capillary endothelium, and their fused basal laminae for efficient gas exchange.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-93",
+    "question": "The histological feature unique to the bronchiole is:",
+    "options": [
+      "Clara cells in the epithelium",
+      "Hyaline cartilage in wall",
+      "Submucosal glands",
+      "Respiratory epithelium with goblet cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bronchioles have Clara cells (non-ciliated bronchiolar secretory cells) that secrete surfactant-like material and have detoxification functions.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-94",
+    "question": "The histological feature that distinguishes the terminal bronchiole is:",
+    "options": [
+      "Last part of conducting airway",
+      "First part with alveoli",
+      "Presence of cartilage",
+      "Submucosal glands"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Terminal bronchioles are the final branches of the conducting zone, after which respiratory bronchioles begin the respiratory zone with alveoli in their walls.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-95",
+    "question": "The histological feature unique to the respiratory bronchiole is:",
+    "options": [
+      "Alveoli in the wall",
+      "Ciliated pseudostratified epithelium",
+      "Hyaline cartilage support",
+      "Submucosal glands"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Respiratory bronchioles are the transition between conducting and respiratory zones, with alveoli opening directly into their walls allowing for gas exchange.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 12"
+  },
+  {
+    "id": "organ-histology-96",
+    "question": "Which cells in the gastrointestinal tract secrete serotonin?",
+    "options": [
+      "Enterochromaffin cells",
+      "Paneth cells",
+      "Goblet cells",
+      "Parietal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enterochromaffin cells are enteroendocrine cells scattered throughout the GI epithelium that secrete serotonin (5-HT) and other regulatory peptides.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-97",
+    "question": "The histological feature that identifies the fundic stomach is:",
+    "options": [
+      "Gastric pits leading to long, branched glands",
+      "Pyloric glands with deep pits",
+      "Cardiac glands with shallow pits",
+      "Brunner's glands in submucosa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The fundus and body of the stomach have gastric pits that lead to long, branched gastric glands containing parietal, chief, and mucous cells.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-98",
+    "question": "The histological feature unique to the pyloric stomach is:",
+    "options": [
+      "Deep gastric pits and coiled glands",
+      "Long, straight gastric glands",
+      "Abundant parietal cells",
+      "Chief cells predominating"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The pyloric region has deep gastric pits and short, coiled glands with mostly mucous cells and G cells (gastrin-producing), and few parietal or chief cells.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-99",
+    "question": "The histological feature that distinguishes the cardiac stomach is:",
+    "options": [
+      "Shallow pits and branched mucous glands",
+      "Long gastric glands with many chief cells",
+      "Pyloric glands with G cells",
+      "Fundic glands with parietal cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cardiac region near the esophagus has shallow gastric pits and branched, coiled glands composed mainly of mucous cells.",
+    "topic": "organ-histology",
+    "difficulty": "hard",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  },
+  {
+    "id": "organ-histology-100",
+    "question": "The histological feature unique to the duodenum is:",
+    "options": [
+      "Brunner's glands in submucosa",
+      "Peyer's patches in submucosa",
+      "Tall, slender villi",
+      "Abundant goblet cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The duodenum is characterized by Brunner's glands in the submucosa that secrete alkaline mucus to neutralize gastric acid and protect the intestinal mucosa.",
+    "topic": "organ-histology",
+    "difficulty": "medium",
+    "reference": "Wheater's Functional Histology, 7th Edition, Chapter 13"
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "embryology-1",
+    "question": "From which germ layer does the nervous system develop?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The nervous system develops from the neural plate of the ectoderm. Neural crest cells give rise to peripheral nervous system components.",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "embryology-2",
+    "question": "During which week does the embryonic heart begin to beat?",
+    "options": [
+      "4th week",
+      "6th week",
+      "8th week",
+      "10th week"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The embryonic heart begins to beat during the 4th week (around day 22-23). This is detectable by ultrasound around 6 weeks gestational age.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 12"
+  },
+  {
+    "id": "embryology-3",
+    "question": "The notochord develops from which structure?",
+    "options": [
+      "Primitive streak",
+      "Neural tube",
+      "Somites",
+      "Yolk sac"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The notochord develops from the primitive streak via the process of gastrulation. It induces neural plate formation and forms the nucleus pulposus of intervertebral discs.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "embryology-4",
+    "question": "Which pharyngeal pouch gives rise to the inferior parathyroid glands?",
+    "options": [
+      "3rd pouch",
+      "2nd pouch",
+      "4th pouch",
+      "1st pouch"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 3rd pouch gives rise to inferior parathyroid glands and thymus. The 4th pouch gives rise to superior parathyroid glands.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-5",
+    "question": "The umbilical vein carries:",
+    "options": [
+      "Oxygenated blood from placenta to fetus",
+      "Deoxygenated blood from fetus to placenta",
+      "Oxygenated blood from fetus to placenta",
+      "Deoxygenated blood from placenta to fetus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The umbilical vein carries oxygenated blood from placenta to fetus. Umbilical arteries carry deoxygenated blood from fetus to placenta.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "embryology-2",
+    "question": "The notochord is derived from which primary structure?",
+    "options": [
+      "Primitive streak",
+      "Primitive node",
+      "Neural tube",
+      "Somite"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The notochord arises from the primitive node (of Hensen) and extends cranially from it. It serves as the primary inductor in early embryonic development and defines the embryonic axis.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "embryology-3",
+    "question": "Which germ layer gives rise to the epithelial lining of the respiratory tract?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The endoderm gives rise to the epithelial lining of the respiratory tract, as well as the gastrointestinal tract, liver, pancreas, and urinary bladder.",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-4",
+    "question": "The septum primum and septum secundum are associated with development of which structure?",
+    "options": [
+      "Ventricular septum",
+      "Atrial septum",
+      "Aorticopulmonary septum",
+      "Truncus arteriosus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The interatrial septum is formed by the septum primum and septum secundum, with the foramen ovale allowing right-to-left shunting during fetal life.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-5",
+    "question": "Neural crest cells contribute to all of the following EXCEPT:",
+    "options": [
+      "Melanocytes",
+      "Adrenal medulla",
+      "Dorsal root ganglia",
+      "Epidermis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Neural crest cells give rise to melanocytes, adrenal medulla, dorsal root ganglia, autonomic ganglia, craniofacial skeleton, and many other structures. The epidermis is derived from surface ectoderm.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 10"
+  },
+  {
+    "id": "embryology-6",
+    "question": "The umbilical vein carries:",
+    "options": [
+      "Oxygenated blood from placenta to fetus",
+      "Deoxygenated blood from fetus to placenta",
+      "Oxygenated blood from fetus to placenta",
+      "Deoxygenated blood from placenta to fetus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The umbilical vein carries oxygenated blood from the placenta to the fetus. The umbilical arteries carry deoxygenated blood from the fetus to the placenta.",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "embryology-7",
+    "question": "Which pharyngeal arch gives rise to the muscles of facial expression?",
+    "options": [
+      "First arch",
+      "Second arch",
+      "Third arch",
+      "Fourth arch"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The second pharyngeal arch (hyoid arch) gives rise to the muscles of facial expression, stapedius, stylohyoid, and posterior belly of digastric. It is innervated by cranial nerve VII (facial nerve).",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-8",
+    "question": "The ductus arteriosus normally connects which two vessels?",
+    "options": [
+      "Pulmonary artery to aorta",
+      "Pulmonary vein to left atrium",
+      "Umbilical vein to inferior vena cava",
+      "Superior vena cava to right atrium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ductus arteriosus connects the pulmonary artery to the aortic arch, allowing blood to bypass the non-functional fetal lungs. It becomes the ligamentum arteriosum after birth.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-9",
+    "question": "Which structure develops from the midgut?",
+    "options": [
+      "Stomach",
+      "Duodenum (distal to bile duct)",
+      "Liver",
+      "Spleen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The midgut gives rise to the duodenum (distal to bile duct opening), jejunum, ileum, cecum, appendix, ascending colon, and proximal 2/3 of transverse colon.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-10",
+    "question": "The primitive heart tube begins to beat at approximately which embryonic week?",
+    "options": [
+      "Week 2",
+      "Week 4",
+      "Week 6",
+      "Week 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The primitive heart tube begins beating at the beginning of the 4th week (around day 22-23), making it the first functional organ system in the embryo.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 12"
+  },
+  {
+    "id": "embryology-11",
+    "question": "Which embryonic structure is responsible for the formation of the definitive placenta?",
+    "options": [
+      "Chorion frondosum",
+      "Chorion laeve",
+      "Decidua basalis",
+      "Amnion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The chorion frondosum (villous chorion) together with the decidua basalis forms the definitive placenta. The chorion laeve is the smooth, avillous part.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "embryology-12",
+    "question": "The thyroid gland develops from which embryonic structure?",
+    "options": [
+      "Pharyngeal pouch 1",
+      "Pharyngeal pouch 2",
+      "Thyroglossal duct",
+      "Ultimobranchial body"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The thyroid gland develops from the thyroid diverticulum, which arises from the floor of the primitive pharynx and descends as the thyroglossal duct. The foramen cecum marks its point of origin.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-13",
+    "question": "Which germ layer gives rise to the cardiovascular system?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cardiovascular system develops from the mesoderm, specifically the splanchnic mesoderm that forms the cardiogenic area.",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 12"
+  },
+  {
+    "id": "embryology-14",
+    "question": "The most common type of tracheoesophageal fistula is:",
+    "options": [
+      "Proximal esophageal atresia with distal TEF",
+      "H-type fistula without atresia",
+      "Proximal TEF with distal atresia",
+      "Esophageal atresia without fistula"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The most common type (85-90%) is proximal esophageal atresia with distal tracheoesophageal fistula (TEF), where the upper esophagus ends blindly and the lower esophagus connects to the trachea.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-15",
+    "question": "The neural tube closes during which embryonic week?",
+    "options": [
+      "Week 3",
+      "Week 4",
+      "Week 6",
+      "Week 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Neural tube closure occurs during the 4th week (days 22-28). Failure of closure can result in neural tube defects like spina bifida or anencephaly.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "embryology-16",
+    "question": "Which pharyngeal pouch gives rise to the inferior parathyroid glands?",
+    "options": [
+      "Third pouch",
+      "Fourth pouch",
+      "Second pouch",
+      "First pouch"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The third pharyngeal pouch gives rise to the inferior parathyroid glands and the thymus. The fourth pouch gives rise to the superior parathyroid glands.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-17",
+    "question": "The umbilical cord normally contains:",
+    "options": [
+      "Two arteries and one vein",
+      "Two veins and one artery",
+      "One artery and one vein",
+      "Two arteries and two veins"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The normal umbilical cord contains two umbilical arteries (carrying deoxygenated blood from fetus to placenta) and one umbilical vein (carrying oxygenated blood from placenta to fetus).",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "embryology-18",
+    "question": "The liver develops as an outgrowth from which part of the primitive gut?",
+    "options": [
+      "Foregut",
+      "Midgut",
+      "Hindgut",
+      "Yolk sac"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The liver develops as a ventral outgrowth (hepatic diverticulum) from the distal foregut during the 4th week of development.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-19",
+    "question": "Which structure induces formation of the lens placode?",
+    "options": [
+      "Optic cup",
+      "Optic vesicle",
+      "Surface ectoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The optic vesicle (outgrowth of diencephalon) induces the overlying surface ectoderm to thicken and form the lens placode, which then invaginates to form the lens vesicle.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 19"
+  },
+  {
+    "id": "embryology-20",
+    "question": "The interventricular septum is primarily formed by the growth of:",
+    "options": [
+      "Muscular ventricular septum",
+      "Membranous septum",
+      "Endocardial cushions",
+      "Bulbar ridges"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The muscular interventricular septum grows upward from the floor of the primitive ventricle. The membranous portion is formed later by fusion of endocardial cushions and bulbar ridges.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-21",
+    "question": "The notochord is the precursor of which adult structure?",
+    "options": [
+      "Spinal cord",
+      "Vertebral bodies",
+      "Nucleus pulposus",
+      "Intervertebral discs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The notochord regresses but persists as the nucleus pulposus of the intervertebral discs. The vertebral bodies develop from somites surrounding the notochord.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 8"
+  },
+  {
+    "id": "embryology-22",
+    "question": "Which germ layer gives rise to the dentin of teeth?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Neural crest cells migrate into the developing jaws and differentiate into odontoblasts, which produce dentin. The enamel organ is derived from ectoderm.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 17"
+  },
+  {
+    "id": "embryology-23",
+    "question": "The physiological umbilical herniation occurs during which period?",
+    "options": [
+      "Week 4-6",
+      "Week 6-10",
+      "Week 8-12",
+      "Week 10-12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Physiological umbilical herniation occurs during weeks 6-10, when the rapidly growing midgut loop protrudes into the umbilical cord due to insufficient space in the abdominal cavity.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-24",
+    "question": "The aorticopulmonary septum is derived from:",
+    "options": [
+      "Neural crest cells",
+      "Endocardial cushions",
+      "Somites",
+      "Splanchnic mesoderm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Neural crest cells migrate into the truncus arteriosus and bulbus cordis to form the aorticopulmonary septum, which divides the truncus into aorta and pulmonary trunk.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-25",
+    "question": "Which structure gives rise to the ureteric bud?",
+    "options": [
+      "Mesonephric duct",
+      "Metanephric mesoderm",
+      "Paramesonephric duct",
+      "Urogenital sinus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ureteric bud arises as an outgrowth from the mesonephric (wolffian) duct and induces the metanephric mesoderm to form the definitive kidney.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-26",
+    "question": "The primitive streak appears during which embryonic week?",
+    "options": [
+      "Week 1",
+      "Week 2",
+      "Week 3",
+      "Week 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The primitive streak appears at the beginning of the third week and establishes the craniocaudal axis. It is the site of gastrulation where epiblast cells ingress to form the definitive germ layers.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "embryology-27",
+    "question": "Which pharyngeal arch cartilage gives rise to Meckel's cartilage?",
+    "options": [
+      "First arch",
+      "Second arch",
+      "Third arch",
+      "Fourth arch"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Meckel's cartilage is derived from the first pharyngeal arch and forms the mandible, malleus, and incus. Reichert's cartilage from the second arch forms the stapes and styloid process.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-28",
+    "question": "The allantois is involved in the development of:",
+    "options": [
+      "Liver",
+      "Urinary bladder",
+      "Umbilical cord",
+      "Both urinary bladder and umbilical cord"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The allantois contributes to the development of the urinary bladder (urachus) and is involved in the formation of the umbilical cord, containing the allantoic vessels that become umbilical vessels.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "embryology-29",
+    "question": "The most common congenital heart defect is:",
+    "options": [
+      "Tetralogy of Fallot",
+      "Ventricular septal defect",
+      "Atrial septal defect",
+      "Patent ductus arteriosus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ventricular septal defect (VSD) is the most common congenital heart defect, accounting for about 30% of all congenital heart diseases.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-30",
+    "question": "The paramesonephric (Müllerian) ducts develop into which structures in females?",
+    "options": [
+      "Fallopian tubes, uterus, upper vagina",
+      "Ovaries, fallopian tubes, uterus",
+      "Uterus, cervix, entire vagina",
+      "Fallopian tubes, ovaries, upper vagina"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The paramesonephric ducts develop into the fallopian tubes, uterus, and upper portion of the vagina in females. They regress in males under the influence of Müllerian inhibiting factor (MIF).",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-31",
+    "question": "The neural crest contributes to the development of which heart structure?",
+    "options": [
+      "Myocardium",
+      "Endocardium",
+      "Aorticopulmonary septum",
+      "Cardiac valves"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Neural crest cells migrate into the cardiac outflow tract and form the aorticopulmonary septum, which divides the truncus arteriosus into aorta and pulmonary trunk.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-32",
+    "question": "The buccopharyngeal membrane breaks down during which embryonic week?",
+    "options": [
+      "Week 2",
+      "Week 3",
+      "Week 4",
+      "Week 5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The buccopharyngeal membrane breaks down at the beginning of the 4th week, establishing communication between the amniotic cavity and primitive gut.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-33",
+    "question": "Which structure is derived from the metanephros?",
+    "options": [
+      "Pronephros",
+      "Mesonephros",
+      "Definitive kidney",
+      "Urogenital sinus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The metanephros develops into the definitive kidney. The pronephros and mesonephros are transient embryonic kidneys that regress.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-34",
+    "question": "The hindgut is supplied by which artery?",
+    "options": [
+      "Celiac artery",
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Umbilical artery"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The hindgut (distal 1/3 of transverse colon to upper anal canal) is supplied by the inferior mesenteric artery.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-35",
+    "question": "Which germ layer gives rise to the adrenal cortex?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The adrenal cortex develops from mesoderm (specifically mesothelial cells), while the adrenal medulla develops from neural crest cells.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-36",
+    "question": "The foramen ovale allows blood to pass from:",
+    "options": [
+      "Right atrium to left atrium",
+      "Left atrium to right atrium",
+      "Right ventricle to left ventricle",
+      "Left ventricle to right ventricle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The foramen ovale allows oxygenated blood from the placenta to pass from the right atrium to the left atrium, bypassing the pulmonary circulation.",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-37",
+    "question": "Which structure develops from the telencephalon?",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Cerebral hemispheres",
+      "Midbrain"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The telencephalon gives rise to the cerebral hemispheres. The diencephalon gives rise to thalamus and hypothalamus, while the mesencephalon forms the midbrain.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 18"
+  },
+  {
+    "id": "embryology-38",
+    "question": "The most common site of ectopic pregnancy is:",
+    "options": [
+      "Ovary",
+      "Abdominal cavity",
+      "Uterine tube",
+      "Cervix"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The ampulla of the uterine (fallopian) tube is the most common site of ectopic pregnancy, accounting for about 80% of cases.",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "embryology-39",
+    "question": "Which pharyngeal pouch gives rise to the palatine tonsil?",
+    "options": [
+      "First pouch",
+      "Second pouch",
+      "Third pouch",
+      "Fourth pouch"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The second pharyngeal pouch gives rise to the palatine tonsil. The endoderm of the pouch forms the tonsillar crypts, while the mesoderm forms the lymphoid tissue.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-40",
+    "question": "The vitelline duct normally obliterates during which period?",
+    "options": [
+      "Week 4-6",
+      "Week 6-8",
+      "Week 8-10",
+      "Week 10-12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The vitelline duct (yolk stalk) normally obliterates during weeks 6-8. Persistence can result in Meckel's diverticulum.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-41",
+    "question": "The sinoatrial node develops from which embryonic structure?",
+    "options": [
+      "Sinus venosus",
+      "Primitive atrium",
+      "Primitive ventricle",
+      "Bulbus cordis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The sinoatrial (SA) node develops from the right sinus venosus. The atrioventricular (AV) node develops from the atrioventricular canal.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-42",
+    "question": "Which structure is derived from the surface ectoderm?",
+    "options": [
+      "Lens of eye",
+      "Retina",
+      "Optic nerve",
+      "Vitreous body"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The lens of the eye develops from surface ectoderm. The retina and optic nerve develop from neural ectoderm (optic vesicle).",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 19"
+  },
+  {
+    "id": "embryology-43",
+    "question": "The umbilical vein becomes which structure after birth?",
+    "options": [
+      "Ligamentum teres",
+      "Ligamentum venosum",
+      "Medial umbilical ligament",
+      "Lateral umbilical ligament"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The umbilical vein becomes the ligamentum teres hepatis after birth. The ductus venosus becomes the ligamentum venosum.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-44",
+    "question": "Which germ layer gives rise to the spleen?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The spleen develops from mesenchymal cells in the dorsal mesogastrium, which is derived from mesoderm.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-45",
+    "question": "The most critical period for teratogen-induced malformations is:",
+    "options": [
+      "Weeks 1-2",
+      "Weeks 3-8",
+      "Weeks 9-12",
+      "Weeks 13-16"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The embryonic period (weeks 3-8) is the most critical for teratogen-induced malformations, as this is when organogenesis occurs. Weeks 1-2 typically result in all-or-none effects.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 9"
+  },
+  {
+    "id": "embryology-46",
+    "question": "Which structure develops from the mesonephric (wolffian) duct in males?",
+    "options": [
+      "Seminal vesicles",
+      "Prostate gland",
+      "Bulbourethral glands",
+      "Urethra"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The mesonephric duct gives rise to the epididymis, vas deferens, seminal vesicles, and ejaculatory ducts in males. It regresses in females.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-47",
+    "question": "The neural tube defect spina bifida occulta results from failure of:",
+    "options": [
+      "Primary neurulation",
+      "Secondary neurulation",
+      "Neural crest migration",
+      "Somite formation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spina bifida occulta results from failure of the vertebral arches to fuse properly during primary neurulation, but the spinal cord and meninges remain intact.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 18"
+  },
+  {
+    "id": "embryology-48",
+    "question": "Which structure is derived from the endoderm of the first pharyngeal pouch?",
+    "options": [
+      "Tympanic cavity",
+      "External auditory meatus",
+      "Pinna",
+      "Tympanic membrane"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The first pharyngeal pouch endoderm forms the tubotympanic recess, which develops into the tympanic cavity and auditory tube. The first pharyngeal cleft forms the external auditory meatus.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-49",
+    "question": "The ductus venosus allows blood to bypass which organ?",
+    "options": [
+      "Placenta",
+      "Liver",
+      "Lungs",
+      "Kidneys"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ductus venosus allows oxygenated blood from the umbilical vein to bypass the hepatic circulation and flow directly into the inferior vena cava.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-50",
+    "question": "Which structure develops from the roof of the diencephalon?",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Pineal gland",
+      "Pituitary gland"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pineal gland develops as an evagination from the roof of the diencephalon. The pituitary gland has dual origin from Rathke's pouch (oral ectoderm) and diencephalon.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 18"
+  },
+  {
+    "id": "embryology-51",
+    "question": "The most common chromosomal abnormality causing spontaneous abortion is:",
+    "options": [
+      "Trisomy 21",
+      "Turner syndrome",
+      "Trisomy 16",
+      "Klinefelter syndrome"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trisomy 16 is the most common chromosomal abnormality in first-trimester spontaneous abortions, though it's rarely seen in live births.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 21"
+  },
+  {
+    "id": "embryology-52",
+    "question": "Which germ layer gives rise to the epithelial lining of the urinary bladder?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The epithelial lining of the urinary bladder develops from the endoderm of the urogenital sinus. The muscular layers develop from surrounding mesoderm.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-53",
+    "question": "The primitive heart tube undergoes looping during which embryonic week?",
+    "options": [
+      "Week 3",
+      "Week 4",
+      "Week 5",
+      "Week 6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cardiac looping occurs during the 4th week, establishing the basic configuration of the heart chambers and great vessels.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 12"
+  },
+  {
+    "id": "embryology-54",
+    "question": "Which structure is derived from neural crest cells?",
+    "options": [
+      "Anterior pituitary",
+      "Posterior pituitary",
+      "Adrenal cortex",
+      "Adrenal medulla"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The adrenal medulla develops from neural crest cells, while the adrenal cortex develops from mesoderm. The pituitary has dual ectodermal origin.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-55",
+    "question": "The hindgut extends from which point to the cloacal membrane?",
+    "options": [
+      "Duodenum",
+      "Jejunum",
+      "Distal 1/3 of transverse colon",
+      "Sigmoid colon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The hindgut extends from the distal 1/3 of the transverse colon to the upper portion of the anal canal (proximal to the pectinate line).",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-56",
+    "question": "Which structure develops from the stomodeum?",
+    "options": [
+      "Oral cavity",
+      "Nasal cavity",
+      "Pharynx",
+      "Larynx"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The stomodeum (primitive mouth) is an ectodermal depression that gives rise to the oral cavity. The rupture of the buccopharyngeal membrane connects it to the foregut.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-57",
+    "question": "The most common type of twinning is:",
+    "options": [
+      "Monozygotic",
+      "Dizygotic",
+      "Conjoined",
+      "Monoamniotic monochorionic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dizygotic (fraternal) twinning is the most common type, resulting from fertilization of two separate ova. The rate varies by population and maternal age.",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "embryology-58",
+    "question": "Which structure gives rise to the alveolar cells of the lung?",
+    "options": [
+      "Mesoderm",
+      "Endoderm",
+      "Ectoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The epithelial lining of the respiratory tract, including type I and type II alveolar cells, develops from endoderm. The connective tissue and vasculature develop from mesoderm.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-59",
+    "question": "The umbilical arteries become which structures after birth?",
+    "options": [
+      "Ligamentum teres",
+      "Medial umbilical ligaments",
+      "Lateral umbilical ligaments",
+      "Round ligaments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The umbilical arteries become the medial umbilical ligaments after birth. The proximal portions remain as superior vesical arteries.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-60",
+    "question": "Which germ layer gives rise to the myocardium?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The myocardium (heart muscle) develops from splanchnic mesoderm surrounding the heart tube. The endocardium develops from endothelial cells.",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 12"
+  },
+  {
+    "id": "embryology-61",
+    "question": "The anal canal above the pectinate line is derived from:",
+    "options": [
+      "Ectoderm",
+      "Endoderm",
+      "Mesoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The anal canal above the pectinate line is derived from endoderm (hindgut), while below the pectinate line it's derived from ectoderm (proctodeum).",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-62",
+    "question": "Which structure induces formation of the otic placode?",
+    "options": [
+      "Rhombencephalon",
+      "Mesencephalon",
+      "Diencephalon",
+      "Telencephalon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The rhombencephalon (hindbrain) induces the overlying surface ectoderm to form the otic placodes, which invaginate to form otic vesicles (primordia of inner ear).",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 19"
+  },
+  {
+    "id": "embryology-63",
+    "question": "The most common cause of congenital hypothyroidism is:",
+    "options": [
+      "Thyroid dysgenesis",
+      "Thyroid dyshormonogenesis",
+      "Maternal antibodies",
+      "Iodine deficiency"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Thyroid dysgenesis (including agenesis, hypoplasia, or ectopic thyroid) is the most common cause of congenital hypothyroidism.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-64",
+    "question": "Which structure develops from the mesonephros?",
+    "options": [
+      "Definitive kidney",
+      "Gonads",
+      "Mesonephric duct",
+      "Metanephric blastema"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The mesonephros gives rise to the mesonephric (wolffian) duct, which contributes to the male reproductive system. The mesonephric tubules mostly regress.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-65",
+    "question": "The amniotic cavity develops from which cell layer?",
+    "options": [
+      "Cytotrophoblast",
+      "Syncytiotrophoblast",
+      "Epiblast",
+      "Hypoblast"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The amniotic cavity develops within the epiblast layer. The amniotic membrane is formed by amnioblasts derived from the epiblast.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "embryology-66",
+    "question": "Which germ layer gives rise to the enamel of teeth?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The enamel of teeth is derived from ectoderm (enamel organ). Dentin, cementum, and pulp are derived from neural crest mesenchyme.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 17"
+  },
+  {
+    "id": "embryology-67",
+    "question": "The ductus arteriosus normally closes:",
+    "options": [
+      "Within hours after birth",
+      "Within days after birth",
+      "Within weeks after birth",
+      "Within months after birth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ductus arteriosus normally functionally closes within 24-48 hours after birth and anatomically closes within 2-3 weeks, becoming the ligamentum arteriosum.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-68",
+    "question": "Which structure develops from the Rathke's pouch?",
+    "options": [
+      "Posterior pituitary",
+      "Anterior pituitary",
+      "Pineal gland",
+      "Hypothalamus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rathke's pouch, an outgrowth of the stomodeum (oral ectoderm), gives rise to the anterior pituitary (adenohypophysis). The posterior pituitary develops from the diencephalon.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 18"
+  },
+  {
+    "id": "embryology-69",
+    "question": "The most common site of a thyroglossal duct cyst is:",
+    "options": [
+      "Sublingual",
+      "Suprahyoid",
+      "Infrahyoid",
+      "Substernal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Thyroglossal duct cysts are most commonly located infrahyoid, in the midline, and move with swallowing due to their attachment to the hyoid bone.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 16"
+  },
+  {
+    "id": "embryology-70",
+    "question": "Which germ layer gives rise to the dermis?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "explanation": "The dermis develops from mesoderm (specifically the dermatomes of somites). The epidermis develops from ectoderm.",
+    "correctAnswer": 1,
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 8"
+  },
+  {
+    "id": "embryology-71",
+    "question": "The primitive streak regresses during which embryonic week?",
+    "options": [
+      "Week 3",
+      "Week 4",
+      "Week 5",
+      "Week 6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The primitive streak regresses and disappears by the end of the 4th week. Persistence can result in sacrococcygeal teratoma.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 5"
+  },
+  {
+    "id": "embryology-72",
+    "question": "Which structure develops from the urogenital sinus?",
+    "options": [
+      "Ureters",
+      "Kidneys",
+      "Urinary bladder",
+      "Gonads"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The urogenital sinus gives rise to the urinary bladder, urethra (except most distal part in females), and in males, the prostate gland and bulbourethral glands.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-73",
+    "question": "The most common congenital anomaly of the gastrointestinal tract is:",
+    "options": [
+      "Meckel's diverticulum",
+      "Hirschsprung disease",
+      "Pyloric stenosis",
+      "Esophageal atresia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Meckel's diverticulum, resulting from persistence of the vitelline duct, is the most common congenital anomaly of the GI tract, affecting about 2% of the population.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-74",
+    "question": "Which germ layer gives rise to the lining of the peritoneal cavity?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The peritoneal lining develops from mesoderm (specifically the lateral plate mesoderm). The mesothelium of all body cavities is mesodermal in origin.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 8"
+  },
+  {
+    "id": "embryology-75",
+    "question": "The foramen secundum forms in which structure?",
+    "options": [
+      "Septum primum",
+      "Septum secundum",
+      "Endocardial cushions",
+      "Sinus venosus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The foramen secundum forms in the septum primum as the foramen primum closes. This maintains right-to-left shunting during fetal development.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 13"
+  },
+  {
+    "id": "embryology-76",
+    "question": "Which structure develops from the metanephric blastema?",
+    "options": [
+      "Ureteric bud",
+      "Collecting ducts",
+      "Nephrons",
+      "Renal pelvis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The metanephric blastema (mesenchyme) gives rise to the nephrons (glomeruli, proximal and distal tubules, loops of Henle). The ureteric bud gives rise to the collecting system.",
+    "topic": "embryology",
+    "difficulty": "hard",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 14"
+  },
+  {
+    "id": "embryology-77",
+    "question": "The most sensitive period for radiation-induced teratogenesis is:",
+    "options": [
+      "Weeks 1-2",
+      "Weeks 3-8",
+      "Weeks 8-15",
+      "Weeks 15-25"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Weeks 3-8 (embryonic period) are the most sensitive for radiation-induced teratogenesis, as this is when organogenesis occurs and cells are rapidly dividing.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 9"
+  },
+  {
+    "id": "embryology-78",
+    "question": "Which germ layer gives rise to the epithelial lining of the gallbladder?",
+    "options": [
+      "Ectoderm",
+      "Mesoderm",
+      "Endoderm",
+      "Neural crest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The epithelial lining of the gallbladder and biliary system develops from endoderm of the hepatic diverticulum.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 15"
+  },
+  {
+    "id": "embryology-79",
+    "question": "The umbilical cord is derived from which embryonic structure?",
+    "options": [
+      "Body stalk",
+      "Yolk sac",
+      "Amnion",
+      "Allantois"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The umbilical cord develops from the body stalk, which contains the allantois and umbilical vessels. The amnion expands to cover the body stalk.",
+    "topic": "embryology",
+    "difficulty": "medium",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 7"
+  },
+  {
+    "id": "embryology-80",
+    "question": "Which structure develops from the neural tube?",
+    "options": [
+      "Spinal cord",
+      "Spinal ganglia",
+      "Adrenal medulla",
+      "Schwann cells"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The neural tube gives rise to the brain and spinal cord (CNS). The neural crest gives rise to spinal ganglia, adrenal medulla, and Schwann cells (PNS components).",
+    "topic": "embryology",
+    "difficulty": "easy",
+    "reference": "Langman's Medical Embryology, 14th Edition, Chapter 18"
+  }
+]

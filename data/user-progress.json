@@ -1,0 +1,47 @@
+{
+  "subjects": {
+    "anatomy": {
+      "attempted": 0,
+      "correct": 0,
+      "accuracy": 0,
+      "lastActive": null,
+      "topics": {}
+    },
+    "physiology": {
+      "attempted": 0,
+      "correct": 0,
+      "accuracy": 0,
+      "lastActive": null,
+      "topics": {}
+    },
+    "biochemistry": {
+      "attempted": 0,
+      "correct": 0,
+      "accuracy": 0,
+      "lastActive": null,
+      "topics": {}
+    }
+  },
+  "topics": {},
+  "weakAreas": [],
+  "quizHistory": [],
+  "questionPerformance": {},
+  "totalQuizzes": 0,
+  "totalQuestionsAttempted": 0,
+  "overallAccuracy": 0,
+  "studyStreak": 0,
+  "lastActive": null,
+  "preferences": {
+    "defaultQuestionCount": 30,
+    "defaultQuizMode": "practice",
+    "showExplanations": true,
+    "enableSounds": false,
+    "darkMode": false
+  },
+  "achievements": {
+    "quizzesCompleted": 0,
+    "perfectScores": 0,
+    "topicsMastered": 0,
+    "studyStreakRecord": 0
+  }
+}
